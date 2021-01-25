@@ -44,6 +44,7 @@ class MyTk():
         self.button5.place(x=10, y=240)
         self.button6.place(x=10, y=280)
         self.update()    
+        self.updateTextMatch()    
         self.window.mainloop()
     	
     def update(self):
@@ -55,6 +56,12 @@ class MyTk():
         #print(rr)
         #self.label.config(text=rr + " : "+ r + "%")
         self.window.after(1000, self.update)
+
+    def updateTextMatch(self):
+        r = self.wl[0].get_text()
+        print(rr)
+        self.label.config(text=rr + " : "+ r + "%")
+        self.window.after(10000, self.updateTextMatch)
 
     def btn_stop(self):
         self.log("click stop!");
