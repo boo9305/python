@@ -9,6 +9,8 @@ btn_pos['exit-normal'] = (928, 58) # 기본 종료 버튼
 
 btn_pos['title-no'] = (419, 356) # 타이틀로가기 취소
 
+btn_pos['menu-expr'] = (24,294)
+btn_pos['menu-dogam'] = (24,342)
 
 btn_pos['ski1'] = (737, 412) # 왼쪽 상단
 btn_pos['ski2'] = (794, 410)

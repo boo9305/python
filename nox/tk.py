@@ -58,6 +58,7 @@ class MyTk():
         self.window.after(1000, self.update)
 
     def updateTextMatch(self):
+        rr = self.wl[0].get_normal()
         r = self.wl[0].get_text()
         print(rr)
         self.label.config(text=rr + " : "+ r + "%")
