@@ -68,6 +68,47 @@ def mouse_event(event, x,y,flags,param):
         print('btn_pos[\'\'] = (%d, %d) ' %(x,y))
         #win32.mouse_click(h,x,y)
 
+class WindowMacro2() :
+    def __init__(self, title, isShow=False):
+        self.macro_list = None;
+        self.macro_name = ""
+        self.macro = None;
+
+        self.isShow = isShow;
+    
+        self.title = "cv" + title 
+        if self.isShow:
+            cv2.namedWindow(self.title)
+            cv2.moveWindow(self.title,800,100)
+            cv2.setMouseCallback(self.title,mouse_event)
+        self.h = win32.get_window(title) # dosa
+    
+    def set_macro(self, name, macro_list) :
+        self.title = title;
+        self.macro_name = name;
+        self.macro_list = macro_list;
+        self.macro = Macro(self.h, name, self.macro_list)
+
+    def stop(self):
+        self.macro = None
+
+    def run2(self):
+        if self.macro:
+            if macro.end() :
+                self.macro = None;
+                return;
+            else :
+                macro.run()
+
+        if self.isShow:        
+            img = capture.window_capture(self.h)  
+            cv2.imshow(self.title,img)
+            key = cv2.waitKey(1)        
+        
+    def exit(self):
+        cv2.destroyAllWindows()
+        exit()
+
 
 class WindowMacro():
     
@@ -105,6 +146,10 @@ class WindowMacro():
         return r;
             #cv2.imshow(self.title,img)
             #key = cv2.waitKey(1)      
+    def set_macro(self, title, macro_list) :
+        self.title = title;
+        self.macro_list = macro_list;
+
     def stop(self):
         self.action = {}
 
@@ -146,119 +191,6 @@ class WindowMacro():
         cv2.destroyAllWindows()
         exit()
 
-class Loop():
-    key = ""
+if __name__ == "__main__" :
+    w = WindowMacro2()
     
- #   start_hunting = time.time()
- #   start_recovery = time.time()
-    
-    action = {}
-
-    def __init__(self):
-        cv2.namedWindow('window')
-        cv2.setMouseCallback('window',mouse_event)
-        
-        self.h1 = win32.get_window('NoxPlayer1') # dosa
-        self.h2 = win32.get_window('NoxPlayer2') # dosa
-        self.h3 = win32.get_window('NoxPlayer3') # dosa
-        self.h4 = win32.get_window('NoxPlayer4') # dosa
-        
-        #self.action['hunt'] = {'delay' : 1 , 'timer' : time.time() , 'm' : None }
-        #action['hunting'] = {'delay' : 3 , 'timer' : time.time() , 'm' : None }
-        #self.action['recovery'] = {'delay' : 3 , 'timer' : time.time() , 'm' : None }
-        #self.action['dogam'] = {'delay' : 1 , 'timer' : time.time() , 'm' : None }
-        self.now_action = ""
-
-    def set_action(self, key, value):
-        self.action[key] = value;
-        print(key, value)
-
-    def run(self):
-        key = ''
-        #while h1:
-        for k, v in self.action.items():
-            print(len(self.action))
-            if self.now_action != '' and self.now_action != k:
-                continue;
-            if len(v['m']) != 0:
-                for m in v['m']:
-                    if m.end():
-                        v['timer'] = time.time();
-                        v['repeat'] -= 1
-                        now_action = ''
-                        v['m'].remove(m)
-                    else :    
-                        m.run()
-            else :
-                delay = time.time() - v['timer'] ;
-                print("%s delay %d..." % (k,delay))
-                
-                if delay > v['delay'] and v['repeat'] > 0 :
-                    if k == 'sell_expr':
-                        v['m'].append(Macro(self.h1, k, pos.action['sell_expr1']))
-                        v['m'].append(Macro(self.h2, k, pos.action['sell_expr2']))
-                        v['m'].append(Macro(self.h3, k, pos.action['sell_expr3']))
-                        v['m'].append(Macro(self.h4, k, pos.action['sell_expr4']))
-
-                    else:
-                        v['m'].append(Macro(self.h1, k, pos.action[k]))
-                        v['m'].append(Macro(self.h2, k, pos.action[k]))
-                        v['m'].append(Macro(self.h3, k, pos.action[k]))
-                        v['m'].append(Macro(self.h4, k, pos.action[k]))
-
-                    self.now_action = k
-                    
-        img = capture.window_capture(self.h1)  
-        r = match.dogam(img)
-        cv2.imshow('window',img)
-        key = cv2.waitKey(1)        
-        
-        if key == ord('q') :  # 'q' exit
-            print('q click')
-            cv2.destroyAllWindows()
-            exit()
-
-        return r
-    def exit(self):
-        cv2.destroyAllWindows()
-        exit()
-
-# macro class instance
-if __name__ == '__main__' :
-    l = Loop();
-    l.run();
-
-
-        # elif key == ord('h') : # 'h' home event
-        #     home();
-        # elif key == ord('n') : # 'n' end macro
-        #     m = None;
-        # elif key == ord('m') : # 'm' run marco
-        #     m = Macro(h);
-
-
-        
-        #hp_mp_bar(img)
-        #exp_bar(img)
-        #map_text(img)
-
-        #cv2.rectangle(img, (58,50), (200,85) , (255,0,255), 3)
-
-        #cv2.imshow('w', img)
-        #cv2.waitKey(1000)
-        #plt.imshow(img),plt.show()
-
-        #win32.mouse_click(h, 761,73)
-        #match.text_match('m4')
-        #win32.keyboard_click(h, 'w')
-        #match.match('m2', c)
-        
-        
-
-        #pid = os.getpid()
-        #current_process = psutil.Process(pid)
-        #current_process_memory_usage_as_KB = current_process.memory_info()[0] / 2.**20
-        #print(f"BEFORE CODE: Current memory KB   : {current_process_memory_usage_as_KB: 9.3f} KB")
-
-    #cv2.imshow('c',c)
-    #cv2.waitKey()

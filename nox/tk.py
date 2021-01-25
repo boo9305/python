@@ -6,7 +6,6 @@ class MyTk():
     def __init__(self):
         
         self.count = 0 
-        #self.loop = m1.Loop()
 
         w1 = m1.WindowMacro('NoxPlayer1', isShow=True)
         w2 = m1.WindowMacro('NoxPlayer2')
