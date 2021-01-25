@@ -1,0 +1,1275 @@
+0 {'@type': 'ListItem', 'position': 1, 'item': {'@type': 'TVSeries', 'name': '스위트홈', 'url': 'https://www.netflix.com/kr/title/81061734'}}
+1 {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'TVSeries', 'name': '경이로운 소문', 'url': 'https://www.netflix.com/kr/title/81323551'}}
+2 {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'TVSeries', 'name': '사랑의 불시착', 'url': 'https://www.netflix.com/kr/title/81159258'}}
+3 {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'TVSeries', 'name': '킹덤', 'url': 'https://www.netflix.com/kr/title/80180171'}}
+4 {'@type': 'ListItem', 'position': 5, 'item': {'@type': 'TVSeries', 'name': '시그널', 'url': 'https://www.netflix.com/kr/title/80987077'}}
+5 {'@type': 'ListItem', 'position': 6, 'item': {'@type': 'TVSeries', 'name': '미생', 'url': 'https://www.netflix.com/kr/title/80165295'}}
+6 {'@type': 'ListItem', 'position': 7, 'item': {'@type': 'TVSeries', 'name': '응답하라 1988', 'url': 'https://www.netflix.com/kr/title/80188351'}}
+7 {'@type': 'ListItem', 'position': 8, 'item': {'@type': 'TVSeries', 'name': '비밀의 숲', 'url': 'https://www.netflix.com/kr/title/80187302'}}
+8 {'@type': 'ListItem', 'position': 9, 'item': {'@type': 'TVSeries', 'name': '도깨비', 'url': 'https://www.netflix.com/kr/title/81012510'}}
+9 {'@type': 'ListItem', 'position': 10, 'item': {'@type': 'TVSeries', 'name': '슬기로운 의사생활', 'url': 'https://www.netflix.com/kr/title/81239224'}}
+10 {'@type': 'ListItem', 'position': 11, 'item': {'@type': 'TVSeries', 'name': '별에서 온 그대', 'url': 'https://www.netflix.com/kr/title/80025266'}}
+11 {'@type': 'ListItem', 'position': 12, 'item': {'@type': 'TVSeries', 'name': '나의 아저씨', 'url': 'https://www.netflix.com/kr/title/81267691'}}
+12 {'@type': 'ListItem', 'position': 13, 'item': {'@type': 'TVSeries', 'name': '멜로가 체질', 'url': 'https://www.netflix.com/kr/title/81211284'}}
+13 {'@type': 'ListItem', 'position': 14, 'item': {'@type': 'TVSeries', 'name': '스타트업', 'url': 'https://www.netflix.com/kr/title/81290293'}}
+14 {'@type': 'ListItem', 'position': 15, 'item': {'@type': 'TVSeries', 'name': '응답하라 1994', 'url': 'https://www.netflix.com/kr/title/80165487'}}
+15 {'@type': 'ListItem', 'position': 16, 'item': {'@type': 'TVSeries', 'name': '런 온', 'url': 'https://www.netflix.com/kr/title/81318872'}}
+16 {'@type': 'ListItem', 'position': 17, 'item': {'@type': 'TVSeries', 'name': 'SKY 캐슬', 'url': 'https://www.netflix.com/kr/title/81030062'}}
+17 {'@type': 'ListItem', 'position': 18, 'item': {'@type': 'TVSeries', 'name': '18 어게인', 'url': 'https://www.netflix.com/kr/title/81350913'}}
+18 {'@type': 'ListItem', 'position': 19, 'item': {'@type': 'TVSeries', 'name': '달의 연인 - 보보경심 려', 'url': 'https://www.netflix.com/kr/title/80156759'}}
+19 {'@type': 'ListItem', 'position': 20, 'item': {'@type': 'TVSeries', 'name': '미스터 션샤인', 'url': 'https://www.netflix.com/kr/title/80991107'}}
+20 {'@type': 'ListItem', 'position': 21, 'item': {'@type': 'TVSeries', 'name': '이태원 클라쓰', 'url': 'https://www.netflix.com/kr/title/81193309'}}
+21 {'@type': 'ListItem', 'position': 22, 'item': {'@type': 'TVSeries', 'name': '슬기로운 감빵생활', 'url': 'https://www.netflix.com/kr/title/80214406'}}
+22 {'@type': 'ListItem', 'position': 23, 'item': {'@type': 'TVSeries', 'name': '또! 오해영', 'url': 'https://www.netflix.com/kr/title/81077044'}}
+23 {'@type': 'ListItem', 'position': 24, 'item': {'@type': 'TVSeries', 'name': '이번 생은 처음이라', 'url': 'https://www.netflix.com/kr/title/81167119'}}
+24 {'@type': 'ListItem', 'position': 25, 'item': {'@type': 'TVSeries', 'name': '사이코지만 괜찮아', 'url': 'https://www.netflix.com/kr/title/81243992'}}
+25 {'@type': 'ListItem', 'position': 26, 'item': {'@type': 'TVSeries', 'name': '김비서가 왜 그럴까', 'url': 'https://www.netflix.com/kr/title/81030241'}}
+26 {'@type': 'ListItem', 'position': 27, 'item': {'@type': 'TVSeries', 'name': '좋아하면 울리는', 'url': 'https://www.netflix.com/kr/title/80168068'}}
+27 {'@type': 'ListItem', 'position': 28, 'item': {'@type': 'TVSeries', 'name': '인간수업', 'url': 'https://www.netflix.com/kr/title/80990668'}}
+28 {'@type': 'ListItem', 'position': 29, 'item': {'@type': 'TVSeries', 'name': '아는 와이프', 'url': 'https://www.netflix.com/kr/title/81267743'}}
+29 {'@type': 'ListItem', 'position': 30, 'item': {'@type': 'TVSeries', 'name': '괜찮아 사랑이야', 'url': 'https://www.netflix.com/kr/title/80031632'}}
+30 {'@type': 'ListItem', 'position': 31, 'item': {'@type': 'TVSeries', 'name': '백일의 낭군님', 'url': 'https://www.netflix.com/kr/title/81267722'}}
+31 {'@type': 'ListItem', 'position': 32, 'item': {'@type': 'TVSeries', 'name': '우아한 가', 'url': 'https://www.netflix.com/kr/title/81370670'}}
+32 {'@type': 'ListItem', 'position': 33, 'item': {'@type': 'TVSeries', 'name': '뷰티 인사이드', 'url': 'https://www.netflix.com/kr/title/81029990'}}
+33 {'@type': 'ListItem', 'position': 34, 'item': {'@type': 'TVSeries', 'name': '내 아이디는 강남미인', 'url': 'https://www.netflix.com/kr/title/81030026'}}
+34 {'@type': 'ListItem', 'position': 35, 'item': {'@type': 'TVSeries', 'name': '나쁜 녀석들', 'url': 'https://www.netflix.com/kr/title/80178427'}}
+35 {'@type': 'ListItem', 'position': 36, 'item': {'@type': 'TVSeries', 'name': '응답하라 1997', 'url': 'https://www.netflix.com/kr/title/70297144'}}
+36 {'@type': 'ListItem', 'position': 37, 'item': {'@type': 'TVSeries', 'name': '라이브', 'url': 'https://www.netflix.com/kr/title/80214523'}}
+37 {'@type': 'ListItem', 'position': 38, 'item': {'@type': 'TVSeries', 'name': '오 나의 귀신님', 'url': 'https://www.netflix.com/kr/title/80178404'}}
+38 {'@type': 'ListItem', 'position': 39, 'item': {'@type': 'TVSeries', 'name': '동백꽃 필 무렵', 'url': 'https://www.netflix.com/kr/title/81144925'}}
+39 {'@type': 'ListItem', 'position': 40, 'item': {'@type': 'TVSeries', 'name': '보이스', 'url': 'https://www.netflix.com/kr/title/80987095'}}
+40 {'@type': 'ListItem', 'position': 41, 'item': {'@type': 'TVSeries', 'name': '힘쎈 여자 도봉순', 'url': 'https://www.netflix.com/kr/title/80198001'}}
+41 {'@type': 'ListItem', 'position': 42, 'item': {'@type': 'TVSeries', 'name': '치즈 인 더 트랩', 'url': 'https://www.netflix.com/kr/title/81166946'}}
+42 {'@type': 'ListItem', 'position': 43, 'item': {'@type': 'TVSeries', 'name': '눈이 부시게', 'url': 'https://www.netflix.com/kr/title/81211166'}}
+43 {'@type': 'ListItem', 'position': 44, 'item': {'@type': 'TVSeries', 'name': '청춘시대', 'url': 'https://www.netflix.com/kr/title/80128686'}}
+44 {'@type': 'ListItem', 'position': 45, 'item': {'@type': 'TVSeries', 'name': '으라차차 와이키키', 'url': 'https://www.netflix.com/kr/title/81029926'}}
+45 {'@type': 'ListItem', 'position': 46, 'item': {'@type': 'TVSeries', 'name': '더케이투', 'url': 'https://www.netflix.com/kr/title/80188730'}}
+46 {'@type': 'ListItem', 'position': 47, 'item': {'@type': 'TVSeries', 'name': '모범형사', 'url': 'https://www.netflix.com/kr/title/81323914'}}
+47 {'@type': 'ListItem', 'position': 48, 'item': {'@type': 'TVSeries', 'name': '기황후', 'url': 'https://www.netflix.com/kr/title/80093324'}}
+48 {'@type': 'ListItem', 'position': 49, 'item': {'@type': 'TVSeries', 'name': '명불허전', 'url': 'https://www.netflix.com/kr/title/81167137'}}
+49 {'@type': 'ListItem', 'position': 50, 'item': {'@type': 'TVSeries', 'name': '부부의 세계', 'url': 'https://www.netflix.com/kr/title/81287006'}}
+50 {'@type': 'ListItem', 'position': 51, 'item': {'@type': 'TVSeries', 'name': '손 the guest', 'url': 'https://www.netflix.com/kr/title/81267787'}}
+51 {'@type': 'ListItem', 'position': 52, 'item': {'@type': 'TVSeries', 'name': '보건교사 안은영', 'url': 'https://www.netflix.com/kr/title/80209129'}}
+52 {'@type': 'ListItem', 'position': 53, 'item': {'@type': 'TVSeries', 'name': '성균관 스캔들', 'url': 'https://www.netflix.com/kr/title/80154882'}}
+53 {'@type': 'ListItem', 'position': 54, 'item': {'@type': 'TVSeries', 'name': '터널', 'url': 'https://www.netflix.com/kr/title/81167047'}}
+54 {'@type': 'ListItem', 'position': 55, 'item': {'@type': 'TVSeries', 'name': '더 킹: 영원의 군주', 'url': 'https://www.netflix.com/kr/title/81260283'}}
+55 {'@type': 'ListItem', 'position': 56, 'item': {'@type': 'TVSeries', 'name': '도시남녀의 사랑법', 'url': 'https://www.netflix.com/kr/title/81340910'}}
+56 {'@type': 'ListItem', 'position': 57, 'item': {'@type': 'TVSeries', 'name': '으라차차 와이키키2', 'url': 'https://www.netflix.com/kr/title/81229694'}}
+57 {'@type': 'ListItem', 'position': 58, 'item': {'@type': 'TVSeries', 'name': '경우의 수', 'url': 'https://www.netflix.com/kr/title/81350931'}}
+58 {'@type': 'ListItem', 'position': 59, 'item': {'@type': 'TVSeries', 'name': '청춘기록', 'url': 'https://www.netflix.com/kr/title/81290301'}}
+59 {'@type': 'ListItem', 'position': 60, 'item': {'@type': 'TVSeries', 'name': '나쁜녀석들: 악의 도시', 'url': 'https://www.netflix.com/kr/title/80214772'}}
+60 {'@type': 'ListItem', 'position': 61, 'item': {'@type': 'TVSeries', 'name': '최강 배달꾼', 'url': 'https://www.netflix.com/kr/title/80211787'}}
+61 {'@type': 'ListItem', 'position': 62, 'item': {'@type': 'TVSeries', 'name': '마음의 소리', 'url': 'https://www.netflix.com/kr/title/80155793'}}
+62 {'@type': 'ListItem', 'position': 63, 'item': {'@type': 'TVSeries', 'name': '화유기', 'url': 'https://www.netflix.com/kr/title/80214405'}}
+63 {'@type': 'ListItem', 'position': 64, 'item': {'@type': 'TVSeries', 'name': '배가본드', 'url': 'https://www.netflix.com/kr/title/81095101'}}
+64 {'@type': 'ListItem', 'position': 65, 'item': {'@type': 'TVSeries', 'name': '식샤를 합시다 2', 'url': 'https://www.netflix.com/kr/title/80183878'}}
+65 {'@type': 'ListItem', 'position': 66, 'item': {'@type': 'TVSeries', 'name': '타인은 지옥이다', 'url': 'https://www.netflix.com/kr/title/81267632'}}
+66 {'@type': 'ListItem', 'position': 67, 'item': {'@type': 'TVSeries', 'name': '밥\xa0잘\xa0사주는\xa0예쁜\xa0누나', 'url': 'https://www.netflix.com/kr/title/80990935'}}
+67 {'@type': 'ListItem', 'position': 68, 'item': {'@type': 'TVSeries', 'name': '알함브라 궁전의 추억', 'url': 'https://www.netflix.com/kr/title/81004280'}}
+68 {'@type': 'ListItem', 'position': 69, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/81354739'}}
+69 {'@type': 'ListItem', 'position': 70, 'item': {'@type': 'TVSeries', 'name': '로맨스는 별책부록', 'url': 'https://www.netflix.com/kr/title/81045349'}}
+70 {'@type': 'ListItem', 'position': 71, 'item': {'@type': 'TVSeries', 'name': '통 메모리즈', 'url': 'https://www.netflix.com/kr/title/80158817'}}
+71 {'@type': 'ListItem', 'position': 72, 'item': {'@type': 'TVSeries', 'name': '60일, 지정생존자', 'url': 'https://www.netflix.com/kr/title/81072109'}}
+72 {'@type': 'ListItem', 'position': 73, 'item': {'@type': 'TVSeries', 'name': '그 겨울, 바람이 분다', 'url': 'https://www.netflix.com/kr/title/70296735'}}
+73 {'@type': 'ListItem', 'position': 74, 'item': {'@type': 'TVSeries', 'name': '사생활', 'url': 'https://www.netflix.com/kr/title/81318096'}}
+74 {'@type': 'ListItem', 'position': 75, 'item': {'@type': 'TVSeries', 'name': '품위있는 그녀', 'url': 'https://www.netflix.com/kr/title/80226168'}}
+75 {'@type': 'ListItem', 'position': 76, 'item': {'@type': 'TVSeries', 'name': '모던 패밀리', 'url': 'https://www.netflix.com/kr/title/70143858'}}
+76 {'@type': 'ListItem', 'position': 77, 'item': {'@type': 'TVSeries', 'name': '워킹데드', 'url': 'https://www.netflix.com/kr/title/70177057'}}
+77 {'@type': 'ListItem', 'position': 78, 'item': {'@type': 'TVSeries', 'name': '브리저튼', 'url': 'https://www.netflix.com/kr/title/80232398'}}
+78 {'@type': 'ListItem', 'position': 79, 'item': {'@type': 'TVSeries', 'name': '퀸스 갬빗', 'url': 'https://www.netflix.com/kr/title/80234304'}}
+79 {'@type': 'ListItem', 'position': 80, 'item': {'@type': 'TVSeries', 'name': '프리즌 브레이크', 'url': 'https://www.netflix.com/kr/title/70140425'}}
+80 {'@type': 'ListItem', 'position': 81, 'item': {'@type': 'TVSeries', 'name': '에밀리, 파리에 가다', 'url': 'https://www.netflix.com/kr/title/81037371'}}
+81 {'@type': 'ListItem', 'position': 82, 'item': {'@type': 'TVSeries', 'name': '기묘한 이야기', 'url': 'https://www.netflix.com/kr/title/80057281'}}
+82 {'@type': 'ListItem', 'position': 83, 'item': {'@type': 'TVSeries', 'name': '프렌즈', 'url': 'https://www.netflix.com/kr/title/70153404'}}
+83 {'@type': 'ListItem', 'position': 84, 'item': {'@type': 'TVSeries', 'name': '빅뱅 이론', 'url': 'https://www.netflix.com/kr/title/70143830'}}
+84 {'@type': 'ListItem', 'position': 85, 'item': {'@type': 'TVSeries', 'name': '그레이 아나토미', 'url': 'https://www.netflix.com/kr/title/70140391'}}
+85 {'@type': 'ListItem', 'position': 86, 'item': {'@type': 'TVSeries', 'name': 'Breaking Bad', 'url': 'https://www.netflix.com/kr/title/70143836'}}
+86 {'@type': 'ListItem', 'position': 87, 'item': {'@type': 'TVSeries', 'name': '가십걸', 'url': 'https://www.netflix.com/kr/title/70143811'}}
+87 {'@type': 'ListItem', 'position': 88, 'item': {'@type': 'TVSeries', 'name': '슈츠', 'url': 'https://www.netflix.com/kr/title/70195800'}}
+88 {'@type': 'ListItem', 'position': 89, 'item': {'@type': 'TVSeries', 'name': '블랙 리스트', 'url': 'https://www.netflix.com/kr/title/70281312'}}
+89 {'@type': 'ListItem', 'position': 90, 'item': {'@type': 'TVSeries', 'name': '지정생존자', 'url': 'https://www.netflix.com/kr/title/80113647'}}
+90 {'@type': 'ListItem', 'position': 91, 'item': {'@type': 'TVSeries', 'name': '스파르타쿠스', 'url': 'https://www.netflix.com/kr/title/70136152'}}
+91 {'@type': 'ListItem', 'position': 92, 'item': {'@type': 'TVSeries', 'name': '루시퍼', 'url': 'https://www.netflix.com/kr/title/80057918'}}
+92 {'@type': 'ListItem', 'position': 93, 'item': {'@type': 'TVSeries', 'name': '오렌지 이즈 더 뉴 블랙', 'url': 'https://www.netflix.com/kr/title/70242311'}}
+93 {'@type': 'ListItem', 'position': 94, 'item': {'@type': 'TVSeries', 'name': '브루클린 나인-나인', 'url': 'https://www.netflix.com/kr/title/70281562'}}
+94 {'@type': 'ListItem', 'position': 95, 'item': {'@type': 'TVSeries', 'name': '원헌드레드', 'url': 'https://www.netflix.com/kr/title/70283264'}}
+95 {'@type': 'ListItem', 'position': 96, 'item': {'@type': 'TVSeries', 'name': '애로우', 'url': 'https://www.netflix.com/kr/title/70242081'}}
+96 {'@type': 'ListItem', 'position': 97, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+97 {'@type': 'ListItem', 'position': 98, 'item': {'@type': 'TVSeries', 'name': '플래시', 'url': 'https://www.netflix.com/kr/title/80027042'}}
+98 {'@type': 'ListItem', 'position': 99, 'item': {'@type': 'TVSeries', 'name': '홈랜드', 'url': 'https://www.netflix.com/kr/title/70180387'}}
+99 {'@type': 'ListItem', 'position': 100, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+100 {'@type': 'ListItem', 'position': 101, 'item': {'@type': 'TVSeries', 'name': '더블 타겟', 'url': 'https://www.netflix.com/kr/title/80109194'}}
+101 {'@type': 'ListItem', 'position': 102, 'item': {'@type': 'TVSeries', 'name': '사브리나의 오싹한 모험', 'url': 'https://www.netflix.com/kr/title/80223989'}}
+102 {'@type': 'ListItem', 'position': 103, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+103 {'@type': 'ListItem', 'position': 104, 'item': {'@type': 'TVSeries', 'name': '길모어 걸스', 'url': 'https://www.netflix.com/kr/title/70155618'}}
+104 {'@type': 'ListItem', 'position': 105, 'item': {'@type': 'TVSeries', 'name': '엄브렐러 아카데미', 'url': 'https://www.netflix.com/kr/title/80186863'}}
+105 {'@type': 'ListItem', 'position': 106, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+106 {'@type': 'ListItem', 'position': 107, 'item': {'@type': 'TVSeries', 'name': '굿 플레이스', 'url': 'https://www.netflix.com/kr/title/80113701'}}
+107 {'@type': 'ListItem', 'position': 108, 'item': {'@type': 'TVSeries', 'name': '너의 모든 것', 'url': 'https://www.netflix.com/kr/title/80211991'}}
+108 {'@type': 'ListItem', 'position': 109, 'item': {'@type': 'TVSeries', 'name': 'F1, 본능의 질주', 'url': 'https://www.netflix.com/kr/title/80204890'}}
+109 {'@type': 'ListItem', 'position': 110, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+110 {'@type': 'ListItem', 'position': 111, 'item': {'@type': 'TVSeries', 'name': '스타트렉: 디스커버리', 'url': 'https://www.netflix.com/kr/title/80126024'}}
+111 {'@type': 'ListItem', 'position': 112, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+112 {'@type': 'ListItem', 'position': 113, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+113 {'@type': 'ListItem', 'position': 114, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+114 {'@type': 'ListItem', 'position': 115, 'item': {'@type': 'TVSeries', 'name': '메시아', 'url': 'https://www.netflix.com/kr/title/80117557'}}
+115 {'@type': 'ListItem', 'position': 116, 'item': {'@type': 'TVSeries', 'name': '내가 그녀를 만났을 때', 'url': 'https://www.netflix.com/kr/title/70143824'}}
+116 {'@type': 'ListItem', 'position': 117, 'item': {'@type': 'TVSeries', 'name': '릭 앤 모티', 'url': 'https://www.netflix.com/kr/title/80014749'}}
+117 {'@type': 'ListItem', 'position': 118, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+118 {'@type': 'ListItem', 'position': 119, 'item': {'@type': 'TVSeries', 'name': '슈퍼걸', 'url': 'https://www.netflix.com/kr/title/80065386'}}
+119 {'@type': 'ListItem', 'position': 120, 'item': {'@type': 'TVSeries', 'name': '디스인챈트', 'url': 'https://www.netflix.com/kr/title/80095697'}}
+120 {'@type': 'ListItem', 'position': 121, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+121 {'@type': 'ListItem', 'position': 122, 'item': {'@type': 'TVSeries', 'name': '하우스 오브 카드', 'url': 'https://www.netflix.com/kr/title/70178217'}}
+122 {'@type': 'ListItem', 'position': 123, 'item': {'@type': 'TVSeries', 'name': '마인드헌터', 'url': 'https://www.netflix.com/kr/title/80114855'}}
+123 {'@type': 'ListItem', 'position': 124, 'item': {'@type': 'TVSeries', 'name': '루머의 루머의 루머', 'url': 'https://www.netflix.com/kr/title/80117470'}}
+124 {'@type': 'ListItem', 'position': 125, 'item': {'@type': 'TVSeries', 'name': '섀도우 헌터스: 더 모탈 인스트루먼트', 'url': 'https://www.netflix.com/kr/title/80084447'}}
+125 {'@type': 'ListItem', 'position': 126, 'item': {'@type': 'TVSeries', 'name': '우리의 지구', 'url': 'https://www.netflix.com/kr/title/80049832'}}
+126 {'@type': 'ListItem', 'position': 127, 'item': {'@type': 'TVSeries', 'name': '빌리언스', 'url': 'https://www.netflix.com/kr/title/80067290'}}
+127 {'@type': 'ListItem', 'position': 128, 'item': {'@type': 'TVSeries', 'name': '사우스 파크', 'url': 'https://www.netflix.com/kr/title/70136107'}}
+128 {'@type': 'ListItem', 'position': 129, 'item': {'@type': 'TVSeries', 'name': '마블 아이언 피스트', 'url': 'https://www.netflix.com/kr/title/80002612'}}
+129 {'@type': 'ListItem', 'position': 130, 'item': {'@type': 'TVSeries', 'name': '아메리칸 호러 스토리', 'url': 'https://www.netflix.com/kr/title/70210884'}}
+130 {'@type': 'ListItem', 'position': 131, 'item': {'@type': 'TVSeries', 'name': '투 핫!', 'url': 'https://www.netflix.com/kr/title/80241027'}}
+131 {'@type': 'ListItem', 'position': 132, 'item': {'@type': 'TVSeries', 'name': '마블 데어데블', 'url': 'https://www.netflix.com/kr/title/80018294'}}
+132 {'@type': 'ListItem', 'position': 133, 'item': {'@type': 'TVSeries', 'name': 'Z 네이션', 'url': 'https://www.netflix.com/kr/title/80008434'}}
+133 {'@type': 'ListItem', 'position': 134, 'item': {'@type': 'TVSeries', 'name': '로크 앤 키', 'url': 'https://www.netflix.com/kr/title/80241239'}}
+134 {'@type': 'ListItem', 'position': 135, 'item': {'@type': 'TVSeries', 'name': '나르코스: 멕시코', 'url': 'https://www.netflix.com/kr/title/80997085'}}
+135 {'@type': 'ListItem', 'position': 136, 'item': {'@type': 'TVSeries', 'name': '글리', 'url': 'https://www.netflix.com/kr/title/70143843'}}
+136 {'@type': 'ListItem', 'position': 137, 'item': {'@type': 'TVSeries', 'name': '굿 걸스', 'url': 'https://www.netflix.com/kr/title/80177342'}}
+137 {'@type': 'ListItem', 'position': 138, 'item': {'@type': 'TVSeries', 'name': 'Marvel 퍼니셔', 'url': 'https://www.netflix.com/kr/title/80117498'}}
+138 {'@type': 'ListItem', 'position': 139, 'item': {'@type': 'TVSeries', 'name': '카 마스터: 튜닝의 신', 'url': 'https://www.netflix.com/kr/title/80194704'}}
+139 {'@type': 'ListItem', 'position': 140, 'item': {'@type': 'TVSeries', 'name': '버진리버', 'url': 'https://www.netflix.com/kr/title/80240027'}}
+140 {'@type': 'ListItem', 'position': 141, 'item': {'@type': 'TVSeries', 'name': '헤드스페이스: 명상이 필요할 때', 'url': 'https://www.netflix.com/kr/title/81280926'}}
+141 {'@type': 'ListItem', 'position': 142, 'item': {'@type': 'TVSeries', 'name': '마르코 폴로', 'url': 'https://www.netflix.com/kr/title/70305883'}}
+142 {'@type': 'ListItem', 'position': 143, 'item': {'@type': 'TVSeries', 'name': '리버데일', 'url': 'https://www.netflix.com/kr/title/80133311'}}
+143 {'@type': 'ListItem', 'position': 144, 'item': {'@type': 'TVSeries', 'name': '타임리스', 'url': 'https://www.netflix.com/kr/title/80113627'}}
+144 {'@type': 'ListItem', 'position': 145, 'item': {'@type': 'TVSeries', 'name': '다이너스티: 1%의 1%', 'url': 'https://www.netflix.com/kr/title/80179394'}}
+145 {'@type': 'ListItem', 'position': 146, 'item': {'@type': 'TVSeries', 'name': '오리지널스', 'url': 'https://www.netflix.com/kr/title/70283261'}}
+146 {'@type': 'ListItem', 'position': 147, 'item': {'@type': 'TVSeries', 'name': '뉴 걸', 'url': 'https://www.netflix.com/kr/title/70196145'}}
+147 {'@type': 'ListItem', 'position': 148, 'item': {'@type': 'TVSeries', 'name': '러브, 데스 + 로봇', 'url': 'https://www.netflix.com/kr/title/80174608'}}
+148 {'@type': 'ListItem', 'position': 149, 'item': {'@type': 'TVSeries', 'name': '그레이스 앤 프랭키', 'url': 'https://www.netflix.com/kr/title/80017537'}}
+149 {'@type': 'ListItem', 'position': 150, 'item': {'@type': 'TVSeries', 'name': '검은 해적', 'url': 'https://www.netflix.com/kr/title/70285580'}}
+150 {'@type': 'ListItem', 'position': 151, 'item': {'@type': 'TVSeries', 'name': '종이의 집', 'url': 'https://www.netflix.com/kr/title/80192098'}}
+151 {'@type': 'ListItem', 'position': 152, 'item': {'@type': 'TVSeries', 'name': '진격의 거인', 'url': 'https://www.netflix.com/kr/title/70299043'}}
+152 {'@type': 'ListItem', 'position': 153, 'item': {'@type': 'TVSeries', 'name': '기묘한 이야기', 'url': 'https://www.netflix.com/kr/title/80057281'}}
+153 {'@type': 'ListItem', 'position': 154, 'item': {'@type': 'TVSeries', 'name': '아바타 아앙의 전설', 'url': 'https://www.netflix.com/kr/title/70142405'}}
+154 {'@type': 'ListItem', 'position': 155, 'item': {'@type': 'TVSeries', 'name': '미스터 션샤인', 'url': 'https://www.netflix.com/kr/title/80991107'}}
+155 {'@type': 'ListItem', 'position': 156, 'item': {'@type': 'TVSeries', 'name': '포켓몬스터 썬&문', 'url': 'https://www.netflix.com/kr/title/80186475'}}
+156 {'@type': 'ListItem', 'position': 157, 'item': {'@type': 'TVSeries', 'name': '블랙 클로버', 'url': 'https://www.netflix.com/kr/title/80238012'}}
+157 {'@type': 'ListItem', 'position': 158, 'item': {'@type': 'TVSeries', 'name': '보스 베이비: 돌아온 보스', 'url': 'https://www.netflix.com/kr/title/80178943'}}
+158 {'@type': 'ListItem', 'position': 159, 'item': {'@type': 'TVSeries', 'name': '강철의 연금술사: 브라더후드', 'url': 'https://www.netflix.com/kr/title/70204981'}}
+159 {'@type': 'ListItem', 'position': 160, 'item': {'@type': 'TVSeries', 'name': '나의 히어로 아카데미아', 'url': 'https://www.netflix.com/kr/title/80135674'}}
+160 {'@type': 'ListItem', 'position': 161, 'item': {'@type': 'TVSeries', 'name': '고고다이노 공룡탐험대', 'url': 'https://www.netflix.com/kr/title/81349771'}}
+161 {'@type': 'ListItem', 'position': 162, 'item': {'@type': 'TVSeries', 'name': '블랙 리스트', 'url': 'https://www.netflix.com/kr/title/70281312'}}
+162 {'@type': 'ListItem', 'position': 163, 'item': {'@type': 'TVSeries', 'name': '바이킹스', 'url': 'https://www.netflix.com/kr/title/70301870'}}
+163 {'@type': 'ListItem', 'position': 164, 'item': {'@type': 'TVSeries', 'name': '전생했더니 슬라임이었던 건에 대하여', 'url': 'https://www.netflix.com/kr/title/81028712'}}
+164 {'@type': 'ListItem', 'position': 165, 'item': {'@type': 'TVSeries', 'name': '지정생존자', 'url': 'https://www.netflix.com/kr/title/80113647'}}
+165 {'@type': 'ListItem', 'position': 166, 'item': {'@type': 'TVSeries', 'name': '틴 타이탄 GO!', 'url': 'https://www.netflix.com/kr/title/80103408'}}
+166 {'@type': 'ListItem', 'position': 167, 'item': {'@type': 'TVSeries', 'name': '일곱 개의 대죄', 'url': 'https://www.netflix.com/kr/title/80050063'}}
+167 {'@type': 'ListItem', 'position': 168, 'item': {'@type': 'TVSeries', 'name': '동백꽃 필 무렵', 'url': 'https://www.netflix.com/kr/title/81144925'}}
+168 {'@type': 'ListItem', 'position': 169, 'item': {'@type': 'TVSeries', 'name': '쿠로코의 농구', 'url': 'https://www.netflix.com/kr/title/80063153'}}
+169 {'@type': 'ListItem', 'position': 170, 'item': {'@type': 'TVSeries', 'name': '겁쟁이 페달', 'url': 'https://www.netflix.com/kr/title/80061943'}}
+170 {'@type': 'ListItem', 'position': 171, 'item': {'@type': 'TVSeries', 'name': '루시퍼', 'url': 'https://www.netflix.com/kr/title/80057918'}}
+171 {'@type': 'ListItem', 'position': 172, 'item': {'@type': 'TVSeries', 'name': '나만 믿고 따라와, 도시어부', 'url': 'https://www.netflix.com/kr/title/81274356'}}
+172 {'@type': 'ListItem', 'position': 173, 'item': {'@type': 'TVSeries', 'name': '드래곤 길들이기: 세상 끝으로', 'url': 'https://www.netflix.com/kr/title/80039394'}}
+173 {'@type': 'ListItem', 'position': 174, 'item': {'@type': 'TVSeries', 'name': '범인은 바로 너!', 'url': 'https://www.netflix.com/kr/title/80209553'}}
+174 {'@type': 'ListItem', 'position': 175, 'item': {'@type': 'TVSeries', 'name': '애로우', 'url': 'https://www.netflix.com/kr/title/70242081'}}
+175 {'@type': 'ListItem', 'position': 176, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+176 {'@type': 'ListItem', 'position': 177, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+177 {'@type': 'ListItem', 'position': 178, 'item': {'@type': 'TVSeries', 'name': '암살교실', 'url': 'https://www.netflix.com/kr/title/80045948'}}
+178 {'@type': 'ListItem', 'position': 179, 'item': {'@type': 'TVSeries', 'name': '플래시', 'url': 'https://www.netflix.com/kr/title/80027042'}}
+179 {'@type': 'ListItem', 'position': 180, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+180 {'@type': 'ListItem', 'position': 181, 'item': {'@type': 'TVSeries', 'name': '쥬라기 월드: 백악기 어드벤처', 'url': 'https://www.netflix.com/kr/title/81009646'}}
+181 {'@type': 'ListItem', 'position': 182, 'item': {'@type': 'TVSeries', 'name': '더케이투', 'url': 'https://www.netflix.com/kr/title/80188730'}}
+182 {'@type': 'ListItem', 'position': 183, 'item': {'@type': 'TVSeries', 'name': '카케구루이', 'url': 'https://www.netflix.com/kr/title/80175351'}}
+183 {'@type': 'ListItem', 'position': 184, 'item': {'@type': 'TVSeries', 'name': '블리치', 'url': 'https://www.netflix.com/kr/title/70204957'}}
+184 {'@type': 'ListItem', 'position': 185, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+185 {'@type': 'ListItem', 'position': 186, 'item': {'@type': 'TVSeries', 'name': '코라의 전설', 'url': 'https://www.netflix.com/kr/title/80027563'}}
+186 {'@type': 'ListItem', 'position': 187, 'item': {'@type': 'TVSeries', 'name': '미라큘러스: 레이디버그와 블랙캣', 'url': 'https://www.netflix.com/kr/title/80164216'}}
+187 {'@type': 'ListItem', 'position': 188, 'item': {'@type': 'TVSeries', 'name': 'F1, 본능의 질주', 'url': 'https://www.netflix.com/kr/title/80204890'}}
+188 {'@type': 'ListItem', 'position': 189, 'item': {'@type': 'TVSeries', 'name': '출동! 파자마 삼총사', 'url': 'https://www.netflix.com/kr/title/80187223'}}
+189 {'@type': 'ListItem', 'position': 190, 'item': {'@type': 'TVSeries', 'name': '성균관 스캔들', 'url': 'https://www.netflix.com/kr/title/80154882'}}
+190 {'@type': 'ListItem', 'position': 191, 'item': {'@type': 'TVSeries', 'name': '스타트렉: 디스커버리', 'url': 'https://www.netflix.com/kr/title/80126024'}}
+191 {'@type': 'ListItem', 'position': 192, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+192 {'@type': 'ListItem', 'position': 193, 'item': {'@type': 'TVSeries', 'name': '문호 스트레이독스', 'url': 'https://www.netflix.com/kr/title/80132126'}}
+193 {'@type': 'ListItem', 'position': 194, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+194 {'@type': 'ListItem', 'position': 195, 'item': {'@type': 'TVSeries', 'name': '코드 기어스: 반역의 를르슈', 'url': 'https://www.netflix.com/kr/title/80065146'}}
+195 {'@type': 'ListItem', 'position': 196, 'item': {'@type': 'TVSeries', 'name': '아픈 건 싫으니까 방어력에 올인하려고 합니다', 'url': 'https://www.netflix.com/kr/title/81234294'}}
+196 {'@type': 'ListItem', 'position': 197, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+197 {'@type': 'ListItem', 'position': 198, 'item': {'@type': 'TVSeries', 'name': '페어리 테일', 'url': 'https://www.netflix.com/kr/title/70266998'}}
+198 {'@type': 'ListItem', 'position': 199, 'item': {'@type': 'TVSeries', 'name': '슈퍼걸', 'url': 'https://www.netflix.com/kr/title/80065386'}}
+199 {'@type': 'ListItem', 'position': 200, 'item': {'@type': 'TVSeries', 'name': '베이블레이드 버스트 갓', 'url': 'https://www.netflix.com/kr/title/81018295'}}
+200 {'@type': 'ListItem', 'position': 201, 'item': {'@type': 'TVSeries', 'name': '절대쌍교', 'url': 'https://www.netflix.com/kr/title/80996973'}}
+201 {'@type': 'ListItem', 'position': 202, 'item': {'@type': 'TVSeries', 'name': '신기한 스쿨 버스', 'url': 'https://www.netflix.com/kr/title/70264612'}}
+202 {'@type': 'ListItem', 'position': 203, 'item': {'@type': 'TVSeries', 'name': '변신자동차 또봇', 'url': 'https://www.netflix.com/kr/title/81072571'}}
+203 {'@type': 'ListItem', 'position': 204, 'item': {'@type': 'TVSeries', 'name': '배가본드', 'url': 'https://www.netflix.com/kr/title/81095101'}}
+204 {'@type': 'ListItem', 'position': 205, 'item': {'@type': 'TVSeries', 'name': '신세기 에반게리온', 'url': 'https://www.netflix.com/kr/title/81033445'}}
+205 {'@type': 'ListItem', 'position': 206, 'item': {'@type': 'TVSeries', 'name': '마블 아이언 피스트', 'url': 'https://www.netflix.com/kr/title/80002612'}}
+206 {'@type': 'ListItem', 'position': 207, 'item': {'@type': 'TVSeries', 'name': '보디가드', 'url': 'https://www.netflix.com/kr/title/80235864'}}
+207 {'@type': 'ListItem', 'position': 208, 'item': {'@type': 'TVSeries', 'name': '던전에서 만남을 추구하면 안 되는 걸까', 'url': 'https://www.netflix.com/kr/title/80185873'}}
+208 {'@type': 'ListItem', 'position': 209, 'item': {'@type': 'TVSeries', 'name': '소닉 붐', 'url': 'https://www.netflix.com/kr/title/80155771'}}
+209 {'@type': 'ListItem', 'position': 210, 'item': {'@type': 'TVSeries', 'name': '오펀 블랙', 'url': 'https://www.netflix.com/kr/title/70276033'}}
+210 {'@type': 'ListItem', 'position': 211, 'item': {'@type': 'TVSeries', 'name': '노라가미', 'url': 'https://www.netflix.com/kr/title/80005821'}}
+211 {'@type': 'ListItem', 'position': 212, 'item': {'@type': 'TVSeries', 'name': '운명의 밤: 무한의 검제', 'url': 'https://www.netflix.com/kr/title/80040330'}}
+212 {'@type': 'ListItem', 'position': 213, 'item': {'@type': 'TVSeries', 'name': '베르사유', 'url': 'https://www.netflix.com/kr/title/80099753'}}
+213 {'@type': 'ListItem', 'position': 214, 'item': {'@type': 'TVSeries', 'name': '트롤헌터: 아카디아의 전설', 'url': 'https://www.netflix.com/kr/title/80075820'}}
+214 {'@type': 'ListItem', 'position': 215, 'item': {'@type': 'TVSeries', 'name': '런닝맨', 'url': 'https://www.netflix.com/kr/title/81331228'}}
+215 {'@type': 'ListItem', 'position': 216, 'item': {'@type': 'TVSeries', 'name': '60일, 지정생존자', 'url': 'https://www.netflix.com/kr/title/81072109'}}
+216 {'@type': 'ListItem', 'position': 217, 'item': {'@type': 'TVSeries', 'name': 'DC 슈퍼히어로 걸스', 'url': 'https://www.netflix.com/kr/title/81145135'}}
+217 {'@type': 'ListItem', 'position': 218, 'item': {'@type': 'TVSeries', 'name': '청의 엑소시스트', 'url': 'https://www.netflix.com/kr/title/70304252'}}
+218 {'@type': 'ListItem', 'position': 219, 'item': {'@type': 'TVSeries', 'name': '미니특공대X', 'url': 'https://www.netflix.com/kr/title/81036448'}}
+219 {'@type': 'ListItem', 'position': 220, 'item': {'@type': 'TVSeries', 'name': '호빵맨', 'url': 'https://www.netflix.com/kr/title/81291675'}}
+220 {'@type': 'ListItem', 'position': 221, 'item': {'@type': 'TVSeries', 'name': '사생활', 'url': 'https://www.netflix.com/kr/title/81318096'}}
+221 {'@type': 'ListItem', 'position': 222, 'item': {'@type': 'TVSeries', 'name': '최강전사 미니특공대', 'url': 'https://www.netflix.com/kr/title/80176449'}}
+222 {'@type': 'ListItem', 'position': 223, 'item': {'@type': 'TVSeries', 'name': '트랜스포머 프라임', 'url': 'https://www.netflix.com/kr/title/70234439'}}
+223 {'@type': 'ListItem', 'position': 224, 'item': {'@type': 'TVSeries', 'name': '천성장가', 'url': 'https://www.netflix.com/kr/title/80993613'}}
+224 {'@type': 'ListItem', 'position': 225, 'item': {'@type': 'TVSeries', 'name': '다이노트럭스', 'url': 'https://www.netflix.com/kr/title/80049903'}}
+225 {'@type': 'ListItem', 'position': 226, 'item': {'@type': 'TVSeries', 'name': '비밀의 숲', 'url': 'https://www.netflix.com/kr/title/80187302'}}
+226 {'@type': 'ListItem', 'position': 227, 'item': {'@type': 'TVSeries', 'name': '삼국지', 'url': 'https://www.netflix.com/kr/title/80166224'}}
+227 {'@type': 'ListItem', 'position': 228, 'item': {'@type': 'TVSeries', 'name': '블랙 리스트', 'url': 'https://www.netflix.com/kr/title/70281312'}}
+228 {'@type': 'ListItem', 'position': 229, 'item': {'@type': 'TVSeries', 'name': '바이킹스', 'url': 'https://www.netflix.com/kr/title/70301870'}}
+229 {'@type': 'ListItem', 'position': 230, 'item': {'@type': 'TVSeries', 'name': '지정생존자', 'url': 'https://www.netflix.com/kr/title/80113647'}}
+230 {'@type': 'ListItem', 'position': 231, 'item': {'@type': 'TVSeries', 'name': '나쁜 녀석들', 'url': 'https://www.netflix.com/kr/title/80178427'}}
+231 {'@type': 'ListItem', 'position': 232, 'item': {'@type': 'TVSeries', 'name': '쿠로코의 농구', 'url': 'https://www.netflix.com/kr/title/80063153'}}
+232 {'@type': 'ListItem', 'position': 233, 'item': {'@type': 'TVSeries', 'name': '스파르타쿠스', 'url': 'https://www.netflix.com/kr/title/70136152'}}
+233 {'@type': 'ListItem', 'position': 234, 'item': {'@type': 'TVSeries', 'name': '보이스', 'url': 'https://www.netflix.com/kr/title/80987095'}}
+234 {'@type': 'ListItem', 'position': 235, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+235 {'@type': 'ListItem', 'position': 236, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+236 {'@type': 'ListItem', 'position': 237, 'item': {'@type': 'TVSeries', 'name': '더블 타겟', 'url': 'https://www.netflix.com/kr/title/80109194'}}
+237 {'@type': 'ListItem', 'position': 238, 'item': {'@type': 'TVSeries', 'name': '더케이투', 'url': 'https://www.netflix.com/kr/title/80188730'}}
+238 {'@type': 'ListItem', 'position': 239, 'item': {'@type': 'TVSeries', 'name': '모범형사', 'url': 'https://www.netflix.com/kr/title/81323914'}}
+239 {'@type': 'ListItem', 'position': 240, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+240 {'@type': 'ListItem', 'position': 241, 'item': {'@type': 'TVSeries', 'name': 'F1, 본능의 질주', 'url': 'https://www.netflix.com/kr/title/80204890'}}
+241 {'@type': 'ListItem', 'position': 242, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+242 {'@type': 'ListItem', 'position': 243, 'item': {'@type': 'TVSeries', 'name': '터널', 'url': 'https://www.netflix.com/kr/title/81167047'}}
+243 {'@type': 'ListItem', 'position': 244, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+244 {'@type': 'ListItem', 'position': 245, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+245 {'@type': 'ListItem', 'position': 246, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+246 {'@type': 'ListItem', 'position': 247, 'item': {'@type': 'TVSeries', 'name': '종말의 세라프', 'url': 'https://www.netflix.com/kr/title/80200989'}}
+247 {'@type': 'ListItem', 'position': 248, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+248 {'@type': 'ListItem', 'position': 249, 'item': {'@type': 'TVSeries', 'name': '삼국지 (극장판)', 'url': 'https://www.netflix.com/kr/title/81293372'}}
+249 {'@type': 'ListItem', 'position': 250, 'item': {'@type': 'TVSeries', 'name': '피키 블라인더스', 'url': 'https://www.netflix.com/kr/title/80002479'}}
+250 {'@type': 'ListItem', 'position': 251, 'item': {'@type': 'TVSeries', 'name': '나쁜녀석들: 악의 도시', 'url': 'https://www.netflix.com/kr/title/80214772'}}
+251 {'@type': 'ListItem', 'position': 252, 'item': {'@type': 'TVSeries', 'name': '달링 인 더 프랑키스', 'url': 'https://www.netflix.com/kr/title/81010668'}}
+252 {'@type': 'ListItem', 'position': 253, 'item': {'@type': 'TVSeries', 'name': '웬트워스', 'url': 'https://www.netflix.com/kr/title/80013249'}}
+253 {'@type': 'ListItem', 'position': 254, 'item': {'@type': 'TVSeries', 'name': '통 메모리즈', 'url': 'https://www.netflix.com/kr/title/80158817'}}
+254 {'@type': 'ListItem', 'position': 255, 'item': {'@type': 'TVSeries', 'name': '나르코스: 멕시코', 'url': 'https://www.netflix.com/kr/title/80997085'}}
+255 {'@type': 'ListItem', 'position': 256, 'item': {'@type': 'TVSeries', 'name': 'Marvel 퍼니셔', 'url': 'https://www.netflix.com/kr/title/80117498'}}
+256 {'@type': 'ListItem', 'position': 257, 'item': {'@type': 'TVSeries', 'name': '카 마스터: 튜닝의 신', 'url': 'https://www.netflix.com/kr/title/80194704'}}
+257 {'@type': 'ListItem', 'position': 258, 'item': {'@type': 'TVSeries', 'name': '마르코 폴로', 'url': 'https://www.netflix.com/kr/title/70305883'}}
+258 {'@type': 'ListItem', 'position': 259, 'item': {'@type': 'TVSeries', 'name': '페이트 제로', 'url': 'https://www.netflix.com/kr/title/70304256'}}
+259 {'@type': 'ListItem', 'position': 260, 'item': {'@type': 'TVSeries', 'name': '러브, 데스 + 로봇', 'url': 'https://www.netflix.com/kr/title/80174608'}}
+260 {'@type': 'ListItem', 'position': 261, 'item': {'@type': 'TVSeries', 'name': '다크', 'url': 'https://www.netflix.com/kr/title/80100172'}}
+261 {'@type': 'ListItem', 'position': 262, 'item': {'@type': 'TVSeries', 'name': '설국열차', 'url': 'https://www.netflix.com/kr/title/80177458'}}
+262 {'@type': 'ListItem', 'position': 263, 'item': {'@type': 'TVSeries', 'name': 'DC 타이탄', 'url': 'https://www.netflix.com/kr/title/80218200'}}
+263 {'@type': 'ListItem', 'position': 264, 'item': {'@type': 'TVSeries', 'name': '죽어도 선덜랜드', 'url': 'https://www.netflix.com/kr/title/80207046'}}
+264 {'@type': 'ListItem', 'position': 265, 'item': {'@type': 'TVSeries', 'name': '도로헤도로', 'url': 'https://www.netflix.com/kr/title/80991903'}}
+265 {'@type': 'ListItem', 'position': 266, 'item': {'@type': 'TVSeries', 'name': '더 폴', 'url': 'https://www.netflix.com/kr/title/70272726'}}
+266 {'@type': 'ListItem', 'position': 267, 'item': {'@type': 'TVSeries', 'name': '바바리안', 'url': 'https://www.netflix.com/kr/title/81024039'}}
+267 {'@type': 'ListItem', 'position': 268, 'item': {'@type': 'TVSeries', 'name': '고담', 'url': 'https://www.netflix.com/kr/title/80020542'}}
+268 {'@type': 'ListItem', 'position': 269, 'item': {'@type': 'TVSeries', 'name': '썬즈 오브 아나키', 'url': 'https://www.netflix.com/kr/title/70143844'}}
+269 {'@type': 'ListItem', 'position': 270, 'item': {'@type': 'TVSeries', 'name': '킬라킬', 'url': 'https://www.netflix.com/kr/title/70305217'}}
+270 {'@type': 'ListItem', 'position': 271, 'item': {'@type': 'TVSeries', 'name': '얼터드 카본', 'url': 'https://www.netflix.com/kr/title/80097140'}}
+271 {'@type': 'ListItem', 'position': 272, 'item': {'@type': 'TVSeries', 'name': '블랙 썸머', 'url': 'https://www.netflix.com/kr/title/80198988'}}
+272 {'@type': 'ListItem', 'position': 273, 'item': {'@type': 'TVSeries', 'name': '파우다: 혼돈', 'url': 'https://www.netflix.com/kr/title/80113612'}}
+273 {'@type': 'ListItem', 'position': 274, 'item': {'@type': 'TVSeries', 'name': '엘 차포: 터널 킹', 'url': 'https://www.netflix.com/kr/title/80133042'}}
+274 {'@type': 'ListItem', 'position': 275, 'item': {'@type': 'TVSeries', 'name': '델리 크라임', 'url': 'https://www.netflix.com/kr/title/81076756'}}
+275 {'@type': 'ListItem', 'position': 276, 'item': {'@type': 'TVSeries', 'name': '브로드처치', 'url': 'https://www.netflix.com/kr/title/70302484'}}
+276 {'@type': 'ListItem', 'position': 277, 'item': {'@type': 'TVSeries', 'name': '간츠', 'url': 'https://www.netflix.com/kr/title/80133769'}}
+277 {'@type': 'ListItem', 'position': 278, 'item': {'@type': 'TVSeries', 'name': '저주받은 소녀', 'url': 'https://www.netflix.com/kr/title/80199393'}}
+278 {'@type': 'ListItem', 'position': 279, 'item': {'@type': 'TVSeries', 'name': '캐슬바니아', 'url': 'https://www.netflix.com/kr/title/80095241'}}
+279 {'@type': 'ListItem', 'position': 280, 'item': {'@type': 'TVSeries', 'name': '갱스터', 'url': 'https://www.netflix.com/kr/title/80201315'}}
+280 {'@type': 'ListItem', 'position': 281, 'item': {'@type': 'TVSeries', 'name': '루갈', 'url': 'https://www.netflix.com/kr/title/81243994'}}
+281 {'@type': 'ListItem', 'position': 282, 'item': {'@type': 'TVSeries', 'name': '라인 오브 듀티', 'url': 'https://www.netflix.com/kr/title/70263817'}}
+282 {'@type': 'ListItem', 'position': 283, 'item': {'@type': 'TVSeries', 'name': '소드 가이: 애니메이션', 'url': 'https://www.netflix.com/kr/title/80175350'}}
+283 {'@type': 'ListItem', 'position': 284, 'item': {'@type': 'TVSeries', 'name': '언더커버', 'url': 'https://www.netflix.com/kr/title/80225312'}}
+284 {'@type': 'ListItem', 'position': 285, 'item': {'@type': 'TVSeries', 'name': '수부라', 'url': 'https://www.netflix.com/kr/title/80081537'}}
+285 {'@type': 'ListItem', 'position': 286, 'item': {'@type': 'TVSeries', 'name': '공각기동대 에스에이씨_2045', 'url': 'https://www.netflix.com/kr/title/81030224'}}
+286 {'@type': 'ListItem', 'position': 287, 'item': {'@type': 'TVSeries', 'name': '모두의 거짓말', 'url': 'https://www.netflix.com/kr/title/81191500'}}
+287 {'@type': 'ListItem', 'position': 288, 'item': {'@type': 'TVSeries', 'name': '데빌맨 크라이베이비', 'url': 'https://www.netflix.com/kr/title/80174974'}}
+288 {'@type': 'ListItem', 'position': 289, 'item': {'@type': 'TVSeries', 'name': 'O.J. 심슨 파일: 아메리칸 크라임 스토리', 'url': 'https://www.netflix.com/kr/title/80083977'}}
+289 {'@type': 'ListItem', 'position': 290, 'item': {'@type': 'TVSeries', 'name': '갈리시아의 상속자들', 'url': 'https://www.netflix.com/kr/title/80241001'}}
+290 {'@type': 'ListItem', 'position': 291, 'item': {'@type': 'TVSeries', 'name': '황혼에서 새벽까지: 시리즈', 'url': 'https://www.netflix.com/kr/title/70304245'}}
+291 {'@type': 'ListItem', 'position': 292, 'item': {'@type': 'TVSeries', 'name': '십이대전', 'url': 'https://www.netflix.com/kr/title/80227111'}}
+292 {'@type': 'ListItem', 'position': 293, 'item': {'@type': 'TVSeries', 'name': '401 트럭 구조대 24시', 'url': 'https://www.netflix.com/kr/title/80185266'}}
+293 {'@type': 'ListItem', 'position': 294, 'item': {'@type': 'TVSeries', 'name': '데어 미', 'url': 'https://www.netflix.com/kr/title/80243706'}}
+294 {'@type': 'ListItem', 'position': 295, 'item': {'@type': 'TVSeries', 'name': '탑 보이', 'url': 'https://www.netflix.com/kr/title/80217669'}}
+295 {'@type': 'ListItem', 'position': 296, 'item': {'@type': 'TVSeries', 'name': 'V-워', 'url': 'https://www.netflix.com/kr/title/80236118'}}
+296 {'@type': 'ListItem', 'position': 297, 'item': {'@type': 'TVSeries', 'name': '신은 나에게 직장을 주어야 했다', 'url': 'https://www.netflix.com/kr/title/81019037'}}
+297 {'@type': 'ListItem', 'position': 298, 'item': {'@type': 'TVSeries', 'name': 'OCTB: 반흑(反黑)', 'url': 'https://www.netflix.com/kr/title/80221279'}}
+298 {'@type': 'ListItem', 'position': 299, 'item': {'@type': 'TVSeries', 'name': '울트라맨', 'url': 'https://www.netflix.com/kr/title/80231373'}}
+299 {'@type': 'ListItem', 'position': 300, 'item': {'@type': 'TVSeries', 'name': '마블 디펜더스', 'url': 'https://www.netflix.com/kr/title/80002566'}}
+300 {'@type': 'ListItem', 'position': 301, 'item': {'@type': 'TVSeries', 'name': '슬기로운 의사생활', 'url': 'https://www.netflix.com/kr/title/81239224'}}
+301 {'@type': 'ListItem', 'position': 302, 'item': {'@type': 'TVSeries', 'name': '스타트업', 'url': 'https://www.netflix.com/kr/title/81290293'}}
+302 {'@type': 'ListItem', 'position': 303, 'item': {'@type': 'TVSeries', 'name': '런 온', 'url': 'https://www.netflix.com/kr/title/81318872'}}
+303 {'@type': 'ListItem', 'position': 304, 'item': {'@type': 'TVSeries', 'name': '18 어게인', 'url': 'https://www.netflix.com/kr/title/81350913'}}
+304 {'@type': 'ListItem', 'position': 305, 'item': {'@type': 'TVSeries', 'name': '이태원 클라쓰', 'url': 'https://www.netflix.com/kr/title/81193309'}}
+305 {'@type': 'ListItem', 'position': 306, 'item': {'@type': 'TVSeries', 'name': '사이코지만 괜찮아', 'url': 'https://www.netflix.com/kr/title/81243992'}}
+306 {'@type': 'ListItem', 'position': 307, 'item': {'@type': 'TVSeries', 'name': '인간수업', 'url': 'https://www.netflix.com/kr/title/80990668'}}
+307 {'@type': 'ListItem', 'position': 308, 'item': {'@type': 'TVSeries', 'name': '보스 베이비: 돌아온 보스', 'url': 'https://www.netflix.com/kr/title/80178943'}}
+308 {'@type': 'ListItem', 'position': 309, 'item': {'@type': 'TVSeries', 'name': '금쪽같은 내새끼', 'url': 'https://www.netflix.com/kr/title/81341876'}}
+309 {'@type': 'ListItem', 'position': 310, 'item': {'@type': 'TVSeries', 'name': '아는 형님', 'url': 'https://www.netflix.com/kr/title/80176842'}}
+310 {'@type': 'ListItem', 'position': 311, 'item': {'@type': 'TVSeries', 'name': '블랙 리스트', 'url': 'https://www.netflix.com/kr/title/70281312'}}
+311 {'@type': 'ListItem', 'position': 312, 'item': {'@type': 'TVSeries', 'name': '미스트롯2', 'url': 'https://www.netflix.com/kr/title/81380036'}}
+312 {'@type': 'ListItem', 'position': 313, 'item': {'@type': 'TVSeries', 'name': '브레드 이발소', 'url': 'https://www.netflix.com/kr/title/81288010'}}
+313 {'@type': 'ListItem', 'position': 314, 'item': {'@type': 'TVSeries', 'name': '루시퍼', 'url': 'https://www.netflix.com/kr/title/80057918'}}
+314 {'@type': 'ListItem', 'position': 315, 'item': {'@type': 'TVSeries', 'name': '겨우, 서른', 'url': 'https://www.netflix.com/kr/title/81330889'}}
+315 {'@type': 'ListItem', 'position': 316, 'item': {'@type': 'TVSeries', 'name': '나만 믿고 따라와, 도시어부', 'url': 'https://www.netflix.com/kr/title/81274356'}}
+316 {'@type': 'ListItem', 'position': 317, 'item': {'@type': 'TVSeries', 'name': '꼴찌 마녀 밀드레드', 'url': 'https://www.netflix.com/kr/title/80130521'}}
+317 {'@type': 'ListItem', 'position': 318, 'item': {'@type': 'TVSeries', 'name': '맛있는 녀석들', 'url': 'https://www.netflix.com/kr/title/81066964'}}
+318 {'@type': 'ListItem', 'position': 319, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+319 {'@type': 'ListItem', 'position': 320, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+320 {'@type': 'ListItem', 'position': 321, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+321 {'@type': 'ListItem', 'position': 322, 'item': {'@type': 'TVSeries', 'name': '쥬라기 월드: 백악기 어드벤처', 'url': 'https://www.netflix.com/kr/title/81009646'}}
+322 {'@type': 'ListItem', 'position': 323, 'item': {'@type': 'TVSeries', 'name': '사브리나의 오싹한 모험', 'url': 'https://www.netflix.com/kr/title/80223989'}}
+323 {'@type': 'ListItem', 'position': 324, 'item': {'@type': 'TVSeries', 'name': '모범형사', 'url': 'https://www.netflix.com/kr/title/81323914'}}
+324 {'@type': 'ListItem', 'position': 325, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+325 {'@type': 'ListItem', 'position': 326, 'item': {'@type': 'TVSeries', 'name': '엘리트들', 'url': 'https://www.netflix.com/kr/title/80200942'}}
+326 {'@type': 'ListItem', 'position': 327, 'item': {'@type': 'TVSeries', 'name': '부부의 세계', 'url': 'https://www.netflix.com/kr/title/81287006'}}
+327 {'@type': 'ListItem', 'position': 328, 'item': {'@type': 'TVSeries', 'name': '엄브렐러 아카데미', 'url': 'https://www.netflix.com/kr/title/80186863'}}
+328 {'@type': 'ListItem', 'position': 329, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+329 {'@type': 'ListItem', 'position': 330, 'item': {'@type': 'TVSeries', 'name': '오티스의 비밀 상담소', 'url': 'https://www.netflix.com/kr/title/80197526'}}
+330 {'@type': 'ListItem', 'position': 331, 'item': {'@type': 'TVSeries', 'name': '굿 플레이스', 'url': 'https://www.netflix.com/kr/title/80113701'}}
+331 {'@type': 'ListItem', 'position': 332, 'item': {'@type': 'TVSeries', 'name': 'TV유치원 - 바쁘다 바빠 직업탐험', 'url': 'https://www.netflix.com/kr/title/81350558'}}
+332 {'@type': 'ListItem', 'position': 333, 'item': {'@type': 'TVSeries', 'name': '보건교사 안은영', 'url': 'https://www.netflix.com/kr/title/80209129'}}
+333 {'@type': 'ListItem', 'position': 334, 'item': {'@type': 'TVSeries', 'name': 'F1, 본능의 질주', 'url': 'https://www.netflix.com/kr/title/80204890'}}
+334 {'@type': 'ListItem', 'position': 335, 'item': {'@type': 'TVSeries', 'name': '우리 이혼했어요', 'url': 'https://www.netflix.com/kr/title/81357322'}}
+335 {'@type': 'ListItem', 'position': 336, 'item': {'@type': 'TVSeries', 'name': '다시 뜨거워지고 싶은 애로부부', 'url': 'https://www.netflix.com/kr/title/81387332'}}
+336 {'@type': 'ListItem', 'position': 337, 'item': {'@type': 'TVSeries', 'name': '코코멜론', 'url': 'https://www.netflix.com/kr/title/81273085'}}
+337 {'@type': 'ListItem', 'position': 338, 'item': {'@type': 'TVSeries', 'name': '아리스 인 보더랜드', 'url': 'https://www.netflix.com/kr/title/80200575'}}
+338 {'@type': 'ListItem', 'position': 339, 'item': {'@type': 'TVSeries', 'name': '더 킹: 영원의 군주', 'url': 'https://www.netflix.com/kr/title/81260283'}}
+339 {'@type': 'ListItem', 'position': 340, 'item': {'@type': 'TVSeries', 'name': '스타트렉: 디스커버리', 'url': 'https://www.netflix.com/kr/title/80126024'}}
+340 {'@type': 'ListItem', 'position': 341, 'item': {'@type': 'TVSeries', 'name': '도시남녀의 사랑법', 'url': 'https://www.netflix.com/kr/title/81340910'}}
+341 {'@type': 'ListItem', 'position': 342, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+342 {'@type': 'ListItem', 'position': 343, 'item': {'@type': 'TVSeries', 'name': '아픈 건 싫으니까 방어력에 올인하려고 합니다', 'url': 'https://www.netflix.com/kr/title/81234294'}}
+343 {'@type': 'ListItem', 'position': 344, 'item': {'@type': 'TVSeries', 'name': '경우의 수', 'url': 'https://www.netflix.com/kr/title/81350931'}}
+344 {'@type': 'ListItem', 'position': 345, 'item': {'@type': 'TVSeries', 'name': '메시아', 'url': 'https://www.netflix.com/kr/title/80117557'}}
+345 {'@type': 'ListItem', 'position': 346, 'item': {'@type': 'TVSeries', 'name': '미스터트롯', 'url': 'https://www.netflix.com/kr/title/81238780'}}
+346 {'@type': 'ListItem', 'position': 347, 'item': {'@type': 'TVSeries', 'name': '하트시그널', 'url': 'https://www.netflix.com/kr/title/81264371'}}
+347 {'@type': 'ListItem', 'position': 348, 'item': {'@type': 'TVSeries', 'name': '콩순이와 친구들', 'url': 'https://www.netflix.com/kr/title/81313904'}}
+348 {'@type': 'ListItem', 'position': 349, 'item': {'@type': 'TVSeries', 'name': '쫑알쫑알 똘똘이', 'url': 'https://www.netflix.com/kr/title/81349881'}}
+349 {'@type': 'ListItem', 'position': 350, 'item': {'@type': 'TVSeries', 'name': '베스트 탐정단', 'url': 'https://www.netflix.com/kr/title/80243216'}}
+350 {'@type': 'ListItem', 'position': 351, 'item': {'@type': 'TVSeries', 'name': '출동! 슈퍼윙스', 'url': 'https://www.netflix.com/kr/title/80196221'}}
+351 {'@type': 'ListItem', 'position': 352, 'item': {'@type': 'TVSeries', 'name': '청춘기록', 'url': 'https://www.netflix.com/kr/title/81290301'}}
+352 {'@type': 'ListItem', 'position': 353, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+353 {'@type': 'ListItem', 'position': 354, 'item': {'@type': 'TVSeries', 'name': '김씨네 편의점', 'url': 'https://www.netflix.com/kr/title/80199128'}}
+354 {'@type': 'ListItem', 'position': 355, 'item': {'@type': 'TVSeries', 'name': '힐다', 'url': 'https://www.netflix.com/kr/title/80115346'}}
+355 {'@type': 'ListItem', 'position': 356, 'item': {'@type': 'TVSeries', 'name': '노는 언니', 'url': 'https://www.netflix.com/kr/title/81333883'}}
+356 {'@type': 'ListItem', 'position': 357, 'item': {'@type': 'TVSeries', 'name': '어서와~ 한국은 처음이지?', 'url': 'https://www.netflix.com/kr/title/81108817'}}
+357 {'@type': 'ListItem', 'position': 358, 'item': {'@type': 'TVSeries', 'name': '개미는 오늘도 뚠뚠', 'url': 'https://www.netflix.com/kr/title/81405183'}}
+358 {'@type': 'ListItem', 'position': 359, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+359 {'@type': 'ListItem', 'position': 360, 'item': {'@type': 'TVSeries', 'name': '아내의 맛', 'url': 'https://www.netflix.com/kr/title/81085470'}}
+360 {'@type': 'ListItem', 'position': 361, 'item': {'@type': 'TVSeries', 'name': '루머의 루머의 루머', 'url': 'https://www.netflix.com/kr/title/80117470'}}
+361 {'@type': 'ListItem', 'position': 362, 'item': {'@type': 'TVSeries', 'name': '뽕숭아학당', 'url': 'https://www.netflix.com/kr/title/81285955'}}
+362 {'@type': 'ListItem', 'position': 363, 'item': {'@type': 'TVSeries', 'name': '절대쌍교', 'url': 'https://www.netflix.com/kr/title/80996973'}}
+363 {'@type': 'ListItem', 'position': 364, 'item': {'@type': 'TVSeries', 'name': '방구석 1열', 'url': 'https://www.netflix.com/kr/title/81217095'}}
+364 {'@type': 'ListItem', 'position': 365, 'item': {'@type': 'TVSeries', 'name': '퍼피 아카데미', 'url': 'https://www.netflix.com/kr/title/81040639'}}
+365 {'@type': 'ListItem', 'position': 366, 'item': {'@type': 'TVSeries', 'name': '검은 욕망', 'url': 'https://www.netflix.com/kr/title/81090319'}}
+366 {'@type': 'ListItem', 'position': 367, 'item': {'@type': 'TVSeries', 'name': '빌리언스', 'url': 'https://www.netflix.com/kr/title/80067290'}}
+367 {'@type': 'ListItem', 'position': 368, 'item': {'@type': 'TVSeries', 'name': '신청곡을 불러드립니다 - 사랑의 콜센타', 'url': 'https://www.netflix.com/kr/title/81274444'}}
+368 {'@type': 'ListItem', 'position': 369, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/81354739'}}
+369 {'@type': 'ListItem', 'position': 370, 'item': {'@type': 'TVSeries', 'name': '웬트워스', 'url': 'https://www.netflix.com/kr/title/80013249'}}
+370 {'@type': 'ListItem', 'position': 371, 'item': {'@type': 'TVSeries', 'name': '누나의 첫사랑', 'url': 'https://www.netflix.com/kr/title/81137134'}}
+371 {'@type': 'ListItem', 'position': 372, 'item': {'@type': 'TVSeries', 'name': '어둠 속으로', 'url': 'https://www.netflix.com/kr/title/81008221'}}
+372 {'@type': 'ListItem', 'position': 373, 'item': {'@type': 'TVSeries', 'name': '보이프렌즈', 'url': 'https://www.netflix.com/kr/title/81298479'}}
+373 {'@type': 'ListItem', 'position': 374, 'item': {'@type': 'TVSeries', 'name': '보스가 결혼하재요', 'url': 'https://www.netflix.com/kr/title/81092192'}}
+374 {'@type': 'ListItem', 'position': 375, 'item': {'@type': 'TVSeries', 'name': '런닝맨', 'url': 'https://www.netflix.com/kr/title/81331228'}}
+375 {'@type': 'ListItem', 'position': 376, 'item': {'@type': 'TVSeries', 'name': '프렌즈', 'url': 'https://www.netflix.com/kr/title/70153404'}}
+376 {'@type': 'ListItem', 'position': 377, 'item': {'@type': 'TVSeries', 'name': '빅뱅 이론', 'url': 'https://www.netflix.com/kr/title/70143830'}}
+377 {'@type': 'ListItem', 'position': 378, 'item': {'@type': 'TVSeries', 'name': '금쪽같은 내새끼', 'url': 'https://www.netflix.com/kr/title/81341876'}}
+378 {'@type': 'ListItem', 'position': 379, 'item': {'@type': 'TVSeries', 'name': '브루클린 나인-나인', 'url': 'https://www.netflix.com/kr/title/70281562'}}
+379 {'@type': 'ListItem', 'position': 380, 'item': {'@type': 'TVSeries', 'name': '내가 그녀를 만났을 때', 'url': 'https://www.netflix.com/kr/title/70143824'}}
+380 {'@type': 'ListItem', 'position': 381, 'item': {'@type': 'TVSeries', 'name': '김씨네 편의점', 'url': 'https://www.netflix.com/kr/title/80199128'}}
+381 {'@type': 'ListItem', 'position': 382, 'item': {'@type': 'TVSeries', 'name': '어서와~ 한국은 처음이지?', 'url': 'https://www.netflix.com/kr/title/81108817'}}
+382 {'@type': 'ListItem', 'position': 383, 'item': {'@type': 'TVSeries', 'name': '아내의 맛', 'url': 'https://www.netflix.com/kr/title/81085470'}}
+383 {'@type': 'ListItem', 'position': 384, 'item': {'@type': 'TVSeries', 'name': '효리네 민박', 'url': 'https://www.netflix.com/kr/title/80195839'}}
+384 {'@type': 'ListItem', 'position': 385, 'item': {'@type': 'TVSeries', 'name': '우리의 지구', 'url': 'https://www.netflix.com/kr/title/80049832'}}
+385 {'@type': 'ListItem', 'position': 386, 'item': {'@type': 'TVSeries', 'name': '마음의 소리', 'url': 'https://www.netflix.com/kr/title/80155793'}}
+386 {'@type': 'ListItem', 'position': 387, 'item': {'@type': 'TVSeries', 'name': '신청곡을 불러드립니다 - 사랑의 콜센타', 'url': 'https://www.netflix.com/kr/title/81274444'}}
+387 {'@type': 'ListItem', 'position': 388, 'item': {'@type': 'TVSeries', 'name': '심야식당: 도쿄 스토리', 'url': 'https://www.netflix.com/kr/title/80113037'}}
+388 {'@type': 'ListItem', 'position': 389, 'item': {'@type': 'TVSeries', 'name': '삼겹살랩소디', 'url': 'https://www.netflix.com/kr/title/81347666'}}
+389 {'@type': 'ListItem', 'position': 390, 'item': {'@type': 'TVSeries', 'name': '당신과 자연의 대결', 'url': 'https://www.netflix.com/kr/title/80227574'}}
+390 {'@type': 'ListItem', 'position': 391, 'item': {'@type': 'TVSeries', 'name': '글리', 'url': 'https://www.netflix.com/kr/title/70143843'}}
+391 {'@type': 'ListItem', 'position': 392, 'item': {'@type': 'TVSeries', 'name': '식객 허영만의 백반기행', 'url': 'https://www.netflix.com/kr/title/81380050'}}
+392 {'@type': 'ListItem', 'position': 393, 'item': {'@type': 'TVSeries', 'name': '일하는 세포', 'url': 'https://www.netflix.com/kr/title/81028791'}}
+393 {'@type': 'ListItem', 'position': 394, 'item': {'@type': 'TVSeries', 'name': '카 마스터: 튜닝의 신', 'url': 'https://www.netflix.com/kr/title/80194704'}}
+394 {'@type': 'ListItem', 'position': 395, 'item': {'@type': 'TVSeries', 'name': '헤드스페이스: 명상이 필요할 때', 'url': 'https://www.netflix.com/kr/title/81280926'}}
+395 {'@type': 'ListItem', 'position': 396, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 새로운 시작', 'url': 'https://www.netflix.com/kr/title/80212301'}}
+396 {'@type': 'ListItem', 'position': 397, 'item': {'@type': 'TVSeries', 'name': '뉴 걸', 'url': 'https://www.netflix.com/kr/title/70196145'}}
+397 {'@type': 'ListItem', 'position': 398, 'item': {'@type': 'TVSeries', 'name': '닥터 마틴', 'url': 'https://www.netflix.com/kr/title/70140378'}}
+398 {'@type': 'ListItem', 'position': 399, 'item': {'@type': 'TVSeries', 'name': '하늘에서 본 한국', 'url': 'https://www.netflix.com/kr/title/80158475'}}
+399 {'@type': 'ListItem', 'position': 400, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 도시남녀', 'url': 'https://www.netflix.com/kr/title/80067942'}}
+400 {'@type': 'ListItem', 'position': 401, 'item': {'@type': 'TVSeries', 'name': '넥스트 인 패션', 'url': 'https://www.netflix.com/kr/title/81026300'}}
+401 {'@type': 'ListItem', 'position': 402, 'item': {'@type': 'TVSeries', 'name': '세계에서 가장 경이로운 집', 'url': 'https://www.netflix.com/kr/title/80213025'}}
+402 {'@type': 'ListItem', 'position': 403, 'item': {'@type': 'TVSeries', 'name': '마음의소리', 'url': 'https://www.netflix.com/kr/title/81349896'}}
+403 {'@type': 'ListItem', 'position': 404, 'item': {'@type': 'TVSeries', 'name': '셀링 선셋', 'url': 'https://www.netflix.com/kr/title/80223108'}}
+404 {'@type': 'ListItem', 'position': 405, 'item': {'@type': 'TVSeries', 'name': '연애 실험: 블라인드 러브', 'url': 'https://www.netflix.com/kr/title/80996601'}}
+405 {'@type': 'ListItem', 'position': 406, 'item': {'@type': 'TVSeries', 'name': '파티셰를 잡아라!', 'url': 'https://www.netflix.com/kr/title/80179138'}}
+406 {'@type': 'ListItem', 'position': 407, 'item': {'@type': 'TVSeries', 'name': '욕의 품격', 'url': 'https://www.netflix.com/kr/title/81305757'}}
+407 {'@type': 'ListItem', 'position': 408, 'item': {'@type': 'TVSeries', 'name': '도전! 용암 위를 건너라', 'url': 'https://www.netflix.com/kr/title/81006858'}}
+408 {'@type': 'ListItem', 'position': 409, 'item': {'@type': 'TVSeries', 'name': '슈거 러시: 달콤한 크리스마스', 'url': 'https://www.netflix.com/kr/title/81094391'}}
+409 {'@type': 'ListItem', 'position': 410, 'item': {'@type': 'TVSeries', 'name': '알렉사 & 케이티', 'url': 'https://www.netflix.com/kr/title/80174285'}}
+410 {'@type': 'ListItem', 'position': 411, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 하와이편', 'url': 'https://www.netflix.com/kr/title/80131479'}}
+411 {'@type': 'ListItem', 'position': 412, 'item': {'@type': 'TVSeries', 'name': '한끼 줍쇼', 'url': 'https://www.netflix.com/kr/title/81092855'}}
+412 {'@type': 'ListItem', 'position': 413, 'item': {'@type': 'TVSeries', 'name': '인사이드 빌 게이츠', 'url': 'https://www.netflix.com/kr/title/80184771'}}
+413 {'@type': 'ListItem', 'position': 414, 'item': {'@type': 'TVSeries', 'name': '필이 좋은 여행, 한입만!', 'url': 'https://www.netflix.com/kr/title/80146601'}}
+414 {'@type': 'ListItem', 'position': 415, 'item': {'@type': 'TVSeries', 'name': '우리 사장님은 15살', 'url': 'https://www.netflix.com/kr/title/80042307'}}
+415 {'@type': 'ListItem', 'position': 416, 'item': {'@type': 'TVSeries', 'name': '연애의 맛', 'url': 'https://www.netflix.com/kr/title/81085540'}}
+416 {'@type': 'ListItem', 'position': 417, 'item': {'@type': 'TVSeries', 'name': '루폴의 드래그 레이스', 'url': 'https://www.netflix.com/kr/title/70187741'}}
+417 {'@type': 'ListItem', 'position': 418, 'item': {'@type': 'TVSeries', 'name': '트릭: 신작 스페셜', 'url': 'https://www.netflix.com/kr/title/81260165'}}
+418 {'@type': 'ListItem', 'position': 419, 'item': {'@type': 'TVSeries', 'name': '익스플레인: 세계를 해설하다', 'url': 'https://www.netflix.com/kr/title/80216752'}}
+419 {'@type': 'ListItem', 'position': 420, 'item': {'@type': 'TVSeries', 'name': '슈거 러시: 달콤한 레이스', 'url': 'https://www.netflix.com/kr/title/80201328'}}
+420 {'@type': 'ListItem', 'position': 421, 'item': {'@type': 'TVSeries', 'name': '길 위의 셰프들: 아시아', 'url': 'https://www.netflix.com/kr/title/80244996'}}
+421 {'@type': 'ListItem', 'position': 422, 'item': {'@type': 'TVSeries', 'name': '빅 쇼 패밀리', 'url': 'https://www.netflix.com/kr/title/80201035'}}
+422 {'@type': 'ListItem', 'position': 423, 'item': {'@type': 'TVSeries', 'name': '드림 홈 메이크오버', 'url': 'https://www.netflix.com/kr/title/81088239'}}
+423 {'@type': 'ListItem', 'position': 424, 'item': {'@type': 'TVSeries', 'name': '풀러 하우스', 'url': 'https://www.netflix.com/kr/title/80051137'}}
+424 {'@type': 'ListItem', 'position': 425, 'item': {'@type': 'TVSeries', 'name': '풍미 원산지', 'url': 'https://www.netflix.com/kr/title/80991060'}}
+425 {'@type': 'ListItem', 'position': 426, 'item': {'@type': 'TVSeries', 'name': 'IT 크라우드', 'url': 'https://www.netflix.com/kr/title/70140450'}}
+426 {'@type': 'ListItem', 'position': 427, 'item': {'@type': 'TVSeries', 'name': '셰프의 테이블', 'url': 'https://www.netflix.com/kr/title/80007945'}}
+427 {'@type': 'ListItem', 'position': 428, 'item': {'@type': 'TVSeries', 'name': '러스트 밸리 브라더스', 'url': 'https://www.netflix.com/kr/title/80203254'}}
+428 {'@type': 'ListItem', 'position': 429, 'item': {'@type': 'TVSeries', 'name': '지구의 밤', 'url': 'https://www.netflix.com/kr/title/80218938'}}
+429 {'@type': 'ListItem', 'position': 430, 'item': {'@type': 'TVSeries', 'name': '원 데이 앳 어 타임', 'url': 'https://www.netflix.com/kr/title/80095532'}}
+430 {'@type': 'ListItem', 'position': 431, 'item': {'@type': 'TVSeries', 'name': '연예인 매니저로 살아남기', 'url': 'https://www.netflix.com/kr/title/80133335'}}
+431 {'@type': 'ListItem', 'position': 432, 'item': {'@type': 'TVSeries', 'name': '도전! 협소 주택', 'url': 'https://www.netflix.com/kr/title/81016914'}}
+432 {'@type': 'ListItem', 'position': 433, 'item': {'@type': 'TVSeries', 'name': '아이돌 마스터', 'url': 'https://www.netflix.com/kr/title/80188936'}}
+433 {'@type': 'ListItem', 'position': 434, 'item': {'@type': 'TVSeries', 'name': '앱스트랙트: 디자인의 미학', 'url': 'https://www.netflix.com/kr/title/80057883'}}
+434 {'@type': 'ListItem', 'position': 435, 'item': {'@type': 'TVSeries', 'name': '선택! 줌보의 디저트', 'url': 'https://www.netflix.com/kr/title/80204927'}}
+435 {'@type': 'ListItem', 'position': 436, 'item': {'@type': 'TVSeries', 'name': '패밀리 리유니언', 'url': 'https://www.netflix.com/kr/title/80234451'}}
+436 {'@type': 'ListItem', 'position': 437, 'item': {'@type': 'TVSeries', 'name': '더 먹고 가(家)', 'url': 'https://www.netflix.com/kr/title/81370655'}}
+437 {'@type': 'ListItem', 'position': 438, 'item': {'@type': 'TVSeries', 'name': '프린세스 다이애나', 'url': 'https://www.netflix.com/kr/title/80189024'}}
+438 {'@type': 'ListItem', 'position': 439, 'item': {'@type': 'TVSeries', 'name': '401 트럭 구조대 24시', 'url': 'https://www.netflix.com/kr/title/80185266'}}
+439 {'@type': 'ListItem', 'position': 440, 'item': {'@type': 'TVSeries', 'name': '퀴어 아이', 'url': 'https://www.netflix.com/kr/title/80160037'}}
+440 {'@type': 'ListItem', 'position': 441, 'item': {'@type': 'TVSeries', 'name': '데리 걸스', 'url': 'https://www.netflix.com/kr/title/80238565'}}
+441 {'@type': 'ListItem', 'position': 442, 'item': {'@type': 'TVSeries', 'name': '이글레시아스 선생의 즐거운 교실', 'url': 'https://www.netflix.com/kr/title/80209013'}}
+442 {'@type': 'ListItem', 'position': 443, 'item': {'@type': 'TVSeries', 'name': '그랜드 디자인', 'url': 'https://www.netflix.com/kr/title/80160755'}}
+443 {'@type': 'ListItem', 'position': 444, 'item': {'@type': 'TVSeries', 'name': '파티셰를 잡아라! 메리 크리스마스!', 'url': 'https://www.netflix.com/kr/title/81019894'}}
+444 {'@type': 'ListItem', 'position': 445, 'item': {'@type': 'TVSeries', 'name': '구마진군', 'url': 'https://www.netflix.com/kr/title/81346818'}}
+445 {'@type': 'ListItem', 'position': 446, 'item': {'@type': 'TVSeries', 'name': '마음의 소리: Reboot', 'url': 'https://www.netflix.com/kr/title/81029884'}}
+446 {'@type': 'ListItem', 'position': 447, 'item': {'@type': 'TVSeries', 'name': '나디야의 초간단 레시피', 'url': 'https://www.netflix.com/kr/title/81185359'}}
+447 {'@type': 'ListItem', 'position': 448, 'item': {'@type': 'TVSeries', 'name': '여미 맘스', 'url': 'https://www.netflix.com/kr/title/80217769'}}
+448 {'@type': 'ListItem', 'position': 449, 'item': {'@type': 'TVSeries', 'name': '익스플레인: 뇌를 해설하다', 'url': 'https://www.netflix.com/kr/title/81098586'}}
+449 {'@type': 'ListItem', 'position': 450, 'item': {'@type': 'TVSeries', 'name': '곤도 마리에: 설레지 않으면 버려라', 'url': 'https://www.netflix.com/kr/title/80209379'}}
+450 {'@type': 'ListItem', 'position': 451, 'item': {'@type': 'TVSeries', 'name': '응답하라 1988', 'url': 'https://www.netflix.com/kr/title/80188351'}}
+451 {'@type': 'ListItem', 'position': 452, 'item': {'@type': 'TVSeries', 'name': '도깨비', 'url': 'https://www.netflix.com/kr/title/81012510'}}
+452 {'@type': 'ListItem', 'position': 453, 'item': {'@type': 'TVSeries', 'name': '별에서 온 그대', 'url': 'https://www.netflix.com/kr/title/80025266'}}
+453 {'@type': 'ListItem', 'position': 454, 'item': {'@type': 'TVSeries', 'name': '멜로가 체질', 'url': 'https://www.netflix.com/kr/title/81211284'}}
+454 {'@type': 'ListItem', 'position': 455, 'item': {'@type': 'TVSeries', 'name': '응답하라 1994', 'url': 'https://www.netflix.com/kr/title/80165487'}}
+455 {'@type': 'ListItem', 'position': 456, 'item': {'@type': 'TVSeries', 'name': '달의 연인 - 보보경심 려', 'url': 'https://www.netflix.com/kr/title/80156759'}}
+456 {'@type': 'ListItem', 'position': 457, 'item': {'@type': 'TVSeries', 'name': '미스터 션샤인', 'url': 'https://www.netflix.com/kr/title/80991107'}}
+457 {'@type': 'ListItem', 'position': 458, 'item': {'@type': 'TVSeries', 'name': '또! 오해영', 'url': 'https://www.netflix.com/kr/title/81077044'}}
+458 {'@type': 'ListItem', 'position': 459, 'item': {'@type': 'TVSeries', 'name': '이번 생은 처음이라', 'url': 'https://www.netflix.com/kr/title/81167119'}}
+459 {'@type': 'ListItem', 'position': 460, 'item': {'@type': 'TVSeries', 'name': '사이코지만 괜찮아', 'url': 'https://www.netflix.com/kr/title/81243992'}}
+460 {'@type': 'ListItem', 'position': 461, 'item': {'@type': 'TVSeries', 'name': '김비서가 왜 그럴까', 'url': 'https://www.netflix.com/kr/title/81030241'}}
+461 {'@type': 'ListItem', 'position': 462, 'item': {'@type': 'TVSeries', 'name': '좋아하면 울리는', 'url': 'https://www.netflix.com/kr/title/80168068'}}
+462 {'@type': 'ListItem', 'position': 463, 'item': {'@type': 'TVSeries', 'name': '아는 와이프', 'url': 'https://www.netflix.com/kr/title/81267743'}}
+463 {'@type': 'ListItem', 'position': 464, 'item': {'@type': 'TVSeries', 'name': '괜찮아 사랑이야', 'url': 'https://www.netflix.com/kr/title/80031632'}}
+464 {'@type': 'ListItem', 'position': 465, 'item': {'@type': 'TVSeries', 'name': '백일의 낭군님', 'url': 'https://www.netflix.com/kr/title/81267722'}}
+465 {'@type': 'ListItem', 'position': 466, 'item': {'@type': 'TVSeries', 'name': '뷰티 인사이드', 'url': 'https://www.netflix.com/kr/title/81029990'}}
+466 {'@type': 'ListItem', 'position': 467, 'item': {'@type': 'TVSeries', 'name': '내 아이디는 강남미인', 'url': 'https://www.netflix.com/kr/title/81030026'}}
+467 {'@type': 'ListItem', 'position': 468, 'item': {'@type': 'TVSeries', 'name': '응답하라 1997', 'url': 'https://www.netflix.com/kr/title/70297144'}}
+468 {'@type': 'ListItem', 'position': 469, 'item': {'@type': 'TVSeries', 'name': '오 나의 귀신님', 'url': 'https://www.netflix.com/kr/title/80178404'}}
+469 {'@type': 'ListItem', 'position': 470, 'item': {'@type': 'TVSeries', 'name': '동백꽃 필 무렵', 'url': 'https://www.netflix.com/kr/title/81144925'}}
+470 {'@type': 'ListItem', 'position': 471, 'item': {'@type': 'TVSeries', 'name': '힘쎈 여자 도봉순', 'url': 'https://www.netflix.com/kr/title/80198001'}}
+471 {'@type': 'ListItem', 'position': 472, 'item': {'@type': 'TVSeries', 'name': '치즈 인 더 트랩', 'url': 'https://www.netflix.com/kr/title/81166946'}}
+472 {'@type': 'ListItem', 'position': 473, 'item': {'@type': 'TVSeries', 'name': '눈이 부시게', 'url': 'https://www.netflix.com/kr/title/81211166'}}
+473 {'@type': 'ListItem', 'position': 474, 'item': {'@type': 'TVSeries', 'name': '청춘시대', 'url': 'https://www.netflix.com/kr/title/80128686'}}
+474 {'@type': 'ListItem', 'position': 475, 'item': {'@type': 'TVSeries', 'name': '더케이투', 'url': 'https://www.netflix.com/kr/title/80188730'}}
+475 {'@type': 'ListItem', 'position': 476, 'item': {'@type': 'TVSeries', 'name': '기황후', 'url': 'https://www.netflix.com/kr/title/80093324'}}
+476 {'@type': 'ListItem', 'position': 477, 'item': {'@type': 'TVSeries', 'name': '명불허전', 'url': 'https://www.netflix.com/kr/title/81167137'}}
+477 {'@type': 'ListItem', 'position': 478, 'item': {'@type': 'TVSeries', 'name': '부부의 세계', 'url': 'https://www.netflix.com/kr/title/81287006'}}
+478 {'@type': 'ListItem', 'position': 479, 'item': {'@type': 'TVSeries', 'name': '성균관 스캔들', 'url': 'https://www.netflix.com/kr/title/80154882'}}
+479 {'@type': 'ListItem', 'position': 480, 'item': {'@type': 'TVSeries', 'name': '더 킹: 영원의 군주', 'url': 'https://www.netflix.com/kr/title/81260283'}}
+480 {'@type': 'ListItem', 'position': 481, 'item': {'@type': 'TVSeries', 'name': '도시남녀의 사랑법', 'url': 'https://www.netflix.com/kr/title/81340910'}}
+481 {'@type': 'ListItem', 'position': 482, 'item': {'@type': 'TVSeries', 'name': '경우의 수', 'url': 'https://www.netflix.com/kr/title/81350931'}}
+482 {'@type': 'ListItem', 'position': 483, 'item': {'@type': 'TVSeries', 'name': '청춘기록', 'url': 'https://www.netflix.com/kr/title/81290301'}}
+483 {'@type': 'ListItem', 'position': 484, 'item': {'@type': 'TVSeries', 'name': '최강 배달꾼', 'url': 'https://www.netflix.com/kr/title/80211787'}}
+484 {'@type': 'ListItem', 'position': 485, 'item': {'@type': 'TVSeries', 'name': '화유기', 'url': 'https://www.netflix.com/kr/title/80214405'}}
+485 {'@type': 'ListItem', 'position': 486, 'item': {'@type': 'TVSeries', 'name': '식샤를 합시다 2', 'url': 'https://www.netflix.com/kr/title/80183878'}}
+486 {'@type': 'ListItem', 'position': 487, 'item': {'@type': 'TVSeries', 'name': '밥\xa0잘\xa0사주는\xa0예쁜\xa0누나', 'url': 'https://www.netflix.com/kr/title/80990935'}}
+487 {'@type': 'ListItem', 'position': 488, 'item': {'@type': 'TVSeries', 'name': '알함브라 궁전의 추억', 'url': 'https://www.netflix.com/kr/title/81004280'}}
+488 {'@type': 'ListItem', 'position': 489, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/81354739'}}
+489 {'@type': 'ListItem', 'position': 490, 'item': {'@type': 'TVSeries', 'name': '로맨스는 별책부록', 'url': 'https://www.netflix.com/kr/title/81045349'}}
+490 {'@type': 'ListItem', 'position': 491, 'item': {'@type': 'TVSeries', 'name': '그 겨울, 바람이 분다', 'url': 'https://www.netflix.com/kr/title/70296735'}}
+491 {'@type': 'ListItem', 'position': 492, 'item': {'@type': 'TVSeries', 'name': '신데렐라와 네 명의 기사', 'url': 'https://www.netflix.com/kr/title/80188605'}}
+492 {'@type': 'ListItem', 'position': 493, 'item': {'@type': 'TVSeries', 'name': '일단 뜨겁게 청소하라', 'url': 'https://www.netflix.com/kr/title/81030008'}}
+493 {'@type': 'ListItem', 'position': 494, 'item': {'@type': 'TVSeries', 'name': '첫사랑은 처음이라서', 'url': 'https://www.netflix.com/kr/title/81026700'}}
+494 {'@type': 'ListItem', 'position': 495, 'item': {'@type': 'TVSeries', 'name': '봄밤', 'url': 'https://www.netflix.com/kr/title/81094069'}}
+495 {'@type': 'ListItem', 'position': 496, 'item': {'@type': 'TVSeries', 'name': '신입사관 구해령', 'url': 'https://www.netflix.com/kr/title/81116487'}}
+496 {'@type': 'ListItem', 'position': 497, 'item': {'@type': 'TVSeries', 'name': '바람과 구름과 비', 'url': 'https://www.netflix.com/kr/title/81380171'}}
+497 {'@type': 'ListItem', 'position': 498, 'item': {'@type': 'TVSeries', 'name': '미스티', 'url': 'https://www.netflix.com/kr/title/81029905'}}
+498 {'@type': 'ListItem', 'position': 499, 'item': {'@type': 'TVSeries', 'name': '하백의 신부', 'url': 'https://www.netflix.com/kr/title/81012487'}}
+499 {'@type': 'ListItem', 'position': 500, 'item': {'@type': 'TVSeries', 'name': '내일 그대와', 'url': 'https://www.netflix.com/kr/title/81167029'}}
+500 {'@type': 'ListItem', 'position': 501, 'item': {'@type': 'TVSeries', 'name': '열여덟의 순간', 'url': 'https://www.netflix.com/kr/title/81211266'}}
+501 {'@type': 'ListItem', 'position': 502, 'item': {'@type': 'TVSeries', 'name': '그녀는 거짓말을 너무 사랑해', 'url': 'https://www.netflix.com/kr/title/81167083'}}
+502 {'@type': 'ListItem', 'position': 503, 'item': {'@type': 'TVSeries', 'name': '두번째 스무살', 'url': 'https://www.netflix.com/kr/title/81167011'}}
+503 {'@type': 'ListItem', 'position': 504, 'item': {'@type': 'TVSeries', 'name': '마성의 기쁨', 'url': 'https://www.netflix.com/kr/title/81305105'}}
+504 {'@type': 'ListItem', 'position': 505, 'item': {'@type': 'TVSeries', 'name': '나 홀로 그대', 'url': 'https://www.netflix.com/kr/title/81008021'}}
+505 {'@type': 'ListItem', 'position': 506, 'item': {'@type': 'TVSeries', 'name': '하이에나', 'url': 'https://www.netflix.com/kr/title/81177545'}}
+506 {'@type': 'ListItem', 'position': 507, 'item': {'@type': 'TVSeries', 'name': '도도솔솔라라솔', 'url': 'https://www.netflix.com/kr/title/81276344'}}
+507 {'@type': 'ListItem', 'position': 508, 'item': {'@type': 'TVSeries', 'name': '개인의 취향', 'url': 'https://www.netflix.com/kr/title/80071088'}}
+508 {'@type': 'ListItem', 'position': 509, 'item': {'@type': 'TVSeries', 'name': '싸우자 귀신아', 'url': 'https://www.netflix.com/kr/title/81166978'}}
+509 {'@type': 'ListItem', 'position': 510, 'item': {'@type': 'TVSeries', 'name': '식샤를 합시다', 'url': 'https://www.netflix.com/kr/title/80177986'}}
+510 {'@type': 'ListItem', 'position': 511, 'item': {'@type': 'TVSeries', 'name': '애타는 로맨스', 'url': 'https://www.netflix.com/kr/title/81170092'}}
+511 {'@type': 'ListItem', 'position': 512, 'item': {'@type': 'TVSeries', 'name': '멈추고 싶은 순간 : \n어바웃 타임', 'url': 'https://www.netflix.com/kr/title/81267762'}}
+512 {'@type': 'ListItem', 'position': 513, 'item': {'@type': 'TVSeries', 'name': '엽기적인 그녀', 'url': 'https://www.netflix.com/kr/title/81033645'}}
+513 {'@type': 'ListItem', 'position': 514, 'item': {'@type': 'TVSeries', 'name': '시카고 타자기', 'url': 'https://www.netflix.com/kr/title/81167065'}}
+514 {'@type': 'ListItem', 'position': 515, 'item': {'@type': 'TVSeries', 'name': '7급 공무원', 'url': 'https://www.netflix.com/kr/title/80154745'}}
+515 {'@type': 'ListItem', 'position': 516, 'item': {'@type': 'TVSeries', 'name': '마이 프린세스', 'url': 'https://www.netflix.com/kr/title/70202359'}}
+516 {'@type': 'ListItem', 'position': 517, 'item': {'@type': 'TVSeries', 'name': '조선혼담공작소 꽃파당', 'url': 'https://www.netflix.com/kr/title/81211303'}}
+517 {'@type': 'ListItem', 'position': 518, 'item': {'@type': 'TVSeries', 'name': '내성적인 보스', 'url': 'https://www.netflix.com/kr/title/81267651'}}
+518 {'@type': 'ListItem', 'position': 519, 'item': {'@type': 'TVSeries', 'name': '변혁의 사랑', 'url': 'https://www.netflix.com/kr/title/81267671'}}
+519 {'@type': 'ListItem', 'position': 520, 'item': {'@type': 'TVSeries', 'name': '카인과 아벨', 'url': 'https://www.netflix.com/kr/title/80094386'}}
+520 {'@type': 'ListItem', 'position': 521, 'item': {'@type': 'TVSeries', 'name': '연애의 맛', 'url': 'https://www.netflix.com/kr/title/81085540'}}
+521 {'@type': 'ListItem', 'position': 522, 'item': {'@type': 'TVSeries', 'name': '보고싶다', 'url': 'https://www.netflix.com/kr/title/80076261'}}
+522 {'@type': 'ListItem', 'position': 523, 'item': {'@type': 'TVSeries', 'name': '넌 내게 반했어', 'url': 'https://www.netflix.com/kr/title/70251165'}}
+523 {'@type': 'ListItem', 'position': 524, 'item': {'@type': 'TVSeries', 'name': '맨투맨', 'url': 'https://www.netflix.com/kr/title/80176866'}}
+524 {'@type': 'ListItem', 'position': 525, 'item': {'@type': 'TVSeries', 'name': '제3의 매력', 'url': 'https://www.netflix.com/kr/title/81030044'}}
+525 {'@type': 'ListItem', 'position': 526, 'item': {'@type': 'TVSeries', 'name': '빨간 머리 앤', 'url': 'https://www.netflix.com/kr/title/80136311'}}
+526 {'@type': 'ListItem', 'position': 527, 'item': {'@type': 'TVSeries', 'name': '그레이 아나토미', 'url': 'https://www.netflix.com/kr/title/70140391'}}
+527 {'@type': 'ListItem', 'position': 528, 'item': {'@type': 'TVSeries', 'name': '상견니', 'url': 'https://www.netflix.com/kr/title/81342555'}}
+528 {'@type': 'ListItem', 'position': 529, 'item': {'@type': 'TVSeries', 'name': '겨우, 서른', 'url': 'https://www.netflix.com/kr/title/81330889'}}
+529 {'@type': 'ListItem', 'position': 530, 'item': {'@type': 'TVSeries', 'name': '힘쎈 여자 도봉순', 'url': 'https://www.netflix.com/kr/title/80198001'}}
+530 {'@type': 'ListItem', 'position': 531, 'item': {'@type': 'TVSeries', 'name': '오렌지 이즈 더 뉴 블랙', 'url': 'https://www.netflix.com/kr/title/70242311'}}
+531 {'@type': 'ListItem', 'position': 532, 'item': {'@type': 'TVSeries', 'name': '원헌드레드', 'url': 'https://www.netflix.com/kr/title/70283264'}}
+532 {'@type': 'ListItem', 'position': 533, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+533 {'@type': 'ListItem', 'position': 534, 'item': {'@type': 'TVSeries', 'name': '청춘시대', 'url': 'https://www.netflix.com/kr/title/80128686'}}
+534 {'@type': 'ListItem', 'position': 535, 'item': {'@type': 'TVSeries', 'name': '홈랜드', 'url': 'https://www.netflix.com/kr/title/70180387'}}
+535 {'@type': 'ListItem', 'position': 536, 'item': {'@type': 'TVSeries', 'name': '사브리나의 오싹한 모험', 'url': 'https://www.netflix.com/kr/title/80223989'}}
+536 {'@type': 'ListItem', 'position': 537, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+537 {'@type': 'ListItem', 'position': 538, 'item': {'@type': 'TVSeries', 'name': '기황후', 'url': 'https://www.netflix.com/kr/title/80093324'}}
+538 {'@type': 'ListItem', 'position': 539, 'item': {'@type': 'TVSeries', 'name': '길모어 걸스', 'url': 'https://www.netflix.com/kr/title/70155618'}}
+539 {'@type': 'ListItem', 'position': 540, 'item': {'@type': 'TVSeries', 'name': '엄브렐러 아카데미', 'url': 'https://www.netflix.com/kr/title/80186863'}}
+540 {'@type': 'ListItem', 'position': 541, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+541 {'@type': 'ListItem', 'position': 542, 'item': {'@type': 'TVSeries', 'name': '굿 플레이스', 'url': 'https://www.netflix.com/kr/title/80113701'}}
+542 {'@type': 'ListItem', 'position': 543, 'item': {'@type': 'TVSeries', 'name': '바이올렛 에버가든', 'url': 'https://www.netflix.com/kr/title/80182123'}}
+543 {'@type': 'ListItem', 'position': 544, 'item': {'@type': 'TVSeries', 'name': '보건교사 안은영', 'url': 'https://www.netflix.com/kr/title/80209129'}}
+544 {'@type': 'ListItem', 'position': 545, 'item': {'@type': 'TVSeries', 'name': '스타트렉: 디스커버리', 'url': 'https://www.netflix.com/kr/title/80126024'}}
+545 {'@type': 'ListItem', 'position': 546, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+546 {'@type': 'ListItem', 'position': 547, 'item': {'@type': 'TVSeries', 'name': '슈퍼걸', 'url': 'https://www.netflix.com/kr/title/80065386'}}
+547 {'@type': 'ListItem', 'position': 548, 'item': {'@type': 'TVSeries', 'name': '노는 언니', 'url': 'https://www.netflix.com/kr/title/81333883'}}
+548 {'@type': 'ListItem', 'position': 549, 'item': {'@type': 'TVSeries', 'name': '디스인챈트', 'url': 'https://www.netflix.com/kr/title/80095697'}}
+549 {'@type': 'ListItem', 'position': 550, 'item': {'@type': 'TVSeries', 'name': '효리네 민박', 'url': 'https://www.netflix.com/kr/title/80195839'}}
+550 {'@type': 'ListItem', 'position': 551, 'item': {'@type': 'TVSeries', 'name': '섀도우 헌터스: 더 모탈 인스트루먼트', 'url': 'https://www.netflix.com/kr/title/80084447'}}
+551 {'@type': 'ListItem', 'position': 552, 'item': {'@type': 'TVSeries', 'name': '검은 욕망', 'url': 'https://www.netflix.com/kr/title/81090319'}}
+552 {'@type': 'ListItem', 'position': 553, 'item': {'@type': 'TVSeries', 'name': '웬트워스', 'url': 'https://www.netflix.com/kr/title/80013249'}}
+553 {'@type': 'ListItem', 'position': 554, 'item': {'@type': 'TVSeries', 'name': '오펀 블랙', 'url': 'https://www.netflix.com/kr/title/70276033'}}
+554 {'@type': 'ListItem', 'position': 555, 'item': {'@type': 'TVSeries', 'name': '어둠 속으로', 'url': 'https://www.netflix.com/kr/title/81008221'}}
+555 {'@type': 'ListItem', 'position': 556, 'item': {'@type': 'TVSeries', 'name': '공각기동대 에스에이씨_2030', 'url': 'https://www.netflix.com/kr/title/70213091'}}
+556 {'@type': 'ListItem', 'position': 557, 'item': {'@type': 'TVSeries', 'name': '첫사랑의 멜로디', 'url': 'https://www.netflix.com/kr/title/81185502'}}
+557 {'@type': 'ListItem', 'position': 558, 'item': {'@type': 'TVSeries', 'name': '사생활', 'url': 'https://www.netflix.com/kr/title/81318096'}}
+558 {'@type': 'ListItem', 'position': 559, 'item': {'@type': 'TVSeries', 'name': '품위있는 그녀', 'url': 'https://www.netflix.com/kr/title/80226168'}}
+559 {'@type': 'ListItem', 'position': 560, 'item': {'@type': 'TVSeries', 'name': '금수미앙', 'url': 'https://www.netflix.com/kr/title/80987113'}}
+560 {'@type': 'ListItem', 'position': 561, 'item': {'@type': 'TVSeries', 'name': '디어 마이 프렌즈', 'url': 'https://www.netflix.com/kr/title/81267633'}}
+561 {'@type': 'ListItem', 'position': 562, 'item': {'@type': 'TVSeries', 'name': '반 헬싱', 'url': 'https://www.netflix.com/kr/title/80121349'}}
+562 {'@type': 'ListItem', 'position': 563, 'item': {'@type': 'TVSeries', 'name': '굿 걸스', 'url': 'https://www.netflix.com/kr/title/80177342'}}
+563 {'@type': 'ListItem', 'position': 564, 'item': {'@type': 'TVSeries', 'name': '버진리버', 'url': 'https://www.netflix.com/kr/title/80240027'}}
+564 {'@type': 'ListItem', 'position': 565, 'item': {'@type': 'TVSeries', 'name': '쌍갑포차', 'url': 'https://www.netflix.com/kr/title/81264882'}}
+565 {'@type': 'ListItem', 'position': 566, 'item': {'@type': 'TVSeries', 'name': '러브 라이브! School idol project', 'url': 'https://www.netflix.com/kr/title/80150600'}}
+566 {'@type': 'ListItem', 'position': 567, 'item': {'@type': 'TVSeries', 'name': '미스티', 'url': 'https://www.netflix.com/kr/title/81029905'}}
+567 {'@type': 'ListItem', 'position': 568, 'item': {'@type': 'TVSeries', 'name': '블레이드 앤 소울', 'url': 'https://www.netflix.com/kr/title/80186175'}}
+568 {'@type': 'ListItem', 'position': 569, 'item': {'@type': 'TVSeries', 'name': '뉴 걸', 'url': 'https://www.netflix.com/kr/title/70196145'}}
+569 {'@type': 'ListItem', 'position': 570, 'item': {'@type': 'TVSeries', 'name': '그레이스 앤 프랭키', 'url': 'https://www.netflix.com/kr/title/80017537'}}
+570 {'@type': 'ListItem', 'position': 571, 'item': {'@type': 'TVSeries', 'name': '아이 좀비', 'url': 'https://www.netflix.com/kr/title/80027159'}}
+571 {'@type': 'ListItem', 'position': 572, 'item': {'@type': 'TVSeries', 'name': '워리어 넌: 신의 뜻대로', 'url': 'https://www.netflix.com/kr/title/80242724'}}
+572 {'@type': 'ListItem', 'position': 573, 'item': {'@type': 'TVSeries', 'name': '호프 밸리', 'url': 'https://www.netflix.com/kr/title/80036407'}}
+573 {'@type': 'ListItem', 'position': 574, 'item': {'@type': 'TVSeries', 'name': '3%', 'url': 'https://www.netflix.com/kr/title/80074220'}}
+574 {'@type': 'ListItem', 'position': 575, 'item': {'@type': 'TVSeries', 'name': '제인 더 버진', 'url': 'https://www.netflix.com/kr/title/80027158'}}
+575 {'@type': 'ListItem', 'position': 576, 'item': {'@type': 'TVSeries', 'name': '유녀전기', 'url': 'https://www.netflix.com/kr/title/80169285'}}
+576 {'@type': 'ListItem', 'position': 577, 'item': {'@type': 'TVSeries', 'name': '더 폴', 'url': 'https://www.netflix.com/kr/title/70272726'}}
+577 {'@type': 'ListItem', 'position': 578, 'item': {'@type': 'TVSeries', 'name': '래치드', 'url': 'https://www.netflix.com/kr/title/80213445'}}
+578 {'@type': 'ListItem', 'position': 579, 'item': {'@type': 'TVSeries', 'name': '마블 제시카 존스', 'url': 'https://www.netflix.com/kr/title/80002311'}}
+579 {'@type': 'ListItem', 'position': 580, 'item': {'@type': 'TVSeries', 'name': '마드리드 모던걸', 'url': 'https://www.netflix.com/kr/title/80100929'}}
+580 {'@type': 'ListItem', 'position': 581, 'item': {'@type': 'TVSeries', 'name': '킬라킬', 'url': 'https://www.netflix.com/kr/title/70305217'}}
+581 {'@type': 'ListItem', 'position': 582, 'item': {'@type': 'TVSeries', 'name': '믿을 수 없는 이야기', 'url': 'https://www.netflix.com/kr/title/80153467'}}
+582 {'@type': 'ListItem', 'position': 583, 'item': {'@type': 'TVSeries', 'name': '4차원 가족 카다시안 따라잡기', 'url': 'https://www.netflix.com/kr/title/70153388'}}
+583 {'@type': 'ListItem', 'position': 584, 'item': {'@type': 'TVSeries', 'name': '하트랜드', 'url': 'https://www.netflix.com/kr/title/70171946'}}
+584 {'@type': 'ListItem', 'position': 585, 'item': {'@type': 'TVSeries', 'name': 'OA', 'url': 'https://www.netflix.com/kr/title/80044950'}}
+585 {'@type': 'ListItem', 'position': 586, 'item': {'@type': 'TVSeries', 'name': '파티셰를 잡아라!', 'url': 'https://www.netflix.com/kr/title/80179138'}}
+586 {'@type': 'ListItem', 'position': 587, 'item': {'@type': 'TVSeries', 'name': '러브 앤 아나키', 'url': 'https://www.netflix.com/kr/title/81069541'}}
+587 {'@type': 'ListItem', 'position': 588, 'item': {'@type': 'TVSeries', 'name': '컨트롤 Z', 'url': 'https://www.netflix.com/kr/title/81021245'}}
+588 {'@type': 'ListItem', 'position': 589, 'item': {'@type': 'TVSeries', 'name': '채울 수 없는', 'url': 'https://www.netflix.com/kr/title/80179905'}}
+589 {'@type': 'ListItem', 'position': 590, 'item': {'@type': 'TVSeries', 'name': '데드 투 미', 'url': 'https://www.netflix.com/kr/title/80219707'}}
+590 {'@type': 'ListItem', 'position': 591, 'item': {'@type': 'TVSeries', 'name': '굿 위치', 'url': 'https://www.netflix.com/kr/title/80036416'}}
+591 {'@type': 'ListItem', 'position': 592, 'item': {'@type': 'TVSeries', 'name': '그리고 베를린에서', 'url': 'https://www.netflix.com/kr/title/81019069'}}
+592 {'@type': 'ListItem', 'position': 593, 'item': {'@type': 'TVSeries', 'name': '아이 엠 낫 오케이', 'url': 'https://www.netflix.com/kr/title/80244781'}}
+593 {'@type': 'ListItem', 'position': 594, 'item': {'@type': 'TVSeries', 'name': '바자르의 불꽃', 'url': 'https://www.netflix.com/kr/title/80213020'}}
+594 {'@type': 'ListItem', 'position': 595, 'item': {'@type': 'TVSeries', 'name': '모나르카', 'url': 'https://www.netflix.com/kr/title/80211572'}}
+595 {'@type': 'ListItem', 'position': 596, 'item': {'@type': 'TVSeries', 'name': '샨나라 연대기', 'url': 'https://www.netflix.com/kr/title/80084164'}}
+596 {'@type': 'ListItem', 'position': 597, 'item': {'@type': 'TVSeries', 'name': '베벌리힐스의 진짜 주부들', 'url': 'https://www.netflix.com/kr/title/70217931'}}
+597 {'@type': 'ListItem', 'position': 598, 'item': {'@type': 'TVSeries', 'name': '델리 크라임', 'url': 'https://www.netflix.com/kr/title/81076756'}}
+598 {'@type': 'ListItem', 'position': 599, 'item': {'@type': 'TVSeries', 'name': '언브레이커블 키미슈미트', 'url': 'https://www.netflix.com/kr/title/80025384'}}
+599 {'@type': 'ListItem', 'position': 600, 'item': {'@type': 'TVSeries', 'name': '어웨이', 'url': 'https://www.netflix.com/kr/title/80214512'}}
+600 {'@type': 'ListItem', 'position': 601, 'item': {'@type': 'TVSeries', 'name': '보스 베이비: 돌아온 보스', 'url': 'https://www.netflix.com/kr/title/80178943'}}
+601 {'@type': 'ListItem', 'position': 602, 'item': {'@type': 'TVSeries', 'name': '신비아파트: 고스트볼의 비밀', 'url': 'https://www.netflix.com/kr/title/81028939'}}
+602 {'@type': 'ListItem', 'position': 603, 'item': {'@type': 'TVSeries', 'name': '도라에몽', 'url': 'https://www.netflix.com/kr/title/80025688'}}
+603 {'@type': 'ListItem', 'position': 604, 'item': {'@type': 'TVSeries', 'name': '틴 타이탄 GO!', 'url': 'https://www.netflix.com/kr/title/80103408'}}
+604 {'@type': 'ListItem', 'position': 605, 'item': {'@type': 'TVSeries', 'name': '위 베어 베어스: 곰 브라더스', 'url': 'https://www.netflix.com/kr/title/80116921'}}
+605 {'@type': 'ListItem', 'position': 606, 'item': {'@type': 'TVSeries', 'name': '쿠로코의 농구', 'url': 'https://www.netflix.com/kr/title/80063153'}}
+606 {'@type': 'ListItem', 'position': 607, 'item': {'@type': 'TVSeries', 'name': '겁쟁이 페달', 'url': 'https://www.netflix.com/kr/title/80061943'}}
+607 {'@type': 'ListItem', 'position': 608, 'item': {'@type': 'TVSeries', 'name': '엉덩이 탐정', 'url': 'https://www.netflix.com/kr/title/80992180'}}
+608 {'@type': 'ListItem', 'position': 609, 'item': {'@type': 'TVSeries', 'name': '드래곤 길들이기: 세상 끝으로', 'url': 'https://www.netflix.com/kr/title/80039394'}}
+609 {'@type': 'ListItem', 'position': 610, 'item': {'@type': 'TVSeries', 'name': '꼴찌 마녀 밀드레드', 'url': 'https://www.netflix.com/kr/title/80130521'}}
+610 {'@type': 'ListItem', 'position': 611, 'item': {'@type': 'TVSeries', 'name': '검볼', 'url': 'https://www.netflix.com/kr/title/70243420'}}
+611 {'@type': 'ListItem', 'position': 612, 'item': {'@type': 'TVSeries', 'name': '안녕자두야', 'url': 'https://www.netflix.com/kr/title/81349850'}}
+612 {'@type': 'ListItem', 'position': 613, 'item': {'@type': 'TVSeries', 'name': '쥬라기 월드: 백악기 어드벤처', 'url': 'https://www.netflix.com/kr/title/81009646'}}
+613 {'@type': 'ListItem', 'position': 614, 'item': {'@type': 'TVSeries', 'name': '핀과 제이크의 어드벤처 타임', 'url': 'https://www.netflix.com/kr/title/70241425'}}
+614 {'@type': 'ListItem', 'position': 615, 'item': {'@type': 'TVSeries', 'name': '코라의 전설', 'url': 'https://www.netflix.com/kr/title/80027563'}}
+615 {'@type': 'ListItem', 'position': 616, 'item': {'@type': 'TVSeries', 'name': '미라큘러스: 레이디버그와 블랙캣', 'url': 'https://www.netflix.com/kr/title/80164216'}}
+616 {'@type': 'ListItem', 'position': 617, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+617 {'@type': 'ListItem', 'position': 618, 'item': {'@type': 'TVSeries', 'name': '프리파라', 'url': 'https://www.netflix.com/kr/title/81228457'}}
+618 {'@type': 'ListItem', 'position': 619, 'item': {'@type': 'TVSeries', 'name': '마인크래프트: 스토리 모드', 'url': 'https://www.netflix.com/kr/title/80227995'}}
+619 {'@type': 'ListItem', 'position': 620, 'item': {'@type': 'TVSeries', 'name': '베스트 탐정단', 'url': 'https://www.netflix.com/kr/title/80243216'}}
+620 {'@type': 'ListItem', 'position': 621, 'item': {'@type': 'TVSeries', 'name': '베이블레이드 버스트 갓', 'url': 'https://www.netflix.com/kr/title/81018295'}}
+621 {'@type': 'ListItem', 'position': 622, 'item': {'@type': 'TVSeries', 'name': '힐다', 'url': 'https://www.netflix.com/kr/title/80115346'}}
+622 {'@type': 'ListItem', 'position': 623, 'item': {'@type': 'TVSeries', 'name': '우리의 지구', 'url': 'https://www.netflix.com/kr/title/80049832'}}
+623 {'@type': 'ListItem', 'position': 624, 'item': {'@type': 'TVSeries', 'name': '퍼피 아카데미', 'url': 'https://www.netflix.com/kr/title/81040639'}}
+624 {'@type': 'ListItem', 'position': 625, 'item': {'@type': 'TVSeries', 'name': '변신자동차 또봇', 'url': 'https://www.netflix.com/kr/title/81072571'}}
+625 {'@type': 'ListItem', 'position': 626, 'item': {'@type': 'TVSeries', 'name': '소닉 붐', 'url': 'https://www.netflix.com/kr/title/80155771'}}
+626 {'@type': 'ListItem', 'position': 627, 'item': {'@type': 'TVSeries', 'name': '트롤헌터: 아카디아의 전설', 'url': 'https://www.netflix.com/kr/title/80075820'}}
+627 {'@type': 'ListItem', 'position': 628, 'item': {'@type': 'TVSeries', 'name': '런닝맨', 'url': 'https://www.netflix.com/kr/title/81331228'}}
+628 {'@type': 'ListItem', 'position': 629, 'item': {'@type': 'TVSeries', 'name': 'DC 슈퍼히어로 걸스', 'url': 'https://www.netflix.com/kr/title/81145135'}}
+629 {'@type': 'ListItem', 'position': 630, 'item': {'@type': 'TVSeries', 'name': '미니특공대X', 'url': 'https://www.netflix.com/kr/title/81036448'}}
+630 {'@type': 'ListItem', 'position': 631, 'item': {'@type': 'TVSeries', 'name': '최강전사 미니특공대', 'url': 'https://www.netflix.com/kr/title/80176449'}}
+631 {'@type': 'ListItem', 'position': 632, 'item': {'@type': 'TVSeries', 'name': '트랜스포머 프라임', 'url': 'https://www.netflix.com/kr/title/70234439'}}
+632 {'@type': 'ListItem', 'position': 633, 'item': {'@type': 'TVSeries', 'name': 'LEGO: 닌자고', 'url': 'https://www.netflix.com/kr/title/81280792'}}
+633 {'@type': 'ListItem', 'position': 634, 'item': {'@type': 'TVSeries', 'name': 'LEGO 닌자고: 스핀짓주 마스터', 'url': 'https://www.netflix.com/kr/title/70252973'}}
+634 {'@type': 'ListItem', 'position': 635, 'item': {'@type': 'TVSeries', 'name': '당신과 자연의 대결', 'url': 'https://www.netflix.com/kr/title/80227574'}}
+635 {'@type': 'ListItem', 'position': 636, 'item': {'@type': 'TVSeries', 'name': 'LEGO 쥬라기월드: 이슬라 누블라 섬의 전설', 'url': 'https://www.netflix.com/kr/title/81280843'}}
+636 {'@type': 'ListItem', 'position': 637, 'item': {'@type': 'TVSeries', 'name': '베이블레이드 버스트 초제트', 'url': 'https://www.netflix.com/kr/title/81172568'}}
+637 {'@type': 'ListItem', 'position': 638, 'item': {'@type': 'TVSeries', 'name': '손오공: 새로운 전설', 'url': 'https://www.netflix.com/kr/title/80184682'}}
+638 {'@type': 'ListItem', 'position': 639, 'item': {'@type': 'TVSeries', 'name': '러브 라이브! School idol project', 'url': 'https://www.netflix.com/kr/title/80150600'}}
+639 {'@type': 'ListItem', 'position': 640, 'item': {'@type': 'TVSeries', 'name': '마코 머메이드', 'url': 'https://www.netflix.com/kr/title/70281343'}}
+640 {'@type': 'ListItem', 'position': 641, 'item': {'@type': 'TVSeries', 'name': '베이비시터 클럽', 'url': 'https://www.netflix.com/kr/title/81005407'}}
+641 {'@type': 'ListItem', 'position': 642, 'item': {'@type': 'TVSeries', 'name': '스피릿: 자유의 질주', 'url': 'https://www.netflix.com/kr/title/80115432'}}
+642 {'@type': 'ListItem', 'position': 643, 'item': {'@type': 'TVSeries', 'name': '카르멘 산디에고', 'url': 'https://www.netflix.com/kr/title/80167821'}}
+643 {'@type': 'ListItem', 'position': 644, 'item': {'@type': 'TVSeries', 'name': '볼트론: 전설 속의 수호자', 'url': 'https://www.netflix.com/kr/title/80075595'}}
+644 {'@type': 'ListItem', 'position': 645, 'item': {'@type': 'TVSeries', 'name': 'Yo-Kai Watch', 'url': 'https://www.netflix.com/kr/title/80106136'}}
+645 {'@type': 'ListItem', 'position': 646, 'item': {'@type': 'TVSeries', 'name': '드래곤 프린스', 'url': 'https://www.netflix.com/kr/title/80212245'}}
+646 {'@type': 'ListItem', 'position': 647, 'item': {'@type': 'TVSeries', 'name': '프리!', 'url': 'https://www.netflix.com/kr/title/80186018'}}
+647 {'@type': 'ListItem', 'position': 648, 'item': {'@type': 'TVSeries', 'name': '호프 밸리', 'url': 'https://www.netflix.com/kr/title/80036407'}}
+648 {'@type': 'ListItem', 'position': 649, 'item': {'@type': 'TVSeries', 'name': '블랙 프린스', 'url': 'https://www.netflix.com/kr/title/80134695'}}
+649 {'@type': 'ListItem', 'position': 650, 'item': {'@type': 'TVSeries', 'name': '클라렌스는 엉뚱해!', 'url': 'https://www.netflix.com/kr/title/81186527'}}
+650 {'@type': 'ListItem', 'position': 651, 'item': {'@type': 'Movie', 'name': '보스 베이비: 우리 아기를 찾아라!', 'url': 'https://www.netflix.com/kr/title/81054409'}}
+651 {'@type': 'ListItem', 'position': 652, 'item': {'@type': 'TVSeries', 'name': '베이블레이드 버스트', 'url': 'https://www.netflix.com/kr/title/80202539'}}
+652 {'@type': 'ListItem', 'position': 653, 'item': {'@type': 'TVSeries', 'name': '바비의 드림하우스 어드벤처', 'url': 'https://www.netflix.com/kr/title/80192734'}}
+653 {'@type': 'ListItem', 'position': 654, 'item': {'@type': 'TVSeries', 'name': '세계에서 가장 경이로운 집', 'url': 'https://www.netflix.com/kr/title/80213025'}}
+654 {'@type': 'ListItem', 'position': 655, 'item': {'@type': 'TVSeries', 'name': '프로젝트 Mc²', 'url': 'https://www.netflix.com/kr/title/80058852'}}
+655 {'@type': 'ListItem', 'position': 656, 'item': {'@type': 'TVSeries', 'name': '스톤에이지', 'url': 'https://www.netflix.com/kr/title/81100120'}}
+656 {'@type': 'ListItem', 'position': 657, 'item': {'@type': 'TVSeries', 'name': '몬카트', 'url': 'https://www.netflix.com/kr/title/81193245'}}
+657 {'@type': 'ListItem', 'position': 658, 'item': {'@type': 'TVSeries', 'name': '숲의 요정 페어리루', 'url': 'https://www.netflix.com/kr/title/81384733'}}
+658 {'@type': 'ListItem', 'position': 659, 'item': {'@type': 'TVSeries', 'name': '분노의 질주: 스파이 레이서', 'url': 'https://www.netflix.com/kr/title/80225085'}}
+659 {'@type': 'ListItem', 'position': 660, 'item': {'@type': 'TVSeries', 'name': '팩맨과 무시무시한 모험', 'url': 'https://www.netflix.com/kr/title/80000139'}}
+660 {'@type': 'ListItem', 'position': 661, 'item': {'@type': 'TVSeries', 'name': '오싹한 이야기', 'url': 'https://www.netflix.com/kr/title/80214792'}}
+661 {'@type': 'ListItem', 'position': 662, 'item': {'@type': 'TVSeries', 'name': 'H2O: 마코섬의 비밀', 'url': 'https://www.netflix.com/kr/title/70180051'}}
+662 {'@type': 'ListItem', 'position': 663, 'item': {'@type': 'TVSeries', 'name': '하트랜드', 'url': 'https://www.netflix.com/kr/title/70171946'}}
+663 {'@type': 'ListItem', 'position': 664, 'item': {'@type': 'TVSeries', 'name': '파티셰를 잡아라!', 'url': 'https://www.netflix.com/kr/title/80179138'}}
+664 {'@type': 'ListItem', 'position': 665, 'item': {'@type': 'TVSeries', 'name': '빤스맨의 위대한 모험', 'url': 'https://www.netflix.com/kr/title/80179782'}}
+665 {'@type': 'ListItem', 'position': 666, 'item': {'@type': 'TVSeries', 'name': '슈퍼키드 디온', 'url': 'https://www.netflix.com/kr/title/80117803'}}
+666 {'@type': 'ListItem', 'position': 667, 'item': {'@type': 'TVSeries', 'name': '도전! 용암 위를 건너라', 'url': 'https://www.netflix.com/kr/title/81006858'}}
+667 {'@type': 'ListItem', 'position': 668, 'item': {'@type': 'TVSeries', 'name': '슈거 러시: 달콤한 크리스마스', 'url': 'https://www.netflix.com/kr/title/81094391'}}
+668 {'@type': 'ListItem', 'position': 669, 'item': {'@type': 'TVSeries', 'name': '굿 위치', 'url': 'https://www.netflix.com/kr/title/80036416'}}
+669 {'@type': 'ListItem', 'position': 670, 'item': {'@type': 'TVSeries', 'name': '줄리 앤 팬텀스', 'url': 'https://www.netflix.com/kr/title/80230534'}}
+670 {'@type': 'ListItem', 'position': 671, 'item': {'@type': 'TVSeries', 'name': '알렉사 & 케이티', 'url': 'https://www.netflix.com/kr/title/80174285'}}
+671 {'@type': 'ListItem', 'position': 672, 'item': {'@type': 'TVSeries', 'name': '체서피크 쇼어', 'url': 'https://www.netflix.com/kr/title/80111373'}}
+672 {'@type': 'ListItem', 'position': 673, 'item': {'@type': 'TVSeries', 'name': '리락쿠마와 가오루 씨', 'url': 'https://www.netflix.com/kr/title/80196883'}}
+673 {'@type': 'ListItem', 'position': 674, 'item': {'@type': 'TVSeries', 'name': '플라워링하트', 'url': 'https://www.netflix.com/kr/title/81099997'}}
+674 {'@type': 'ListItem', 'position': 675, 'item': {'@type': 'TVSeries', 'name': '레모니 스니켓의 위험한 대결', 'url': 'https://www.netflix.com/kr/title/80050008'}}
+675 {'@type': 'ListItem', 'position': 676, 'item': {'@type': 'TVSeries', 'name': '나의 아저씨', 'url': 'https://www.netflix.com/kr/title/81267691'}}
+676 {'@type': 'ListItem', 'position': 677, 'item': {'@type': 'TVSeries', 'name': 'SKY 캐슬', 'url': 'https://www.netflix.com/kr/title/81030062'}}
+677 {'@type': 'ListItem', 'position': 678, 'item': {'@type': 'TVSeries', 'name': '슬기로운 감빵생활', 'url': 'https://www.netflix.com/kr/title/80214406'}}
+678 {'@type': 'ListItem', 'position': 679, 'item': {'@type': 'TVSeries', 'name': '셜록', 'url': 'https://www.netflix.com/kr/title/70202589'}}
+679 {'@type': 'ListItem', 'position': 680, 'item': {'@type': 'TVSeries', 'name': '또! 오해영', 'url': 'https://www.netflix.com/kr/title/81077044'}}
+680 {'@type': 'ListItem', 'position': 681, 'item': {'@type': 'TVSeries', 'name': '이번 생은 처음이라', 'url': 'https://www.netflix.com/kr/title/81167119'}}
+681 {'@type': 'ListItem', 'position': 682, 'item': {'@type': 'TVSeries', 'name': '사이코지만 괜찮아', 'url': 'https://www.netflix.com/kr/title/81243992'}}
+682 {'@type': 'ListItem', 'position': 683, 'item': {'@type': 'TVSeries', 'name': '김비서가 왜 그럴까', 'url': 'https://www.netflix.com/kr/title/81030241'}}
+683 {'@type': 'ListItem', 'position': 684, 'item': {'@type': 'TVSeries', 'name': '블랙 클로버', 'url': 'https://www.netflix.com/kr/title/80238012'}}
+684 {'@type': 'ListItem', 'position': 685, 'item': {'@type': 'TVSeries', 'name': '좋아하면 울리는', 'url': 'https://www.netflix.com/kr/title/80168068'}}
+685 {'@type': 'ListItem', 'position': 686, 'item': {'@type': 'TVSeries', 'name': '인간수업', 'url': 'https://www.netflix.com/kr/title/80990668'}}
+686 {'@type': 'ListItem', 'position': 687, 'item': {'@type': 'TVSeries', 'name': '그레이 아나토미', 'url': 'https://www.netflix.com/kr/title/70140391'}}
+687 {'@type': 'ListItem', 'position': 688, 'item': {'@type': 'TVSeries', 'name': '아는 와이프', 'url': 'https://www.netflix.com/kr/title/81267743'}}
+688 {'@type': 'ListItem', 'position': 689, 'item': {'@type': 'TVSeries', 'name': '보스 베이비: 돌아온 보스', 'url': 'https://www.netflix.com/kr/title/80178943'}}
+689 {'@type': 'ListItem', 'position': 690, 'item': {'@type': 'TVSeries', 'name': '삼국지', 'url': 'https://www.netflix.com/kr/title/80166224'}}
+690 {'@type': 'ListItem', 'position': 691, 'item': {'@type': 'TVSeries', 'name': '강철의 연금술사: 브라더후드', 'url': 'https://www.netflix.com/kr/title/70204981'}}
+691 {'@type': 'ListItem', 'position': 692, 'item': {'@type': 'TVSeries', 'name': '괜찮아 사랑이야', 'url': 'https://www.netflix.com/kr/title/80031632'}}
+692 {'@type': 'ListItem', 'position': 693, 'item': {'@type': 'TVSeries', 'name': 'Breaking Bad', 'url': 'https://www.netflix.com/kr/title/70143836'}}
+693 {'@type': 'ListItem', 'position': 694, 'item': {'@type': 'TVSeries', 'name': '나의 히어로 아카데미아', 'url': 'https://www.netflix.com/kr/title/80135674'}}
+694 {'@type': 'ListItem', 'position': 695, 'item': {'@type': 'TVSeries', 'name': '가십걸', 'url': 'https://www.netflix.com/kr/title/70143811'}}
+695 {'@type': 'ListItem', 'position': 696, 'item': {'@type': 'TVSeries', 'name': '백일의 낭군님', 'url': 'https://www.netflix.com/kr/title/81267722'}}
+696 {'@type': 'ListItem', 'position': 697, 'item': {'@type': 'TVSeries', 'name': '라바 아일랜드', 'url': 'https://www.netflix.com/kr/title/80991329'}}
+697 {'@type': 'ListItem', 'position': 698, 'item': {'@type': 'TVSeries', 'name': '금쪽같은 내새끼', 'url': 'https://www.netflix.com/kr/title/81341876'}}
+698 {'@type': 'ListItem', 'position': 699, 'item': {'@type': 'TVSeries', 'name': '슈츠', 'url': 'https://www.netflix.com/kr/title/70195800'}}
+699 {'@type': 'ListItem', 'position': 700, 'item': {'@type': 'TVSeries', 'name': '신비아파트: 고스트볼의 비밀', 'url': 'https://www.netflix.com/kr/title/81028939'}}
+700 {'@type': 'ListItem', 'position': 701, 'item': {'@type': 'TVSeries', 'name': '아는 형님', 'url': 'https://www.netflix.com/kr/title/80176842'}}
+701 {'@type': 'ListItem', 'position': 702, 'item': {'@type': 'TVSeries', 'name': '고고다이노 공룡탐험대', 'url': 'https://www.netflix.com/kr/title/81349771'}}
+702 {'@type': 'ListItem', 'position': 703, 'item': {'@type': 'TVSeries', 'name': '페파 피그', 'url': 'https://www.netflix.com/kr/title/80025494'}}
+703 {'@type': 'ListItem', 'position': 704, 'item': {'@type': 'TVSeries', 'name': '블랙 리스트', 'url': 'https://www.netflix.com/kr/title/70281312'}}
+704 {'@type': 'ListItem', 'position': 705, 'item': {'@type': 'TVSeries', 'name': '우아한 가', 'url': 'https://www.netflix.com/kr/title/81370670'}}
+705 {'@type': 'ListItem', 'position': 706, 'item': {'@type': 'TVSeries', 'name': '뽀롱뽀롱 뽀로로', 'url': 'https://www.netflix.com/kr/title/80036747'}}
+706 {'@type': 'ListItem', 'position': 707, 'item': {'@type': 'TVSeries', 'name': '미스트롯2', 'url': 'https://www.netflix.com/kr/title/81380036'}}
+707 {'@type': 'ListItem', 'position': 708, 'item': {'@type': 'TVSeries', 'name': '바이킹스', 'url': 'https://www.netflix.com/kr/title/70301870'}}
+708 {'@type': 'ListItem', 'position': 709, 'item': {'@type': 'TVSeries', 'name': '도라에몽', 'url': 'https://www.netflix.com/kr/title/80025688'}}
+709 {'@type': 'ListItem', 'position': 710, 'item': {'@type': 'TVSeries', 'name': '뷰티 인사이드', 'url': 'https://www.netflix.com/kr/title/81029990'}}
+710 {'@type': 'ListItem', 'position': 711, 'item': {'@type': 'TVSeries', 'name': '전생했더니 슬라임이었던 건에 대하여', 'url': 'https://www.netflix.com/kr/title/81028712'}}
+711 {'@type': 'ListItem', 'position': 712, 'item': {'@type': 'TVSeries', 'name': '지정생존자', 'url': 'https://www.netflix.com/kr/title/80113647'}}
+712 {'@type': 'ListItem', 'position': 713, 'item': {'@type': 'TVSeries', 'name': '내 아이디는 강남미인', 'url': 'https://www.netflix.com/kr/title/81030026'}}
+713 {'@type': 'ListItem', 'position': 714, 'item': {'@type': 'TVSeries', 'name': '나쁜 녀석들', 'url': 'https://www.netflix.com/kr/title/80178427'}}
+714 {'@type': 'ListItem', 'position': 715, 'item': {'@type': 'TVSeries', 'name': '틴 타이탄 GO!', 'url': 'https://www.netflix.com/kr/title/80103408'}}
+715 {'@type': 'ListItem', 'position': 716, 'item': {'@type': 'TVSeries', 'name': '브레드 이발소', 'url': 'https://www.netflix.com/kr/title/81288010'}}
+716 {'@type': 'ListItem', 'position': 717, 'item': {'@type': 'TVSeries', 'name': '상견니', 'url': 'https://www.netflix.com/kr/title/81342555'}}
+717 {'@type': 'ListItem', 'position': 718, 'item': {'@type': 'TVSeries', 'name': '위 베어 베어스: 곰 브라더스', 'url': 'https://www.netflix.com/kr/title/80116921'}}
+718 {'@type': 'ListItem', 'position': 719, 'item': {'@type': 'TVSeries', 'name': '응답하라 1997', 'url': 'https://www.netflix.com/kr/title/70297144'}}
+719 {'@type': 'ListItem', 'position': 720, 'item': {'@type': 'TVSeries', 'name': '라이브', 'url': 'https://www.netflix.com/kr/title/80214523'}}
+720 {'@type': 'ListItem', 'position': 721, 'item': {'@type': 'TVSeries', 'name': '사이키 쿠스오의 재난', 'url': 'https://www.netflix.com/kr/title/80117781'}}
+721 {'@type': 'ListItem', 'position': 722, 'item': {'@type': 'TVSeries', 'name': '오 나의 귀신님', 'url': 'https://www.netflix.com/kr/title/80178404'}}
+722 {'@type': 'ListItem', 'position': 723, 'item': {'@type': 'TVSeries', 'name': '일곱 개의 대죄', 'url': 'https://www.netflix.com/kr/title/80050063'}}
+723 {'@type': 'ListItem', 'position': 724, 'item': {'@type': 'TVSeries', 'name': '동백꽃 필 무렵', 'url': 'https://www.netflix.com/kr/title/81144925'}}
+724 {'@type': 'ListItem', 'position': 725, 'item': {'@type': 'TVSeries', 'name': '쿠로코의 농구', 'url': 'https://www.netflix.com/kr/title/80063153'}}
+725 {'@type': 'ListItem', 'position': 726, 'item': {'@type': 'TVSeries', 'name': '겁쟁이 페달', 'url': 'https://www.netflix.com/kr/title/80061943'}}
+726 {'@type': 'ListItem', 'position': 727, 'item': {'@type': 'TVSeries', 'name': '엉덩이 탐정', 'url': 'https://www.netflix.com/kr/title/80992180'}}
+727 {'@type': 'ListItem', 'position': 728, 'item': {'@type': 'TVSeries', 'name': '스파르타쿠스', 'url': 'https://www.netflix.com/kr/title/70136152'}}
+728 {'@type': 'ListItem', 'position': 729, 'item': {'@type': 'TVSeries', 'name': '보이스', 'url': 'https://www.netflix.com/kr/title/80987095'}}
+729 {'@type': 'ListItem', 'position': 730, 'item': {'@type': 'TVSeries', 'name': '루시퍼', 'url': 'https://www.netflix.com/kr/title/80057918'}}
+730 {'@type': 'ListItem', 'position': 731, 'item': {'@type': 'TVSeries', 'name': '겨우, 서른', 'url': 'https://www.netflix.com/kr/title/81330889'}}
+731 {'@type': 'ListItem', 'position': 732, 'item': {'@type': 'TVSeries', 'name': '힘쎈 여자 도봉순', 'url': 'https://www.netflix.com/kr/title/80198001'}}
+732 {'@type': 'ListItem', 'position': 733, 'item': {'@type': 'TVSeries', 'name': '나만 믿고 따라와, 도시어부', 'url': 'https://www.netflix.com/kr/title/81274356'}}
+733 {'@type': 'ListItem', 'position': 734, 'item': {'@type': 'TVSeries', 'name': '드래곤 길들이기: 세상 끝으로', 'url': 'https://www.netflix.com/kr/title/80039394'}}
+734 {'@type': 'ListItem', 'position': 735, 'item': {'@type': 'TVSeries', 'name': '오렌지 이즈 더 뉴 블랙', 'url': 'https://www.netflix.com/kr/title/70242311'}}
+735 {'@type': 'ListItem', 'position': 736, 'item': {'@type': 'TVSeries', 'name': '브루클린 나인-나인', 'url': 'https://www.netflix.com/kr/title/70281562'}}
+736 {'@type': 'ListItem', 'position': 737, 'item': {'@type': 'TVSeries', 'name': '원헌드레드', 'url': 'https://www.netflix.com/kr/title/70283264'}}
+737 {'@type': 'ListItem', 'position': 738, 'item': {'@type': 'TVSeries', 'name': '범인은 바로 너!', 'url': 'https://www.netflix.com/kr/title/80209553'}}
+738 {'@type': 'ListItem', 'position': 739, 'item': {'@type': 'TVSeries', 'name': '꼴찌 마녀 밀드레드', 'url': 'https://www.netflix.com/kr/title/80130521'}}
+739 {'@type': 'ListItem', 'position': 740, 'item': {'@type': 'TVSeries', 'name': '애로우', 'url': 'https://www.netflix.com/kr/title/70242081'}}
+740 {'@type': 'ListItem', 'position': 741, 'item': {'@type': 'TVSeries', 'name': '검볼', 'url': 'https://www.netflix.com/kr/title/70243420'}}
+741 {'@type': 'ListItem', 'position': 742, 'item': {'@type': 'TVSeries', 'name': '맛있는 녀석들', 'url': 'https://www.netflix.com/kr/title/81066964'}}
+742 {'@type': 'ListItem', 'position': 743, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+743 {'@type': 'ListItem', 'position': 744, 'item': {'@type': 'TVSeries', 'name': '안녕자두야', 'url': 'https://www.netflix.com/kr/title/81349850'}}
+744 {'@type': 'ListItem', 'position': 745, 'item': {'@type': 'TVSeries', 'name': '치즈 인 더 트랩', 'url': 'https://www.netflix.com/kr/title/81166946'}}
+745 {'@type': 'ListItem', 'position': 746, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+746 {'@type': 'ListItem', 'position': 747, 'item': {'@type': 'TVSeries', 'name': '눈이 부시게', 'url': 'https://www.netflix.com/kr/title/81211166'}}
+747 {'@type': 'ListItem', 'position': 748, 'item': {'@type': 'TVSeries', 'name': '암살교실', 'url': 'https://www.netflix.com/kr/title/80045948'}}
+748 {'@type': 'ListItem', 'position': 749, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+749 {'@type': 'ListItem', 'position': 750, 'item': {'@type': 'TVSeries', 'name': '청춘시대', 'url': 'https://www.netflix.com/kr/title/80128686'}}
+750 {'@type': 'ListItem', 'position': 751, 'item': {'@type': 'TVSeries', 'name': 'Breaking Bad', 'url': 'https://www.netflix.com/kr/title/70143836'}}
+751 {'@type': 'ListItem', 'position': 752, 'item': {'@type': 'TVSeries', 'name': '가십걸', 'url': 'https://www.netflix.com/kr/title/70143811'}}
+752 {'@type': 'ListItem', 'position': 753, 'item': {'@type': 'TVSeries', 'name': '슈츠', 'url': 'https://www.netflix.com/kr/title/70195800'}}
+753 {'@type': 'ListItem', 'position': 754, 'item': {'@type': 'TVSeries', 'name': '스파르타쿠스', 'url': 'https://www.netflix.com/kr/title/70136152'}}
+754 {'@type': 'ListItem', 'position': 755, 'item': {'@type': 'TVSeries', 'name': '루시퍼', 'url': 'https://www.netflix.com/kr/title/80057918'}}
+755 {'@type': 'ListItem', 'position': 756, 'item': {'@type': 'TVSeries', 'name': '원헌드레드', 'url': 'https://www.netflix.com/kr/title/70283264'}}
+756 {'@type': 'ListItem', 'position': 757, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+757 {'@type': 'ListItem', 'position': 758, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+758 {'@type': 'ListItem', 'position': 759, 'item': {'@type': 'TVSeries', 'name': '홈랜드', 'url': 'https://www.netflix.com/kr/title/70180387'}}
+759 {'@type': 'ListItem', 'position': 760, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+760 {'@type': 'ListItem', 'position': 761, 'item': {'@type': 'TVSeries', 'name': '더블 타겟', 'url': 'https://www.netflix.com/kr/title/80109194'}}
+761 {'@type': 'ListItem', 'position': 762, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+762 {'@type': 'ListItem', 'position': 763, 'item': {'@type': 'TVSeries', 'name': '엘리트들', 'url': 'https://www.netflix.com/kr/title/80200942'}}
+763 {'@type': 'ListItem', 'position': 764, 'item': {'@type': 'TVSeries', 'name': '길모어 걸스', 'url': 'https://www.netflix.com/kr/title/70155618'}}
+764 {'@type': 'ListItem', 'position': 765, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+765 {'@type': 'ListItem', 'position': 766, 'item': {'@type': 'TVSeries', 'name': '오티스의 비밀 상담소', 'url': 'https://www.netflix.com/kr/title/80197526'}}
+766 {'@type': 'ListItem', 'position': 767, 'item': {'@type': 'TVSeries', 'name': '너의 모든 것', 'url': 'https://www.netflix.com/kr/title/80211991'}}
+767 {'@type': 'ListItem', 'position': 768, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/80239640'}}
+768 {'@type': 'ListItem', 'position': 769, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+769 {'@type': 'ListItem', 'position': 770, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+770 {'@type': 'ListItem', 'position': 771, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+771 {'@type': 'ListItem', 'position': 772, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+772 {'@type': 'ListItem', 'position': 773, 'item': {'@type': 'TVSeries', 'name': '메시아', 'url': 'https://www.netflix.com/kr/title/80117557'}}
+773 {'@type': 'ListItem', 'position': 774, 'item': {'@type': 'TVSeries', 'name': '빌어먹을 세상 따위', 'url': 'https://www.netflix.com/kr/title/80175722'}}
+774 {'@type': 'ListItem', 'position': 775, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+775 {'@type': 'ListItem', 'position': 776, 'item': {'@type': 'TVSeries', 'name': '친애적, 열애적', 'url': 'https://www.netflix.com/kr/title/81197425'}}
+776 {'@type': 'ListItem', 'position': 777, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+777 {'@type': 'ListItem', 'position': 778, 'item': {'@type': 'TVSeries', 'name': '하우스 오브 카드', 'url': 'https://www.netflix.com/kr/title/70178217'}}
+778 {'@type': 'ListItem', 'position': 779, 'item': {'@type': 'TVSeries', 'name': '블랙 미러', 'url': 'https://www.netflix.com/kr/title/70264888'}}
+779 {'@type': 'ListItem', 'position': 780, 'item': {'@type': 'TVSeries', 'name': '마인드헌터', 'url': 'https://www.netflix.com/kr/title/80114855'}}
+780 {'@type': 'ListItem', 'position': 781, 'item': {'@type': 'TVSeries', 'name': '루머의 루머의 루머', 'url': 'https://www.netflix.com/kr/title/80117470'}}
+781 {'@type': 'ListItem', 'position': 782, 'item': {'@type': 'TVSeries', 'name': '삼국지 (극장판)', 'url': 'https://www.netflix.com/kr/title/81293372'}}
+782 {'@type': 'ListItem', 'position': 783, 'item': {'@type': 'TVSeries', 'name': '피키 블라인더스', 'url': 'https://www.netflix.com/kr/title/80002479'}}
+783 {'@type': 'ListItem', 'position': 784, 'item': {'@type': 'TVSeries', 'name': '절대쌍교', 'url': 'https://www.netflix.com/kr/title/80996973'}}
+784 {'@type': 'ListItem', 'position': 785, 'item': {'@type': 'TVSeries', 'name': '삼생삼세 십리도화', 'url': 'https://www.netflix.com/kr/title/81019520'}}
+785 {'@type': 'ListItem', 'position': 786, 'item': {'@type': 'TVSeries', 'name': '빌리언스', 'url': 'https://www.netflix.com/kr/title/80067290'}}
+786 {'@type': 'ListItem', 'position': 787, 'item': {'@type': 'TVSeries', 'name': '미미일소흔경성', 'url': 'https://www.netflix.com/kr/title/81005091'}}
+787 {'@type': 'ListItem', 'position': 788, 'item': {'@type': 'TVSeries', 'name': '심야식당: 도쿄 스토리', 'url': 'https://www.netflix.com/kr/title/80113037'}}
+788 {'@type': 'ListItem', 'position': 789, 'item': {'@type': 'TVSeries', 'name': '마블 아이언 피스트', 'url': 'https://www.netflix.com/kr/title/80002612'}}
+789 {'@type': 'ListItem', 'position': 790, 'item': {'@type': 'TVSeries', 'name': '보디가드', 'url': 'https://www.netflix.com/kr/title/80235864'}}
+790 {'@type': 'ListItem', 'position': 791, 'item': {'@type': 'TVSeries', 'name': '유성화원', 'url': 'https://www.netflix.com/kr/title/81005504'}}
+791 {'@type': 'ListItem', 'position': 792, 'item': {'@type': 'TVSeries', 'name': '웬트워스', 'url': 'https://www.netflix.com/kr/title/80013249'}}
+792 {'@type': 'ListItem', 'position': 793, 'item': {'@type': 'TVSeries', 'name': '운석전', 'url': 'https://www.netflix.com/kr/title/81293269'}}
+793 {'@type': 'ListItem', 'position': 794, 'item': {'@type': 'TVSeries', 'name': '오펀 블랙', 'url': 'https://www.netflix.com/kr/title/70276033'}}
+794 {'@type': 'ListItem', 'position': 795, 'item': {'@type': 'TVSeries', 'name': '어둠 속으로', 'url': 'https://www.netflix.com/kr/title/81008221'}}
+795 {'@type': 'ListItem', 'position': 796, 'item': {'@type': 'TVSeries', 'name': '스캄 프랑스', 'url': 'https://www.netflix.com/kr/title/81277352'}}
+796 {'@type': 'ListItem', 'position': 797, 'item': {'@type': 'TVSeries', 'name': '보스가 결혼하재요', 'url': 'https://www.netflix.com/kr/title/81092192'}}
+797 {'@type': 'ListItem', 'position': 798, 'item': {'@type': 'TVSeries', 'name': '베르사유', 'url': 'https://www.netflix.com/kr/title/80099753'}}
+798 {'@type': 'ListItem', 'position': 799, 'item': {'@type': 'TVSeries', 'name': '금수미앙', 'url': 'https://www.netflix.com/kr/title/80987113'}}
+799 {'@type': 'ListItem', 'position': 800, 'item': {'@type': 'TVSeries', 'name': '천성장가', 'url': 'https://www.netflix.com/kr/title/80993613'}}
+800 {'@type': 'ListItem', 'position': 801, 'item': {'@type': 'TVSeries', 'name': '러브 데스티니', 'url': 'https://www.netflix.com/kr/title/81106659'}}
+801 {'@type': 'ListItem', 'position': 802, 'item': {'@type': 'TVSeries', 'name': '로크 앤 키', 'url': 'https://www.netflix.com/kr/title/80241239'}}
+802 {'@type': 'ListItem', 'position': 803, 'item': {'@type': 'TVSeries', 'name': '글리', 'url': 'https://www.netflix.com/kr/title/70143843'}}
+803 {'@type': 'ListItem', 'position': 804, 'item': {'@type': 'TVSeries', 'name': '반 헬싱', 'url': 'https://www.netflix.com/kr/title/80121349'}}
+804 {'@type': 'ListItem', 'position': 805, 'item': {'@type': 'TVSeries', 'name': '굿 걸스', 'url': 'https://www.netflix.com/kr/title/80177342'}}
+805 {'@type': 'ListItem', 'position': 806, 'item': {'@type': 'TVSeries', 'name': '버진리버', 'url': 'https://www.netflix.com/kr/title/80240027'}}
+806 {'@type': 'ListItem', 'position': 807, 'item': {'@type': 'TVSeries', 'name': '시간여행자', 'url': 'https://www.netflix.com/kr/title/80105699'}}
+807 {'@type': 'ListItem', 'position': 808, 'item': {'@type': 'TVSeries', 'name': '마르코 폴로', 'url': 'https://www.netflix.com/kr/title/70305883'}}
+808 {'@type': 'ListItem', 'position': 809, 'item': {'@type': 'TVSeries', 'name': '리버데일', 'url': 'https://www.netflix.com/kr/title/80133311'}}
+809 {'@type': 'ListItem', 'position': 810, 'item': {'@type': 'TVSeries', 'name': '베이비시터 클럽', 'url': 'https://www.netflix.com/kr/title/81005407'}}
+810 {'@type': 'ListItem', 'position': 811, 'item': {'@type': 'TVSeries', 'name': '다이너스티: 1%의 1%', 'url': 'https://www.netflix.com/kr/title/80179394'}}
+811 {'@type': 'ListItem', 'position': 812, 'item': {'@type': 'TVSeries', 'name': '전하를 조심해', 'url': 'https://www.netflix.com/kr/title/81025800'}}
+812 {'@type': 'ListItem', 'position': 813, 'item': {'@type': 'TVSeries', 'name': '오리지널스', 'url': 'https://www.netflix.com/kr/title/70283261'}}
+813 {'@type': 'ListItem', 'position': 814, 'item': {'@type': 'TVSeries', 'name': '마법사 멀린', 'url': 'https://www.netflix.com/kr/title/70142436'}}
+814 {'@type': 'ListItem', 'position': 815, 'item': {'@type': 'TVSeries', 'name': '전직고수', 'url': 'https://www.netflix.com/kr/title/81175361'}}
+815 {'@type': 'ListItem', 'position': 816, 'item': {'@type': 'TVSeries', 'name': '스킨스', 'url': 'https://www.netflix.com/kr/title/70140438'}}
+816 {'@type': 'ListItem', 'position': 817, 'item': {'@type': 'TVSeries', 'name': '그레이스 앤 프랭키', 'url': 'https://www.netflix.com/kr/title/80017537'}}
+817 {'@type': 'ListItem', 'position': 818, 'item': {'@type': 'TVSeries', 'name': '레인', 'url': 'https://www.netflix.com/kr/title/80154610'}}
+818 {'@type': 'ListItem', 'position': 819, 'item': {'@type': 'TVSeries', 'name': '검은 해적', 'url': 'https://www.netflix.com/kr/title/70285580'}}
+819 {'@type': 'ListItem', 'position': 820, 'item': {'@type': 'TVSeries', 'name': '다크', 'url': 'https://www.netflix.com/kr/title/80100172'}}
+820 {'@type': 'ListItem', 'position': 821, 'item': {'@type': 'TVSeries', 'name': '아이 좀비', 'url': 'https://www.netflix.com/kr/title/80027159'}}
+821 {'@type': 'ListItem', 'position': 822, 'item': {'@type': 'TVSeries', 'name': '호프 밸리', 'url': 'https://www.netflix.com/kr/title/80036407'}}
+822 {'@type': 'ListItem', 'position': 823, 'item': {'@type': 'TVSeries', 'name': '닥터 마틴', 'url': 'https://www.netflix.com/kr/title/70140378'}}
+823 {'@type': 'ListItem', 'position': 824, 'item': {'@type': 'TVSeries', 'name': '블랙 프린스', 'url': 'https://www.netflix.com/kr/title/80134695'}}
+824 {'@type': 'ListItem', 'position': 825, 'item': {'@type': 'TVSeries', 'name': '센스8', 'url': 'https://www.netflix.com/kr/title/80025744'}}
+825 {'@type': 'ListItem', 'position': 826, 'item': {'@type': 'TVSeries', 'name': '블랙 클로버', 'url': 'https://www.netflix.com/kr/title/80238012'}}
+826 {'@type': 'ListItem', 'position': 827, 'item': {'@type': 'TVSeries', 'name': '강철의 연금술사: 브라더후드', 'url': 'https://www.netflix.com/kr/title/70204981'}}
+827 {'@type': 'ListItem', 'position': 828, 'item': {'@type': 'TVSeries', 'name': '나의 히어로 아카데미아', 'url': 'https://www.netflix.com/kr/title/80135674'}}
+828 {'@type': 'ListItem', 'position': 829, 'item': {'@type': 'TVSeries', 'name': '전생했더니 슬라임이었던 건에 대하여', 'url': 'https://www.netflix.com/kr/title/81028712'}}
+829 {'@type': 'ListItem', 'position': 830, 'item': {'@type': 'TVSeries', 'name': '사이키 쿠스오의 재난', 'url': 'https://www.netflix.com/kr/title/80117781'}}
+830 {'@type': 'ListItem', 'position': 831, 'item': {'@type': 'TVSeries', 'name': '일곱 개의 대죄', 'url': 'https://www.netflix.com/kr/title/80050063'}}
+831 {'@type': 'ListItem', 'position': 832, 'item': {'@type': 'TVSeries', 'name': '쿠로코의 농구', 'url': 'https://www.netflix.com/kr/title/80063153'}}
+832 {'@type': 'ListItem', 'position': 833, 'item': {'@type': 'TVSeries', 'name': '겁쟁이 페달', 'url': 'https://www.netflix.com/kr/title/80061943'}}
+833 {'@type': 'ListItem', 'position': 834, 'item': {'@type': 'TVSeries', 'name': '원펀맨', 'url': 'https://www.netflix.com/kr/title/80117291'}}
+834 {'@type': 'ListItem', 'position': 835, 'item': {'@type': 'TVSeries', 'name': '도쿄 구울', 'url': 'https://www.netflix.com/kr/title/80023687'}}
+835 {'@type': 'ListItem', 'position': 836, 'item': {'@type': 'TVSeries', 'name': '암살교실', 'url': 'https://www.netflix.com/kr/title/80045948'}}
+836 {'@type': 'ListItem', 'position': 837, 'item': {'@type': 'TVSeries', 'name': '카케구루이', 'url': 'https://www.netflix.com/kr/title/80175351'}}
+837 {'@type': 'ListItem', 'position': 838, 'item': {'@type': 'TVSeries', 'name': '소드 아트 온라인', 'url': 'https://www.netflix.com/kr/title/70302573'}}
+838 {'@type': 'ListItem', 'position': 839, 'item': {'@type': 'TVSeries', 'name': '블리치', 'url': 'https://www.netflix.com/kr/title/70204957'}}
+839 {'@type': 'ListItem', 'position': 840, 'item': {'@type': 'TVSeries', 'name': '바이올렛 에버가든', 'url': 'https://www.netflix.com/kr/title/80182123'}}
+840 {'@type': 'ListItem', 'position': 841, 'item': {'@type': 'TVSeries', 'name': '프리파라', 'url': 'https://www.netflix.com/kr/title/81228457'}}
+841 {'@type': 'ListItem', 'position': 842, 'item': {'@type': 'TVSeries', 'name': '오버로드', 'url': 'https://www.netflix.com/kr/title/80132110'}}
+842 {'@type': 'ListItem', 'position': 843, 'item': {'@type': 'TVSeries', 'name': '격투맨 바키', 'url': 'https://www.netflix.com/kr/title/80204451'}}
+843 {'@type': 'ListItem', 'position': 844, 'item': {'@type': 'TVSeries', 'name': '문호 스트레이독스', 'url': 'https://www.netflix.com/kr/title/80132126'}}
+844 {'@type': 'ListItem', 'position': 845, 'item': {'@type': 'TVSeries', 'name': 'Re:제로부터 시작하는 이세계 생활 감독판', 'url': 'https://www.netflix.com/kr/title/81262169'}}
+845 {'@type': 'ListItem', 'position': 846, 'item': {'@type': 'TVSeries', 'name': '코드 기어스: 반역의 를르슈', 'url': 'https://www.netflix.com/kr/title/80065146'}}
+846 {'@type': 'ListItem', 'position': 847, 'item': {'@type': 'TVSeries', 'name': '아픈 건 싫으니까 방어력에 올인하려고 합니다', 'url': 'https://www.netflix.com/kr/title/81234294'}}
+847 {'@type': 'ListItem', 'position': 848, 'item': {'@type': 'TVSeries', 'name': '베르세르크', 'url': 'https://www.netflix.com/kr/title/80146743'}}
+848 {'@type': 'ListItem', 'position': 849, 'item': {'@type': 'TVSeries', 'name': '겐간 아슈라', 'url': 'https://www.netflix.com/kr/title/80992228'}}
+849 {'@type': 'ListItem', 'position': 850, 'item': {'@type': 'TVSeries', 'name': '강철의 연금술사', 'url': 'https://www.netflix.com/kr/title/70204980'}}
+850 {'@type': 'ListItem', 'position': 851, 'item': {'@type': 'TVSeries', 'name': '페어리 테일', 'url': 'https://www.netflix.com/kr/title/70266998'}}
+851 {'@type': 'ListItem', 'position': 852, 'item': {'@type': 'TVSeries', 'name': '빨강머리 백설공주', 'url': 'https://www.netflix.com/kr/title/80220658'}}
+852 {'@type': 'ListItem', 'position': 853, 'item': {'@type': 'TVSeries', 'name': '종말의 세라프', 'url': 'https://www.netflix.com/kr/title/80200989'}}
+853 {'@type': 'ListItem', 'position': 854, 'item': {'@type': 'TVSeries', 'name': '어서 오세요 실력지상주의 교실에', 'url': 'https://www.netflix.com/kr/title/80193178'}}
+854 {'@type': 'ListItem', 'position': 855, 'item': {'@type': 'TVSeries', 'name': '나츠메 우인장', 'url': 'https://www.netflix.com/kr/title/81032481'}}
+855 {'@type': 'ListItem', 'position': 856, 'item': {'@type': 'TVSeries', 'name': '나만이 없는 거리', 'url': 'https://www.netflix.com/kr/title/80114225'}}
+856 {'@type': 'ListItem', 'position': 857, 'item': {'@type': 'TVSeries', 'name': '코바야시네 메이드래곤', 'url': 'https://www.netflix.com/kr/title/80186349'}}
+857 {'@type': 'ListItem', 'position': 858, 'item': {'@type': 'TVSeries', 'name': '미래일기', 'url': 'https://www.netflix.com/kr/title/80132333'}}
+858 {'@type': 'ListItem', 'position': 859, 'item': {'@type': 'TVSeries', 'name': '달링 인 더 프랑키스', 'url': 'https://www.netflix.com/kr/title/81010668'}}
+859 {'@type': 'ListItem', 'position': 860, 'item': {'@type': 'TVSeries', 'name': '마법사의 신부', 'url': 'https://www.netflix.com/kr/title/80223976'}}
+860 {'@type': 'ListItem', 'position': 861, 'item': {'@type': 'TVSeries', 'name': '신세기 에반게리온', 'url': 'https://www.netflix.com/kr/title/81033445'}}
+861 {'@type': 'ListItem', 'position': 862, 'item': {'@type': 'TVSeries', 'name': '건어물 여동생! 우마루짱', 'url': 'https://www.netflix.com/kr/title/80205564'}}
+862 {'@type': 'ListItem', 'position': 863, 'item': {'@type': 'TVSeries', 'name': '청춘 돼지는 바니걸 선배의 꿈을 꾸지 않는다', 'url': 'https://www.netflix.com/kr/title/81228009'}}
+863 {'@type': 'ListItem', 'position': 864, 'item': {'@type': 'TVSeries', 'name': '카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~', 'url': 'https://www.netflix.com/kr/title/81061754'}}
+864 {'@type': 'ListItem', 'position': 865, 'item': {'@type': 'TVSeries', 'name': '던전에서 만남을 추구하면 안 되는 걸까', 'url': 'https://www.netflix.com/kr/title/80185873'}}
+865 {'@type': 'ListItem', 'position': 866, 'item': {'@type': 'TVSeries', 'name': '공각기동대 에스에이씨_2030', 'url': 'https://www.netflix.com/kr/title/70213091'}}
+866 {'@type': 'ListItem', 'position': 867, 'item': {'@type': 'TVSeries', 'name': '노라가미', 'url': 'https://www.netflix.com/kr/title/80005821'}}
+867 {'@type': 'ListItem', 'position': 868, 'item': {'@type': 'TVSeries', 'name': '운명의 밤: 무한의 검제', 'url': 'https://www.netflix.com/kr/title/80040330'}}
+868 {'@type': 'ListItem', 'position': 869, 'item': {'@type': 'TVSeries', 'name': '청의 엑소시스트', 'url': 'https://www.netflix.com/kr/title/70304252'}}
+869 {'@type': 'ListItem', 'position': 870, 'item': {'@type': 'TVSeries', 'name': '사이키 쿠스오의 재난: 끝난 줄 알았지?', 'url': 'https://www.netflix.com/kr/title/81054849'}}
+870 {'@type': 'ListItem', 'position': 871, 'item': {'@type': 'TVSeries', 'name': '4월은 너의 거짓말', 'url': 'https://www.netflix.com/kr/title/80041089'}}
+871 {'@type': 'ListItem', 'position': 872, 'item': {'@type': 'TVSeries', 'name': '혈계전선', 'url': 'https://www.netflix.com/kr/title/80205560'}}
+872 {'@type': 'ListItem', 'position': 873, 'item': {'@type': 'TVSeries', 'name': '월간순정 노자키 군', 'url': 'https://www.netflix.com/kr/title/80081848'}}
+873 {'@type': 'ListItem', 'position': 874, 'item': {'@type': 'TVSeries', 'name': '아카메가 벤다!', 'url': 'https://www.netflix.com/kr/title/80052714'}}
+874 {'@type': 'ListItem', 'position': 875, 'item': {'@type': 'TVSeries', 'name': '믹스', 'url': 'https://www.netflix.com/kr/title/81046488'}}
+875 {'@type': 'ListItem', 'position': 876, 'item': {'@type': 'TVSeries', 'name': '일하는 세포', 'url': 'https://www.netflix.com/kr/title/81028791'}}
+876 {'@type': 'ListItem', 'position': 877, 'item': {'@type': 'TVSeries', 'name': '사카모토입니다만?', 'url': 'https://www.netflix.com/kr/title/81093690'}}
+877 {'@type': 'ListItem', 'position': 878, 'item': {'@type': 'TVSeries', 'name': '러브 라이브! School idol project', 'url': 'https://www.netflix.com/kr/title/80150600'}}
+878 {'@type': 'ListItem', 'position': 879, 'item': {'@type': 'TVSeries', 'name': '페이트 제로', 'url': 'https://www.netflix.com/kr/title/70304256'}}
+879 {'@type': 'ListItem', 'position': 880, 'item': {'@type': 'TVSeries', 'name': '노 게임 노 라이프', 'url': 'https://www.netflix.com/kr/title/80052669'}}
+880 {'@type': 'ListItem', 'position': 881, 'item': {'@type': 'TVSeries', 'name': '비스타즈', 'url': 'https://www.netflix.com/kr/title/81054847'}}
+881 {'@type': 'ListItem', 'position': 882, 'item': {'@type': 'TVSeries', 'name': '감옥학원', 'url': 'https://www.netflix.com/kr/title/80182081'}}
+882 {'@type': 'ListItem', 'position': 883, 'item': {'@type': 'TVSeries', 'name': '블레이드 앤 소울', 'url': 'https://www.netflix.com/kr/title/80186175'}}
+883 {'@type': 'ListItem', 'position': 884, 'item': {'@type': 'TVSeries', 'name': '은혼', 'url': 'https://www.netflix.com/kr/title/80018959'}}
+884 {'@type': 'ListItem', 'position': 885, 'item': {'@type': 'TVSeries', 'name': '식극의 소마', 'url': 'https://www.netflix.com/kr/title/80182054'}}
+885 {'@type': 'ListItem', 'position': 886, 'item': {'@type': 'TVSeries', 'name': '기동전사 건담 UC RE:0096', 'url': 'https://www.netflix.com/kr/title/80186285'}}
+886 {'@type': 'ListItem', 'position': 887, 'item': {'@type': 'TVSeries', 'name': '흑집사', 'url': 'https://www.netflix.com/kr/title/70204955'}}
+887 {'@type': 'ListItem', 'position': 888, 'item': {'@type': 'TVSeries', 'name': '니세코이', 'url': 'https://www.netflix.com/kr/title/80186309'}}
+888 {'@type': 'ListItem', 'position': 889, 'item': {'@type': 'TVSeries', 'name': '장난을 잘 치는 타카기 양', 'url': 'https://www.netflix.com/kr/title/80228274'}}
+889 {'@type': 'ListItem', 'position': 890, 'item': {'@type': 'TVSeries', 'name': '프리!', 'url': 'https://www.netflix.com/kr/title/80186018'}}
+890 {'@type': 'ListItem', 'position': 891, 'item': {'@type': 'TVSeries', 'name': '오소마츠 6쌍둥이', 'url': 'https://www.netflix.com/kr/title/80104460'}}
+891 {'@type': 'ListItem', 'position': 892, 'item': {'@type': 'TVSeries', 'name': '이세계는 스마트폰과 함께', 'url': 'https://www.netflix.com/kr/title/80196595'}}
+892 {'@type': 'ListItem', 'position': 893, 'item': {'@type': 'TVSeries', 'name': '이세계 식당', 'url': 'https://www.netflix.com/kr/title/80993368'}}
+893 {'@type': 'ListItem', 'position': 894, 'item': {'@type': 'TVSeries', 'name': '토라도라!', 'url': 'https://www.netflix.com/kr/title/80049275'}}
+894 {'@type': 'ListItem', 'position': 895, 'item': {'@type': 'TVSeries', 'name': '늑대소녀와 흑왕자', 'url': 'https://www.netflix.com/kr/title/80170348'}}
+895 {'@type': 'ListItem', 'position': 896, 'item': {'@type': 'TVSeries', 'name': '살육의 천사', 'url': 'https://www.netflix.com/kr/title/81177603'}}
+896 {'@type': 'ListItem', 'position': 897, 'item': {'@type': 'TVSeries', 'name': '도로헤도로', 'url': 'https://www.netflix.com/kr/title/80991903'}}
+897 {'@type': 'ListItem', 'position': 898, 'item': {'@type': 'TVSeries', 'name': '유녀전기', 'url': 'https://www.netflix.com/kr/title/80169285'}}
+898 {'@type': 'ListItem', 'position': 899, 'item': {'@type': 'TVSeries', 'name': '타나카 군은 항상 나른해', 'url': 'https://www.netflix.com/kr/title/80145961'}}
+899 {'@type': 'ListItem', 'position': 900, 'item': {'@type': 'TVSeries', 'name': '하이스쿨 DXD', 'url': 'https://www.netflix.com/kr/title/80005873'}}
+900 {'@type': 'ListItem', 'position': 901, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/80239640'}}
+901 {'@type': 'ListItem', 'position': 902, 'item': {'@type': 'TVSeries', 'name': '치아문난난적소시광: 우리의 따뜻했던 시절에게', 'url': 'https://www.netflix.com/kr/title/81200229'}}
+902 {'@type': 'ListItem', 'position': 903, 'item': {'@type': 'TVSeries', 'name': '아리스 인 보더랜드', 'url': 'https://www.netflix.com/kr/title/80200575'}}
+903 {'@type': 'ListItem', 'position': 904, 'item': {'@type': 'TVSeries', 'name': '친애적, 열애적', 'url': 'https://www.netflix.com/kr/title/81197425'}}
+904 {'@type': 'ListItem', 'position': 905, 'item': {'@type': 'TVSeries', 'name': '삼국지 (극장판)', 'url': 'https://www.netflix.com/kr/title/81293372'}}
+905 {'@type': 'ListItem', 'position': 906, 'item': {'@type': 'TVSeries', 'name': '절대쌍교', 'url': 'https://www.netflix.com/kr/title/80996973'}}
+906 {'@type': 'ListItem', 'position': 907, 'item': {'@type': 'TVSeries', 'name': '삼생삼세 십리도화', 'url': 'https://www.netflix.com/kr/title/81019520'}}
+907 {'@type': 'ListItem', 'position': 908, 'item': {'@type': 'TVSeries', 'name': '미미일소흔경성', 'url': 'https://www.netflix.com/kr/title/81005091'}}
+908 {'@type': 'ListItem', 'position': 909, 'item': {'@type': 'TVSeries', 'name': '심야식당: 도쿄 스토리', 'url': 'https://www.netflix.com/kr/title/80113037'}}
+909 {'@type': 'ListItem', 'position': 910, 'item': {'@type': 'TVSeries', 'name': '유성화원', 'url': 'https://www.netflix.com/kr/title/81005504'}}
+910 {'@type': 'ListItem', 'position': 911, 'item': {'@type': 'TVSeries', 'name': '운석전', 'url': 'https://www.netflix.com/kr/title/81293269'}}
+911 {'@type': 'ListItem', 'position': 912, 'item': {'@type': 'TVSeries', 'name': '누나의 첫사랑', 'url': 'https://www.netflix.com/kr/title/81137134'}}
+912 {'@type': 'ListItem', 'position': 913, 'item': {'@type': 'TVSeries', 'name': '보이프렌즈', 'url': 'https://www.netflix.com/kr/title/81298479'}}
+913 {'@type': 'ListItem', 'position': 914, 'item': {'@type': 'TVSeries', 'name': '보스가 결혼하재요', 'url': 'https://www.netflix.com/kr/title/81092192'}}
+914 {'@type': 'ListItem', 'position': 915, 'item': {'@type': 'TVSeries', 'name': '첫사랑의 멜로디', 'url': 'https://www.netflix.com/kr/title/81185502'}}
+915 {'@type': 'ListItem', 'position': 916, 'item': {'@type': 'TVSeries', 'name': '호빵맨', 'url': 'https://www.netflix.com/kr/title/81291675'}}
+916 {'@type': 'ListItem', 'position': 917, 'item': {'@type': 'TVSeries', 'name': '금수미앙', 'url': 'https://www.netflix.com/kr/title/80987113'}}
+917 {'@type': 'ListItem', 'position': 918, 'item': {'@type': 'TVSeries', 'name': '천성장가', 'url': 'https://www.netflix.com/kr/title/80993613'}}
+918 {'@type': 'ListItem', 'position': 919, 'item': {'@type': 'TVSeries', 'name': '러브 데스티니', 'url': 'https://www.netflix.com/kr/title/81106659'}}
+919 {'@type': 'ListItem', 'position': 920, 'item': {'@type': 'TVSeries', 'name': '영검산의 고수들', 'url': 'https://www.netflix.com/kr/title/81208888'}}
+920 {'@type': 'ListItem', 'position': 921, 'item': {'@type': 'TVSeries', 'name': '전하를 조심해', 'url': 'https://www.netflix.com/kr/title/81025800'}}
+921 {'@type': 'ListItem', 'position': 922, 'item': {'@type': 'TVSeries', 'name': '아라시의 다이어리 -또 다른 여행-', 'url': 'https://www.netflix.com/kr/title/81219073'}}
+922 {'@type': 'ListItem', 'position': 923, 'item': {'@type': 'TVSeries', 'name': '전직고수', 'url': 'https://www.netflix.com/kr/title/81175361'}}
+923 {'@type': 'ListItem', 'position': 924, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 새로운 시작', 'url': 'https://www.netflix.com/kr/title/80212301'}}
+924 {'@type': 'ListItem', 'position': 925, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 도시남녀', 'url': 'https://www.netflix.com/kr/title/80067942'}}
+925 {'@type': 'ListItem', 'position': 926, 'item': {'@type': 'TVSeries', 'name': '등등아아적청춘', 'url': 'https://www.netflix.com/kr/title/81197399'}}
+926 {'@type': 'ListItem', 'position': 927, 'item': {'@type': 'TVSeries', 'name': '카케구루이', 'url': 'https://www.netflix.com/kr/title/80233218'}}
+927 {'@type': 'ListItem', 'position': 928, 'item': {'@type': 'TVSeries', 'name': '굿모닝 콜', 'url': 'https://www.netflix.com/kr/title/80092878'}}
+928 {'@type': 'ListItem', 'position': 929, 'item': {'@type': 'TVSeries', 'name': '다음 역, 행복', 'url': 'https://www.netflix.com/kr/title/70303287'}}
+929 {'@type': 'ListItem', 'position': 930, 'item': {'@type': 'TVSeries', 'name': 'BG 신변경호인', 'url': 'https://www.netflix.com/kr/title/81272953'}}
+930 {'@type': 'ListItem', 'position': 931, 'item': {'@type': 'TVSeries', 'name': '너를 들려줘', 'url': 'https://www.netflix.com/kr/title/81087124'}}
+931 {'@type': 'ListItem', 'position': 932, 'item': {'@type': 'TVSeries', 'name': '분투파소년: 테니스의 왕자', 'url': 'https://www.netflix.com/kr/title/81135440'}}
+932 {'@type': 'ListItem', 'position': 933, 'item': {'@type': 'TVSeries', 'name': '오드봇, 이상한 아이들', 'url': 'https://www.netflix.com/kr/title/80176265'}}
+933 {'@type': 'ListItem', 'position': 934, 'item': {'@type': 'TVSeries', 'name': '극품절배', 'url': 'https://www.netflix.com/kr/title/81020577'}}
+934 {'@type': 'ListItem', 'position': 935, 'item': {'@type': 'TVSeries', 'name': '테라스 하우스: 하와이편', 'url': 'https://www.netflix.com/kr/title/80131479'}}
+935 {'@type': 'ListItem', 'position': 936, 'item': {'@type': 'TVSeries', 'name': '보이프렌즈: 스틸 2게더', 'url': 'https://www.netflix.com/kr/title/81351427'}}
+936 {'@type': 'ListItem', 'position': 937, 'item': {'@type': 'TVSeries', 'name': '십년삼월삼십일', 'url': 'https://www.netflix.com/kr/title/81342578'}}
+937 {'@type': 'ListItem', 'position': 938, 'item': {'@type': 'TVSeries', 'name': '하신', 'url': 'https://www.netflix.com/kr/title/80220692'}}
+938 {'@type': 'ListItem', 'position': 939, 'item': {'@type': 'TVSeries', 'name': '트릭: 신작 스페셜', 'url': 'https://www.netflix.com/kr/title/81260165'}}
+939 {'@type': 'ListItem', 'position': 940, 'item': {'@type': 'TVSeries', 'name': '독가기억', 'url': 'https://www.netflix.com/kr/title/81108280'}}
+940 {'@type': 'ListItem', 'position': 941, 'item': {'@type': 'TVSeries', 'name': '러브 나우', 'url': 'https://www.netflix.com/kr/title/70303291'}}
+941 {'@type': 'ListItem', 'position': 942, 'item': {'@type': 'TVSeries', 'name': '우주를 누비는 쏙독새', 'url': 'https://www.netflix.com/kr/title/80230018'}}
+942 {'@type': 'ListItem', 'position': 943, 'item': {'@type': 'TVSeries', 'name': '풍미 원산지', 'url': 'https://www.netflix.com/kr/title/80991060'}}
+943 {'@type': 'ListItem', 'position': 944, 'item': {'@type': 'TVSeries', 'name': '반교: 디텐션', 'url': 'https://www.netflix.com/kr/title/81329144'}}
+944 {'@type': 'ListItem', 'position': 945, 'item': {'@type': 'TVSeries', 'name': '나만이 없는 거리', 'url': 'https://www.netflix.com/kr/title/80173711'}}
+945 {'@type': 'ListItem', 'position': 946, 'item': {'@type': 'TVSeries', 'name': '영원한 사랑', 'url': 'https://www.netflix.com/kr/title/81039709'}}
+946 {'@type': 'ListItem', 'position': 947, 'item': {'@type': 'TVSeries', 'name': '여짐친림: 로맨스의 왕', 'url': 'https://www.netflix.com/kr/title/81032868'}}
+947 {'@type': 'ListItem', 'position': 948, 'item': {'@type': 'TVSeries', 'name': '너를 부르는 시간', 'url': 'https://www.netflix.com/kr/title/80993627'}}
+948 {'@type': 'ListItem', 'position': 949, 'item': {'@type': 'TVSeries', 'name': '연희공략: 금지옥엽', 'url': 'https://www.netflix.com/kr/title/81203251'}}
+949 {'@type': 'ListItem', 'position': 950, 'item': {'@type': 'TVSeries', 'name': '초식립정아애니', 'url': 'https://www.netflix.com/kr/title/81032871'}}
+950 {'@type': 'ListItem', 'position': 951, 'item': {'@type': 'TVSeries', 'name': '보스 프린세스', 'url': 'https://www.netflix.com/kr/title/81019391'}}
+951 {'@type': 'ListItem', 'position': 952, 'item': {'@type': 'TVSeries', 'name': '방랑의 미식가', 'url': 'https://www.netflix.com/kr/title/80132738'}}
+952 {'@type': 'ListItem', 'position': 953, 'item': {'@type': 'TVSeries', 'name': '파이널 판타지 XIV: 빛의 아버지', 'url': 'https://www.netflix.com/kr/title/80178543'}}
+953 {'@type': 'ListItem', 'position': 954, 'item': {'@type': 'TVSeries', 'name': '그녀 다시 보기', 'url': 'https://www.netflix.com/kr/title/80111845'}}
+954 {'@type': 'ListItem', 'position': 955, 'item': {'@type': 'TVSeries', 'name': '백 투 1989', 'url': 'https://www.netflix.com/kr/title/80134109'}}
+955 {'@type': 'ListItem', 'position': 956, 'item': {'@type': 'TVSeries', 'name': 'OCTB: 반흑(反黑)', 'url': 'https://www.netflix.com/kr/title/80221279'}}
+956 {'@type': 'ListItem', 'position': 957, 'item': {'@type': 'TVSeries', 'name': '약초 마스터 통 엑', 'url': 'https://www.netflix.com/kr/title/81140728'}}
+957 {'@type': 'ListItem', 'position': 958, 'item': {'@type': 'TVSeries', 'name': '구마진군', 'url': 'https://www.netflix.com/kr/title/81346818'}}
+958 {'@type': 'ListItem', 'position': 959, 'item': {'@type': 'TVSeries', 'name': '세일즈맨 칸타로의 달콤한 비밀', 'url': 'https://www.netflix.com/kr/title/80175348'}}
+959 {'@type': 'ListItem', 'position': 960, 'item': {'@type': 'TVSeries', 'name': '사랑은 귀찮아', 'url': 'https://www.netflix.com/kr/title/80111881'}}
+960 {'@type': 'ListItem', 'position': 961, 'item': {'@type': 'TVSeries', 'name': '희생자 게임', 'url': 'https://www.netflix.com/kr/title/81227121'}}
+961 {'@type': 'ListItem', 'position': 962, 'item': {'@type': 'TVSeries', 'name': '아화아적십칠세', 'url': 'https://www.netflix.com/kr/title/81032867'}}
+962 {'@type': 'ListItem', 'position': 963, 'item': {'@type': 'TVSeries', 'name': '붉은 달의 예언', 'url': 'https://www.netflix.com/kr/title/81039558'}}
+963 {'@type': 'ListItem', 'position': 964, 'item': {'@type': 'TVSeries', 'name': '팔로워들', 'url': 'https://www.netflix.com/kr/title/80233221'}}
+964 {'@type': 'ListItem', 'position': 965, 'item': {'@type': 'TVSeries', 'name': '아틀리에', 'url': 'https://www.netflix.com/kr/title/80067618'}}
+965 {'@type': 'ListItem', 'position': 966, 'item': {'@type': 'TVSeries', 'name': '필취여인', 'url': 'https://www.netflix.com/kr/title/81032849'}}
+966 {'@type': 'ListItem', 'position': 967, 'item': {'@type': 'TVSeries', 'name': '남편의 그것이 들어가지 않아', 'url': 'https://www.netflix.com/kr/title/81002451'}}
+967 {'@type': 'ListItem', 'position': 968, 'item': {'@type': 'TVSeries', 'name': '취중 결혼', 'url': 'https://www.netflix.com/kr/title/80111917'}}
+968 {'@type': 'ListItem', 'position': 969, 'item': {'@type': 'TVSeries', 'name': '사랑과 상처', 'url': 'https://www.netflix.com/kr/title/81039805'}}
+969 {'@type': 'ListItem', 'position': 970, 'item': {'@type': 'TVSeries', 'name': '보이스', 'url': 'https://www.netflix.com/kr/title/81142595'}}
+970 {'@type': 'ListItem', 'position': 971, 'item': {'@type': 'TVSeries', 'name': '백야추흉', 'url': 'https://www.netflix.com/kr/title/80222788'}}
+971 {'@type': 'ListItem', 'position': 972, 'item': {'@type': 'TVSeries', 'name': '무증지죄', 'url': 'https://www.netflix.com/kr/title/80220817'}}
+972 {'@type': 'ListItem', 'position': 973, 'item': {'@type': 'TVSeries', 'name': '경계선의 남자', 'url': 'https://www.netflix.com/kr/title/80203920'}}
+973 {'@type': 'ListItem', 'position': 974, 'item': {'@type': 'TVSeries', 'name': '모브 사이코 100', 'url': 'https://www.netflix.com/kr/title/80213536'}}
+974 {'@type': 'ListItem', 'position': 975, 'item': {'@type': 'TVSeries', 'name': '국민 남편 길들이기', 'url': 'https://www.netflix.com/kr/title/80998058'}}
+975 {'@type': 'ListItem', 'position': 976, 'item': {'@type': 'TVSeries', 'name': '인간수업', 'url': 'https://www.netflix.com/kr/title/80990668'}}
+976 {'@type': 'ListItem', 'position': 977, 'item': {'@type': 'TVSeries', 'name': '라이브', 'url': 'https://www.netflix.com/kr/title/80214523'}}
+977 {'@type': 'ListItem', 'position': 978, 'item': {'@type': 'TVSeries', 'name': '보이스', 'url': 'https://www.netflix.com/kr/title/80987095'}}
+978 {'@type': 'ListItem', 'position': 979, 'item': {'@type': 'TVSeries', 'name': '범인은 바로 너!', 'url': 'https://www.netflix.com/kr/title/80209553'}}
+979 {'@type': 'ListItem', 'position': 980, 'item': {'@type': 'TVSeries', 'name': '모범형사', 'url': 'https://www.netflix.com/kr/title/81323914'}}
+980 {'@type': 'ListItem', 'position': 981, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+981 {'@type': 'ListItem', 'position': 982, 'item': {'@type': 'TVSeries', 'name': '엘리트들', 'url': 'https://www.netflix.com/kr/title/80200942'}}
+982 {'@type': 'ListItem', 'position': 983, 'item': {'@type': 'TVSeries', 'name': '터널', 'url': 'https://www.netflix.com/kr/title/81167047'}}
+983 {'@type': 'ListItem', 'position': 984, 'item': {'@type': 'TVSeries', 'name': '문호 스트레이독스', 'url': 'https://www.netflix.com/kr/title/80132126'}}
+984 {'@type': 'ListItem', 'position': 985, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+985 {'@type': 'ListItem', 'position': 986, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+986 {'@type': 'ListItem', 'position': 987, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+987 {'@type': 'ListItem', 'position': 988, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+988 {'@type': 'ListItem', 'position': 989, 'item': {'@type': 'TVSeries', 'name': '마인드헌터', 'url': 'https://www.netflix.com/kr/title/80114855'}}
+989 {'@type': 'ListItem', 'position': 990, 'item': {'@type': 'TVSeries', 'name': '피키 블라인더스', 'url': 'https://www.netflix.com/kr/title/80002479'}}
+990 {'@type': 'ListItem', 'position': 991, 'item': {'@type': 'TVSeries', 'name': '미래일기', 'url': 'https://www.netflix.com/kr/title/80132333'}}
+991 {'@type': 'ListItem', 'position': 992, 'item': {'@type': 'TVSeries', 'name': '나쁜녀석들: 악의 도시', 'url': 'https://www.netflix.com/kr/title/80214772'}}
+992 {'@type': 'ListItem', 'position': 993, 'item': {'@type': 'TVSeries', 'name': '검은 욕망', 'url': 'https://www.netflix.com/kr/title/81090319'}}
+993 {'@type': 'ListItem', 'position': 994, 'item': {'@type': 'TVSeries', 'name': '보디가드', 'url': 'https://www.netflix.com/kr/title/80235864'}}
+994 {'@type': 'ListItem', 'position': 995, 'item': {'@type': 'TVSeries', 'name': '웬트워스', 'url': 'https://www.netflix.com/kr/title/80013249'}}
+995 {'@type': 'ListItem', 'position': 996, 'item': {'@type': 'TVSeries', 'name': '나르코스: 멕시코', 'url': 'https://www.netflix.com/kr/title/80997085'}}
+996 {'@type': 'ListItem', 'position': 997, 'item': {'@type': 'TVSeries', 'name': '굿 걸스', 'url': 'https://www.netflix.com/kr/title/80177342'}}
+997 {'@type': 'ListItem', 'position': 998, 'item': {'@type': 'TVSeries', 'name': 'Marvel 퍼니셔', 'url': 'https://www.netflix.com/kr/title/80117498'}}
+998 {'@type': 'ListItem', 'position': 999, 'item': {'@type': 'TVSeries', 'name': '리버데일', 'url': 'https://www.netflix.com/kr/title/80133311'}}
+999 {'@type': 'ListItem', 'position': 1000, 'item': {'@type': 'TVSeries', 'name': '미스티', 'url': 'https://www.netflix.com/kr/title/81029905'}}
+1000 {'@type': 'ListItem', 'position': 1001, 'item': {'@type': 'TVSeries', 'name': '지상 최악의 교도소에 가다', 'url': 'https://www.netflix.com/kr/title/80116922'}}
+1001 {'@type': 'ListItem', 'position': 1002, 'item': {'@type': 'TVSeries', 'name': '다크', 'url': 'https://www.netflix.com/kr/title/80100172'}}
+1002 {'@type': 'ListItem', 'position': 1003, 'item': {'@type': 'TVSeries', 'name': '풀리지 않은 미스터리', 'url': 'https://www.netflix.com/kr/title/81026055'}}
+1003 {'@type': 'ListItem', 'position': 1004, 'item': {'@type': 'TVSeries', 'name': '블랙', 'url': 'https://www.netflix.com/kr/title/80214013'}}
+1004 {'@type': 'ListItem', 'position': 1005, 'item': {'@type': 'TVSeries', 'name': '설국열차', 'url': 'https://www.netflix.com/kr/title/80177458'}}
+1005 {'@type': 'ListItem', 'position': 1006, 'item': {'@type': 'TVSeries', 'name': '그녀, 안드로이드', 'url': 'https://www.netflix.com/kr/title/81026915'}}
+1006 {'@type': 'ListItem', 'position': 1007, 'item': {'@type': 'TVSeries', 'name': '더 폴', 'url': 'https://www.netflix.com/kr/title/70272726'}}
+1007 {'@type': 'ListItem', 'position': 1008, 'item': {'@type': 'TVSeries', 'name': '에일리어니스트', 'url': 'https://www.netflix.com/kr/title/80149395'}}
+1008 {'@type': 'ListItem', 'position': 1009, 'item': {'@type': 'TVSeries', 'name': '썬즈 오브 아나키', 'url': 'https://www.netflix.com/kr/title/70143844'}}
+1009 {'@type': 'ListItem', 'position': 1010, 'item': {'@type': 'TVSeries', 'name': '얼터드 카본', 'url': 'https://www.netflix.com/kr/title/80097140'}}
+1010 {'@type': 'ListItem', 'position': 1011, 'item': {'@type': 'TVSeries', 'name': '믿을 수 없는 이야기', 'url': 'https://www.netflix.com/kr/title/80153467'}}
+1011 {'@type': 'ListItem', 'position': 1012, 'item': {'@type': 'TVSeries', 'name': '신이라 불리운 사나이', 'url': 'https://www.netflix.com/kr/title/80094387'}}
+1012 {'@type': 'ListItem', 'position': 1013, 'item': {'@type': 'TVSeries', 'name': '트랩트', 'url': 'https://www.netflix.com/kr/title/80118158'}}
+1013 {'@type': 'ListItem', 'position': 1014, 'item': {'@type': 'TVSeries', 'name': '죄인', 'url': 'https://www.netflix.com/kr/title/80175802'}}
+1014 {'@type': 'ListItem', 'position': 1015, 'item': {'@type': 'TVSeries', 'name': '엘 차포: 터널 킹', 'url': 'https://www.netflix.com/kr/title/80133042'}}
+1015 {'@type': 'ListItem', 'position': 1016, 'item': {'@type': 'TVSeries', 'name': '그레이트 프리텐더', 'url': 'https://www.netflix.com/kr/title/81220435'}}
+1016 {'@type': 'ListItem', 'position': 1017, 'item': {'@type': 'TVSeries', 'name': '스트레인저', 'url': 'https://www.netflix.com/kr/title/81001209'}}
+1017 {'@type': 'ListItem', 'position': 1018, 'item': {'@type': 'TVSeries', 'name': '하신', 'url': 'https://www.netflix.com/kr/title/80220692'}}
+1018 {'@type': 'ListItem', 'position': 1019, 'item': {'@type': 'TVSeries', 'name': '델리 크라임', 'url': 'https://www.netflix.com/kr/title/81076756'}}
+1019 {'@type': 'ListItem', 'position': 1020, 'item': {'@type': 'TVSeries', 'name': '그레이스', 'url': 'https://www.netflix.com/kr/title/80119411'}}
+1020 {'@type': 'ListItem', 'position': 1021, 'item': {'@type': 'TVSeries', 'name': '보고싶다', 'url': 'https://www.netflix.com/kr/title/80076261'}}
+1021 {'@type': 'ListItem', 'position': 1022, 'item': {'@type': 'TVSeries', 'name': '브로드처치', 'url': 'https://www.netflix.com/kr/title/70302484'}}
+1022 {'@type': 'ListItem', 'position': 1023, 'item': {'@type': 'TVSeries', 'name': '트릭: 신작 스페셜', 'url': 'https://www.netflix.com/kr/title/81260165'}}
+1023 {'@type': 'ListItem', 'position': 1024, 'item': {'@type': 'TVSeries', 'name': '고양이는 건드리지 마라: 인터넷 킬러 사냥', 'url': 'https://www.netflix.com/kr/title/81031373'}}
+1024 {'@type': 'ListItem', 'position': 1025, 'item': {'@type': 'TVSeries', 'name': '고식', 'url': 'https://www.netflix.com/kr/title/80209888'}}
+1025 {'@type': 'ListItem', 'position': 1026, 'item': {'@type': 'TVSeries', 'name': '갱스터', 'url': 'https://www.netflix.com/kr/title/80201315'}}
+1026 {'@type': 'ListItem', 'position': 1027, 'item': {'@type': 'TVSeries', 'name': '맨헌트', 'url': 'https://www.netflix.com/kr/title/80176878'}}
+1027 {'@type': 'ListItem', 'position': 1028, 'item': {'@type': 'TVSeries', 'name': '타이거 킹: 무법지대', 'url': 'https://www.netflix.com/kr/title/81115994'}}
+1028 {'@type': 'ListItem', 'position': 1029, 'item': {'@type': 'TVSeries', 'name': '루갈', 'url': 'https://www.netflix.com/kr/title/81243994'}}
+1029 {'@type': 'ListItem', 'position': 1030, 'item': {'@type': 'TVSeries', 'name': '인터넷으로 마약을 파는 법', 'url': 'https://www.netflix.com/kr/title/80218448'}}
+1030 {'@type': 'ListItem', 'position': 1031, 'item': {'@type': 'TVSeries', 'name': '마약왕 파블로 에스코바', 'url': 'https://www.netflix.com/kr/title/80035684'}}
+1031 {'@type': 'ListItem', 'position': 1032, 'item': {'@type': 'TVSeries', 'name': '라인 오브 듀티', 'url': 'https://www.netflix.com/kr/title/70263817'}}
+1032 {'@type': 'ListItem', 'position': 1033, 'item': {'@type': 'TVSeries', 'name': '언더커버', 'url': 'https://www.netflix.com/kr/title/80225312'}}
+1033 {'@type': 'ListItem', 'position': 1034, 'item': {'@type': 'TVSeries', 'name': '내 이웃의 비밀', 'url': 'https://www.netflix.com/kr/title/80201500'}}
+1034 {'@type': 'ListItem', 'position': 1035, 'item': {'@type': 'TVSeries', 'name': '수부라', 'url': 'https://www.netflix.com/kr/title/80081537'}}
+1035 {'@type': 'ListItem', 'position': 1036, 'item': {'@type': 'TVSeries', 'name': '공각기동대 에스에이씨_2045', 'url': 'https://www.netflix.com/kr/title/81030224'}}
+1036 {'@type': 'ListItem', 'position': 1037, 'item': {'@type': 'TVSeries', 'name': '모두의 거짓말', 'url': 'https://www.netflix.com/kr/title/81191500'}}
+1037 {'@type': 'ListItem', 'position': 1038, 'item': {'@type': 'TVSeries', 'name': '빙의', 'url': 'https://www.netflix.com/kr/title/81087764'}}
+1038 {'@type': 'ListItem', 'position': 1039, 'item': {'@type': 'TVSeries', 'name': 'O.J. 심슨 파일: 아메리칸 크라임 스토리', 'url': 'https://www.netflix.com/kr/title/80083977'}}
+1039 {'@type': 'ListItem', 'position': 1040, 'item': {'@type': 'TVSeries', 'name': '갈리시아의 상속자들', 'url': 'https://www.netflix.com/kr/title/80241001'}}
+1040 {'@type': 'ListItem', 'position': 1041, 'item': {'@type': 'TVSeries', 'name': '알타 마르: 선상의 살인자', 'url': 'https://www.netflix.com/kr/title/80233258'}}
+1041 {'@type': 'ListItem', 'position': 1042, 'item': {'@type': 'TVSeries', 'name': '크리미널: 영국', 'url': 'https://www.netflix.com/kr/title/80216172'}}
+1042 {'@type': 'ListItem', 'position': 1043, 'item': {'@type': 'TVSeries', 'name': 'B: 더 비기닝', 'url': 'https://www.netflix.com/kr/title/80097594'}}
+1043 {'@type': 'ListItem', 'position': 1044, 'item': {'@type': 'TVSeries', 'name': '아메리칸 반달리즘', 'url': 'https://www.netflix.com/kr/title/80117545'}}
+1044 {'@type': 'ListItem', 'position': 1045, 'item': {'@type': 'TVSeries', 'name': '더크 젠틀리의 전체론적 탐정 사무소', 'url': 'https://www.netflix.com/kr/title/80119426'}}
+1045 {'@type': 'ListItem', 'position': 1046, 'item': {'@type': 'TVSeries', 'name': '데어 미', 'url': 'https://www.netflix.com/kr/title/80243706'}}
+1046 {'@type': 'ListItem', 'position': 1047, 'item': {'@type': 'TVSeries', 'name': '탑 보이', 'url': 'https://www.netflix.com/kr/title/80217669'}}
+1047 {'@type': 'ListItem', 'position': 1048, 'item': {'@type': 'TVSeries', 'name': '탑 보이: 써머하우스', 'url': 'https://www.netflix.com/kr/title/70236561'}}
+1048 {'@type': 'ListItem', 'position': 1049, 'item': {'@type': 'TVSeries', 'name': '릴리해머', 'url': 'https://www.netflix.com/kr/title/70221438'}}
+1049 {'@type': 'ListItem', 'position': 1050, 'item': {'@type': 'TVSeries', 'name': '트레일러 파크 보이즈', 'url': 'https://www.netflix.com/kr/title/70153385'}}
+1050 {'@type': 'ListItem', 'position': 1051, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+1051 {'@type': 'ListItem', 'position': 1052, 'item': {'@type': 'TVSeries', 'name': '홈랜드', 'url': 'https://www.netflix.com/kr/title/70180387'}}
+1052 {'@type': 'ListItem', 'position': 1053, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+1053 {'@type': 'ListItem', 'position': 1054, 'item': {'@type': 'TVSeries', 'name': '더블 타겟', 'url': 'https://www.netflix.com/kr/title/80109194'}}
+1054 {'@type': 'ListItem', 'position': 1055, 'item': {'@type': 'TVSeries', 'name': '엘리트들', 'url': 'https://www.netflix.com/kr/title/80200942'}}
+1055 {'@type': 'ListItem', 'position': 1056, 'item': {'@type': 'TVSeries', 'name': '부부의 세계', 'url': 'https://www.netflix.com/kr/title/81287006'}}
+1056 {'@type': 'ListItem', 'position': 1057, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+1057 {'@type': 'ListItem', 'position': 1058, 'item': {'@type': 'TVSeries', 'name': '오티스의 비밀 상담소', 'url': 'https://www.netflix.com/kr/title/80197526'}}
+1058 {'@type': 'ListItem', 'position': 1059, 'item': {'@type': 'TVSeries', 'name': '너의 모든 것', 'url': 'https://www.netflix.com/kr/title/80211991'}}
+1059 {'@type': 'ListItem', 'position': 1060, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+1060 {'@type': 'ListItem', 'position': 1061, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+1061 {'@type': 'ListItem', 'position': 1062, 'item': {'@type': 'TVSeries', 'name': '메시아', 'url': 'https://www.netflix.com/kr/title/80117557'}}
+1062 {'@type': 'ListItem', 'position': 1063, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+1063 {'@type': 'ListItem', 'position': 1064, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+1064 {'@type': 'ListItem', 'position': 1065, 'item': {'@type': 'TVSeries', 'name': '하우스 오브 카드', 'url': 'https://www.netflix.com/kr/title/70178217'}}
+1065 {'@type': 'ListItem', 'position': 1066, 'item': {'@type': 'TVSeries', 'name': '마인드헌터', 'url': 'https://www.netflix.com/kr/title/80114855'}}
+1066 {'@type': 'ListItem', 'position': 1067, 'item': {'@type': 'TVSeries', 'name': '루머의 루머의 루머', 'url': 'https://www.netflix.com/kr/title/80117470'}}
+1067 {'@type': 'ListItem', 'position': 1068, 'item': {'@type': 'TVSeries', 'name': '나쁜녀석들: 악의 도시', 'url': 'https://www.netflix.com/kr/title/80214772'}}
+1068 {'@type': 'ListItem', 'position': 1069, 'item': {'@type': 'TVSeries', 'name': '빌리언스', 'url': 'https://www.netflix.com/kr/title/80067290'}}
+1069 {'@type': 'ListItem', 'position': 1070, 'item': {'@type': 'TVSeries', 'name': '마블 아이언 피스트', 'url': 'https://www.netflix.com/kr/title/80002612'}}
+1070 {'@type': 'ListItem', 'position': 1071, 'item': {'@type': 'TVSeries', 'name': '보디가드', 'url': 'https://www.netflix.com/kr/title/80235864'}}
+1071 {'@type': 'ListItem', 'position': 1072, 'item': {'@type': 'TVSeries', 'name': '오펀 블랙', 'url': 'https://www.netflix.com/kr/title/70276033'}}
+1072 {'@type': 'ListItem', 'position': 1073, 'item': {'@type': 'TVSeries', 'name': '어둠 속으로', 'url': 'https://www.netflix.com/kr/title/81008221'}}
+1073 {'@type': 'ListItem', 'position': 1074, 'item': {'@type': 'TVSeries', 'name': '60일, 지정생존자', 'url': 'https://www.netflix.com/kr/title/81072109'}}
+1074 {'@type': 'ListItem', 'position': 1075, 'item': {'@type': 'TVSeries', 'name': '로크 앤 키', 'url': 'https://www.netflix.com/kr/title/80241239'}}
+1075 {'@type': 'ListItem', 'position': 1076, 'item': {'@type': 'TVSeries', 'name': '나르코스: 멕시코', 'url': 'https://www.netflix.com/kr/title/80997085'}}
+1076 {'@type': 'ListItem', 'position': 1077, 'item': {'@type': 'TVSeries', 'name': '반 헬싱', 'url': 'https://www.netflix.com/kr/title/80121349'}}
+1077 {'@type': 'ListItem', 'position': 1078, 'item': {'@type': 'TVSeries', 'name': '굿 걸스', 'url': 'https://www.netflix.com/kr/title/80177342'}}
+1078 {'@type': 'ListItem', 'position': 1079, 'item': {'@type': 'TVSeries', 'name': '버진리버', 'url': 'https://www.netflix.com/kr/title/80240027'}}
+1079 {'@type': 'ListItem', 'position': 1080, 'item': {'@type': 'TVSeries', 'name': '시간여행자', 'url': 'https://www.netflix.com/kr/title/80105699'}}
+1080 {'@type': 'ListItem', 'position': 1081, 'item': {'@type': 'TVSeries', 'name': '마르코 폴로', 'url': 'https://www.netflix.com/kr/title/70305883'}}
+1081 {'@type': 'ListItem', 'position': 1082, 'item': {'@type': 'TVSeries', 'name': '다이너스티: 1%의 1%', 'url': 'https://www.netflix.com/kr/title/80179394'}}
+1082 {'@type': 'ListItem', 'position': 1083, 'item': {'@type': 'TVSeries', 'name': '전직고수', 'url': 'https://www.netflix.com/kr/title/81175361'}}
+1083 {'@type': 'ListItem', 'position': 1084, 'item': {'@type': 'TVSeries', 'name': '레인', 'url': 'https://www.netflix.com/kr/title/80154610'}}
+1084 {'@type': 'ListItem', 'position': 1085, 'item': {'@type': 'TVSeries', 'name': '검은 해적', 'url': 'https://www.netflix.com/kr/title/70285580'}}
+1085 {'@type': 'ListItem', 'position': 1086, 'item': {'@type': 'TVSeries', 'name': '다크', 'url': 'https://www.netflix.com/kr/title/80100172'}}
+1086 {'@type': 'ListItem', 'position': 1087, 'item': {'@type': 'TVSeries', 'name': '하이에나', 'url': 'https://www.netflix.com/kr/title/81177545'}}
+1087 {'@type': 'ListItem', 'position': 1088, 'item': {'@type': 'TVSeries', 'name': '센스8', 'url': 'https://www.netflix.com/kr/title/80025744'}}
+1088 {'@type': 'ListItem', 'position': 1089, 'item': {'@type': 'TVSeries', 'name': '제인 더 버진', 'url': 'https://www.netflix.com/kr/title/80027158'}}
+1089 {'@type': 'ListItem', 'position': 1090, 'item': {'@type': 'TVSeries', 'name': '사랑하는 작고 예쁜 것들', 'url': 'https://www.netflix.com/kr/title/81017308'}}
+1090 {'@type': 'ListItem', 'position': 1091, 'item': {'@type': 'TVSeries', 'name': '아스달 연대기', 'url': 'https://www.netflix.com/kr/title/81028895'}}
+1091 {'@type': 'ListItem', 'position': 1092, 'item': {'@type': 'TVSeries', 'name': '더 폴', 'url': 'https://www.netflix.com/kr/title/70272726'}}
+1092 {'@type': 'ListItem', 'position': 1093, 'item': {'@type': 'TVSeries', 'name': '래치드', 'url': 'https://www.netflix.com/kr/title/80213445'}}
+1093 {'@type': 'ListItem', 'position': 1094, 'item': {'@type': 'TVSeries', 'name': '마블 제시카 존스', 'url': 'https://www.netflix.com/kr/title/80002311'}}
+1094 {'@type': 'ListItem', 'position': 1095, 'item': {'@type': 'TVSeries', 'name': '바바리안', 'url': 'https://www.netflix.com/kr/title/81024039'}}
+1095 {'@type': 'ListItem', 'position': 1096, 'item': {'@type': 'TVSeries', 'name': '에일리어니스트', 'url': 'https://www.netflix.com/kr/title/80149395'}}
+1096 {'@type': 'ListItem', 'position': 1097, 'item': {'@type': 'TVSeries', 'name': '썬즈 오브 아나키', 'url': 'https://www.netflix.com/kr/title/70143844'}}
+1097 {'@type': 'ListItem', 'position': 1098, 'item': {'@type': 'TVSeries', 'name': '마드리드 모던걸', 'url': 'https://www.netflix.com/kr/title/80100929'}}
+1098 {'@type': 'ListItem', 'position': 1099, 'item': {'@type': 'TVSeries', 'name': '얼터드 카본', 'url': 'https://www.netflix.com/kr/title/80097140'}}
+1099 {'@type': 'ListItem', 'position': 1100, 'item': {'@type': 'TVSeries', 'name': '믿을 수 없는 이야기', 'url': 'https://www.netflix.com/kr/title/80153467'}}
+1100 {'@type': 'ListItem', 'position': 1101, 'item': {'@type': 'TVSeries', 'name': '블랙 썸머', 'url': 'https://www.netflix.com/kr/title/80198988'}}
+1101 {'@type': 'ListItem', 'position': 1102, 'item': {'@type': 'TVSeries', 'name': 'OA', 'url': 'https://www.netflix.com/kr/title/80044950'}}
+1102 {'@type': 'ListItem', 'position': 1103, 'item': {'@type': 'TVSeries', 'name': '트랩트', 'url': 'https://www.netflix.com/kr/title/80118158'}}
+1103 {'@type': 'ListItem', 'position': 1104, 'item': {'@type': 'TVSeries', 'name': '죄인', 'url': 'https://www.netflix.com/kr/title/80175802'}}
+1104 {'@type': 'ListItem', 'position': 1105, 'item': {'@type': 'TVSeries', 'name': '러브 앤 아나키', 'url': 'https://www.netflix.com/kr/title/81069541'}}
+1105 {'@type': 'ListItem', 'position': 1106, 'item': {'@type': 'TVSeries', 'name': '파우다: 혼돈', 'url': 'https://www.netflix.com/kr/title/80113612'}}
+1106 {'@type': 'ListItem', 'position': 1107, 'item': {'@type': 'TVSeries', 'name': '컨트롤 Z', 'url': 'https://www.netflix.com/kr/title/81021245'}}
+1107 {'@type': 'ListItem', 'position': 1108, 'item': {'@type': 'TVSeries', 'name': '마블 루크 케이지', 'url': 'https://www.netflix.com/kr/title/80002537'}}
+1108 {'@type': 'ListItem', 'position': 1109, 'item': {'@type': 'TVSeries', 'name': '채울 수 없는', 'url': 'https://www.netflix.com/kr/title/80179905'}}
+1109 {'@type': 'ListItem', 'position': 1110, 'item': {'@type': 'TVSeries', 'name': '데드 투 미', 'url': 'https://www.netflix.com/kr/title/80219707'}}
+1110 {'@type': 'ListItem', 'position': 1111, 'item': {'@type': 'TVSeries', 'name': '그리고 베를린에서', 'url': 'https://www.netflix.com/kr/title/81019069'}}
+1111 {'@type': 'ListItem', 'position': 1112, 'item': {'@type': 'TVSeries', 'name': '아이 엠 낫 오케이', 'url': 'https://www.netflix.com/kr/title/80244781'}}
+1112 {'@type': 'ListItem', 'position': 1113, 'item': {'@type': 'TVSeries', 'name': '모나르카', 'url': 'https://www.netflix.com/kr/title/80211572'}}
+1113 {'@type': 'ListItem', 'position': 1114, 'item': {'@type': 'TVSeries', 'name': '투 더 레이크', 'url': 'https://www.netflix.com/kr/title/81302258'}}
+1114 {'@type': 'ListItem', 'position': 1115, 'item': {'@type': 'TVSeries', 'name': '델리 크라임', 'url': 'https://www.netflix.com/kr/title/81076756'}}
+1115 {'@type': 'ListItem', 'position': 1116, 'item': {'@type': 'TVSeries', 'name': '어웨이', 'url': 'https://www.netflix.com/kr/title/80214512'}}
+1116 {'@type': 'ListItem', 'position': 1117, 'item': {'@type': 'TVSeries', 'name': '힐 하우스의 유령', 'url': 'https://www.netflix.com/kr/title/80189221'}}
+1117 {'@type': 'ListItem', 'position': 1118, 'item': {'@type': 'TVSeries', 'name': '브로드처치', 'url': 'https://www.netflix.com/kr/title/70302484'}}
+1118 {'@type': 'ListItem', 'position': 1119, 'item': {'@type': 'TVSeries', 'name': '잭 모턴과 언더월드', 'url': 'https://www.netflix.com/kr/title/80238357'}}
+1119 {'@type': 'ListItem', 'position': 1120, 'item': {'@type': 'TVSeries', 'name': '우주를 누비는 쏙독새', 'url': 'https://www.netflix.com/kr/title/80230018'}}
+1120 {'@type': 'ListItem', 'position': 1121, 'item': {'@type': 'TVSeries', 'name': '포즈', 'url': 'https://www.netflix.com/kr/title/80241986'}}
+1121 {'@type': 'ListItem', 'position': 1122, 'item': {'@type': 'TVSeries', 'name': '인터넷으로 마약을 파는 법', 'url': 'https://www.netflix.com/kr/title/80218448'}}
+1122 {'@type': 'ListItem', 'position': 1123, 'item': {'@type': 'TVSeries', 'name': 'I-랜드', 'url': 'https://www.netflix.com/kr/title/80993062'}}
+1123 {'@type': 'ListItem', 'position': 1124, 'item': {'@type': 'TVSeries', 'name': '언더커버', 'url': 'https://www.netflix.com/kr/title/80225312'}}
+1124 {'@type': 'ListItem', 'position': 1125, 'item': {'@type': 'TVSeries', 'name': '내 이웃의 비밀', 'url': 'https://www.netflix.com/kr/title/80201500'}}
+1125 {'@type': 'ListItem', 'position': 1126, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+1126 {'@type': 'ListItem', 'position': 1127, 'item': {'@type': 'TVSeries', 'name': '기황후', 'url': 'https://www.netflix.com/kr/title/80093324'}}
+1127 {'@type': 'ListItem', 'position': 1128, 'item': {'@type': 'TVSeries', 'name': '10대 사건으로 보는 제2차 세계대전', 'url': 'https://www.netflix.com/kr/title/80989924'}}
+1128 {'@type': 'ListItem', 'position': 1129, 'item': {'@type': 'TVSeries', 'name': '피키 블라인더스', 'url': 'https://www.netflix.com/kr/title/80002479'}}
+1129 {'@type': 'ListItem', 'position': 1130, 'item': {'@type': 'TVSeries', 'name': '운석전', 'url': 'https://www.netflix.com/kr/title/81293269'}}
+1130 {'@type': 'ListItem', 'position': 1131, 'item': {'@type': 'TVSeries', 'name': '베르사유', 'url': 'https://www.netflix.com/kr/title/80099753'}}
+1131 {'@type': 'ListItem', 'position': 1132, 'item': {'@type': 'TVSeries', 'name': '금수미앙', 'url': 'https://www.netflix.com/kr/title/80987113'}}
+1132 {'@type': 'ListItem', 'position': 1133, 'item': {'@type': 'TVSeries', 'name': '천성장가', 'url': 'https://www.netflix.com/kr/title/80993613'}}
+1133 {'@type': 'ListItem', 'position': 1134, 'item': {'@type': 'TVSeries', 'name': '신입사관 구해령', 'url': 'https://www.netflix.com/kr/title/81116487'}}
+1134 {'@type': 'ListItem', 'position': 1135, 'item': {'@type': 'TVSeries', 'name': '바람과 구름과 비', 'url': 'https://www.netflix.com/kr/title/81380171'}}
+1135 {'@type': 'ListItem', 'position': 1136, 'item': {'@type': 'TVSeries', 'name': '마르코 폴로', 'url': 'https://www.netflix.com/kr/title/70305883'}}
+1136 {'@type': 'ListItem', 'position': 1137, 'item': {'@type': 'TVSeries', 'name': '나의 나라', 'url': 'https://www.netflix.com/kr/title/81161487'}}
+1137 {'@type': 'ListItem', 'position': 1138, 'item': {'@type': 'TVSeries', 'name': '검은 해적', 'url': 'https://www.netflix.com/kr/title/70285580'}}
+1138 {'@type': 'ListItem', 'position': 1139, 'item': {'@type': 'TVSeries', 'name': '호프 밸리', 'url': 'https://www.netflix.com/kr/title/80036407'}}
+1139 {'@type': 'ListItem', 'position': 1140, 'item': {'@type': 'TVSeries', 'name': '래치드', 'url': 'https://www.netflix.com/kr/title/80213445'}}
+1140 {'@type': 'ListItem', 'position': 1141, 'item': {'@type': 'TVSeries', 'name': '바바리안', 'url': 'https://www.netflix.com/kr/title/81024039'}}
+1141 {'@type': 'ListItem', 'position': 1142, 'item': {'@type': 'TVSeries', 'name': '로마 제국', 'url': 'https://www.netflix.com/kr/title/80096545'}}
+1142 {'@type': 'ListItem', 'position': 1143, 'item': {'@type': 'TVSeries', 'name': '에일리어니스트', 'url': 'https://www.netflix.com/kr/title/80149395'}}
+1143 {'@type': 'ListItem', 'position': 1144, 'item': {'@type': 'TVSeries', 'name': '오스만 제국의 꿈', 'url': 'https://www.netflix.com/kr/title/80990771'}}
+1144 {'@type': 'ListItem', 'position': 1145, 'item': {'@type': 'TVSeries', 'name': '마드리드 모던걸', 'url': 'https://www.netflix.com/kr/title/80100929'}}
+1145 {'@type': 'ListItem', 'position': 1146, 'item': {'@type': 'TVSeries', 'name': '엽기적인 그녀', 'url': 'https://www.netflix.com/kr/title/81033645'}}
+1146 {'@type': 'ListItem', 'position': 1147, 'item': {'@type': 'TVSeries', 'name': '욕의 품격', 'url': 'https://www.netflix.com/kr/title/81305757'}}
+1147 {'@type': 'ListItem', 'position': 1148, 'item': {'@type': 'TVSeries', 'name': '바자르의 불꽃', 'url': 'https://www.netflix.com/kr/title/80213020'}}
+1148 {'@type': 'ListItem', 'position': 1149, 'item': {'@type': 'TVSeries', 'name': '감격시대 : 투신의 탄생', 'url': 'https://www.netflix.com/kr/title/80154824'}}
+1149 {'@type': 'ListItem', 'position': 1150, 'item': {'@type': 'TVSeries', 'name': '벨벳', 'url': 'https://www.netflix.com/kr/title/80018046'}}
+1150 {'@type': 'ListItem', 'position': 1151, 'item': {'@type': 'TVSeries', 'name': '그레이스', 'url': 'https://www.netflix.com/kr/title/80119411'}}
+1151 {'@type': 'ListItem', 'position': 1152, 'item': {'@type': 'TVSeries', 'name': '사의 찬미', 'url': 'https://www.netflix.com/kr/title/81042804'}}
+1152 {'@type': 'ListItem', 'position': 1153, 'item': {'@type': 'TVSeries', 'name': '아르나우의 성전', 'url': 'https://www.netflix.com/kr/title/80150507'}}
+1153 {'@type': 'ListItem', 'position': 1154, 'item': {'@type': 'TVSeries', 'name': '드라큘라', 'url': 'https://www.netflix.com/kr/title/80997687'}}
+1154 {'@type': 'ListItem', 'position': 1155, 'item': {'@type': 'TVSeries', 'name': '트로이: 왕국의 몰락', 'url': 'https://www.netflix.com/kr/title/80175352'}}
+1155 {'@type': 'ListItem', 'position': 1156, 'item': {'@type': 'TVSeries', 'name': '나이트폴: 신의 기사단', 'url': 'https://www.netflix.com/kr/title/80161728'}}
+1156 {'@type': 'ListItem', 'position': 1157, 'item': {'@type': 'TVSeries', 'name': '연희공략: 금지옥엽', 'url': 'https://www.netflix.com/kr/title/81203251'}}
+1157 {'@type': 'ListItem', 'position': 1158, 'item': {'@type': 'TVSeries', 'name': '알타 마르: 선상의 살인자', 'url': 'https://www.netflix.com/kr/title/80233258'}}
+1158 {'@type': 'ListItem', 'position': 1159, 'item': {'@type': 'TVSeries', 'name': '프린세스 다이애나', 'url': 'https://www.netflix.com/kr/title/80189024'}}
+1159 {'@type': 'ListItem', 'position': 1160, 'item': {'@type': 'TVSeries', 'name': '셀프 메이드: 마담 C. J. 워커', 'url': 'https://www.netflix.com/kr/title/80202462'}}
+1160 {'@type': 'ListItem', 'position': 1161, 'item': {'@type': 'TVSeries', 'name': '프런티어', 'url': 'https://www.netflix.com/kr/title/80099656'}}
+1161 {'@type': 'ListItem', 'position': 1162, 'item': {'@type': 'TVSeries', 'name': '약초 마스터 통 엑', 'url': 'https://www.netflix.com/kr/title/81140728'}}
+1162 {'@type': 'ListItem', 'position': 1163, 'item': {'@type': 'TVSeries', 'name': '히스토리 101', 'url': 'https://www.netflix.com/kr/title/81116168'}}
+1163 {'@type': 'ListItem', 'position': 1164, 'item': {'@type': 'TVSeries', 'name': '더 리버레이터: 500일의 오디세이', 'url': 'https://www.netflix.com/kr/title/81019775'}}
+1164 {'@type': 'ListItem', 'position': 1165, 'item': {'@type': 'TVSeries', 'name': '더 스파이', 'url': 'https://www.netflix.com/kr/title/80178151'}}
+1165 {'@type': 'ListItem', 'position': 1166, 'item': {'@type': 'TVSeries', 'name': '탱크의 시대', 'url': 'https://www.netflix.com/kr/title/80208213'}}
+1166 {'@type': 'ListItem', 'position': 1167, 'item': {'@type': 'TVSeries', 'name': '라 레볼뤼시옹', 'url': 'https://www.netflix.com/kr/title/80992775'}}
+1167 {'@type': 'ListItem', 'position': 1168, 'item': {'@type': 'TVSeries', 'name': '오, 할리우드', 'url': 'https://www.netflix.com/kr/title/81088617'}}
+1168 {'@type': 'ListItem', 'position': 1169, 'item': {'@type': 'TVSeries', 'name': '히틀러의 이너 서클', 'url': 'https://www.netflix.com/kr/title/80138915'}}
+1169 {'@type': 'ListItem', 'position': 1170, 'item': {'@type': 'TVSeries', 'name': '미스터리 연구소', 'url': 'https://www.netflix.com/kr/title/81020977'}}
+1170 {'@type': 'ListItem', 'position': 1171, 'item': {'@type': 'TVSeries', 'name': '마지막 차르', 'url': 'https://www.netflix.com/kr/title/80211648'}}
+1171 {'@type': 'ListItem', 'position': 1172, 'item': {'@type': 'TVSeries', 'name': '전쟁의 시대', 'url': 'https://www.netflix.com/kr/title/80215322'}}
+1172 {'@type': 'ListItem', 'position': 1173, 'item': {'@type': 'TVSeries', 'name': '잉글리시 게임', 'url': 'https://www.netflix.com/kr/title/80244928'}}
+1173 {'@type': 'ListItem', 'position': 1174, 'item': {'@type': 'TVSeries', 'name': '프랑켄슈타인 연대기', 'url': 'https://www.netflix.com/kr/title/80161335'}}
+1174 {'@type': 'ListItem', 'position': 1175, 'item': {'@type': 'TVSeries', 'name': '의적 얀 더리흐터', 'url': 'https://www.netflix.com/kr/title/81054827'}}
+1175 {'@type': 'ListItem', 'position': 1176, 'item': {'@type': 'TVSeries', 'name': '월드컵, 챔피언을 향한 여정', 'url': 'https://www.netflix.com/kr/title/80226279'}}
+1176 {'@type': 'ListItem', 'position': 1177, 'item': {'@type': 'TVSeries', 'name': '프로이트의 살인 해석', 'url': 'https://www.netflix.com/kr/title/80209184'}}
+1177 {'@type': 'ListItem', 'position': 1178, 'item': {'@type': 'TVSeries', 'name': '명예훈장', 'url': 'https://www.netflix.com/kr/title/80169786'}}
+1178 {'@type': 'ListItem', 'position': 1179, 'item': {'@type': 'TVSeries', 'name': '쿠바 리브레 스토리', 'url': 'https://www.netflix.com/kr/title/80109535'}}
+1179 {'@type': 'ListItem', 'position': 1180, 'item': {'@type': 'TVSeries', 'name': '엠파이어 옥토버페스트', 'url': 'https://www.netflix.com/kr/title/81249469'}}
+1180 {'@type': 'ListItem', 'position': 1181, 'item': {'@type': 'TVSeries', 'name': 'H(아체)', 'url': 'https://www.netflix.com/kr/title/80241387'}}
+1181 {'@type': 'ListItem', 'position': 1182, 'item': {'@type': 'TVSeries', 'name': '챌린저: 마지막 비행', 'url': 'https://www.netflix.com/kr/title/81012137'}}
+1182 {'@type': 'ListItem', 'position': 1183, 'item': {'@type': 'Movie', 'name': '마르코 폴로: 백안', 'url': 'https://www.netflix.com/kr/title/80083594'}}
+1183 {'@type': 'ListItem', 'position': 1184, 'item': {'@type': 'TVSeries', 'name': '벨벳 컬렉션', 'url': 'https://www.netflix.com/kr/title/80215507'}}
+1184 {'@type': 'ListItem', 'position': 1185, 'item': {'@type': 'TVSeries', 'name': '랜드 걸스', 'url': 'https://www.netflix.com/kr/title/70221085'}}
+1185 {'@type': 'ListItem', 'position': 1186, 'item': {'@type': 'TVSeries', 'name': 'Secrets of Great British Castles', 'url': 'https://www.netflix.com/kr/title/80095866'}}
+1186 {'@type': 'ListItem', 'position': 1187, 'item': {'@type': 'TVSeries', 'name': '리벨리언', 'url': 'https://www.netflix.com/kr/title/80094273'}}
+1187 {'@type': 'ListItem', 'position': 1188, 'item': {'@type': 'TVSeries', 'name': '아쿠아리우스', 'url': 'https://www.netflix.com/kr/title/80026224'}}
+1188 {'@type': 'ListItem', 'position': 1189, 'item': {'@type': 'TVSeries', 'name': '신이 없는 계절', 'url': 'https://www.netflix.com/kr/title/80176771'}}
+1189 {'@type': 'ListItem', 'position': 1190, 'item': {'@type': 'TVSeries', 'name': '로버트, 우리가 사랑한 케네디', 'url': 'https://www.netflix.com/kr/title/80174282'}}
+1190 {'@type': 'ListItem', 'position': 1191, 'item': {'@type': 'TVSeries', 'name': '수터블 보이', 'url': 'https://www.netflix.com/kr/title/81308413'}}
+1191 {'@type': 'ListItem', 'position': 1192, 'item': {'@type': 'TVSeries', 'name': '쉬 울프: 잉글랜드 초대 여왕들', 'url': 'https://www.netflix.com/kr/title/80095755'}}
+1192 {'@type': 'ListItem', 'position': 1193, 'item': {'@type': 'TVSeries', 'name': '다섯이 돌아왔다: 할리우드와 2차대전 이야기', 'url': 'https://www.netflix.com/kr/title/80049928'}}
+1193 {'@type': 'ListItem', 'position': 1194, 'item': {'@type': 'TVSeries', 'name': '이파네마의 여인들', 'url': 'https://www.netflix.com/kr/title/80208298'}}
+1194 {'@type': 'ListItem', 'position': 1195, 'item': {'@type': 'TVSeries', 'name': '반역자들', 'url': 'https://www.netflix.com/kr/title/80223793'}}
+1195 {'@type': 'ListItem', 'position': 1196, 'item': {'@type': 'TVSeries', 'name': '도쿄재판', 'url': 'https://www.netflix.com/kr/title/80091880'}}
+1196 {'@type': 'ListItem', 'position': 1197, 'item': {'@type': 'TVSeries', 'name': '익스플레인: 투표를 해설하다', 'url': 'https://www.netflix.com/kr/title/81304760'}}
+1197 {'@type': 'ListItem', 'position': 1198, 'item': {'@type': 'TVSeries', 'name': '천하무림기행', 'url': 'https://www.netflix.com/kr/title/80158474'}}
+1198 {'@type': 'ListItem', 'position': 1199, 'item': {'@type': 'TVSeries', 'name': '비커밍 에이전트: 나치에 맞서라', 'url': 'https://www.netflix.com/kr/title/80195811'}}
+1199 {'@type': 'ListItem', 'position': 1200, 'item': {'@type': 'TVSeries', 'name': '보랏빛 다다오청', 'url': 'https://www.netflix.com/kr/title/81020668'}}
+1200 {'@type': 'ListItem', 'position': 1201, 'item': {'@type': 'TVSeries', 'name': '페파 피그', 'url': 'https://www.netflix.com/kr/title/80025494'}}
+1201 {'@type': 'ListItem', 'position': 1202, 'item': {'@type': 'TVSeries', 'name': '겁쟁이 페달', 'url': 'https://www.netflix.com/kr/title/80061943'}}
+1202 {'@type': 'ListItem', 'position': 1203, 'item': {'@type': 'TVSeries', 'name': '엉덩이 탐정', 'url': 'https://www.netflix.com/kr/title/80992180'}}
+1203 {'@type': 'ListItem', 'position': 1204, 'item': {'@type': 'TVSeries', 'name': '드래곤 길들이기: 세상 끝으로', 'url': 'https://www.netflix.com/kr/title/80039394'}}
+1204 {'@type': 'ListItem', 'position': 1205, 'item': {'@type': 'TVSeries', 'name': '꼴찌 마녀 밀드레드', 'url': 'https://www.netflix.com/kr/title/80130521'}}
+1205 {'@type': 'ListItem', 'position': 1206, 'item': {'@type': 'TVSeries', 'name': '애로우', 'url': 'https://www.netflix.com/kr/title/70242081'}}
+1206 {'@type': 'ListItem', 'position': 1207, 'item': {'@type': 'TVSeries', 'name': '검볼', 'url': 'https://www.netflix.com/kr/title/70243420'}}
+1207 {'@type': 'ListItem', 'position': 1208, 'item': {'@type': 'TVSeries', 'name': '라스트 킹덤', 'url': 'https://www.netflix.com/kr/title/80074249'}}
+1208 {'@type': 'ListItem', 'position': 1209, 'item': {'@type': 'TVSeries', 'name': '마이클 조던: 더 라스트 댄스', 'url': 'https://www.netflix.com/kr/title/80203144'}}
+1209 {'@type': 'ListItem', 'position': 1210, 'item': {'@type': 'TVSeries', 'name': '암살교실', 'url': 'https://www.netflix.com/kr/title/80045948'}}
+1210 {'@type': 'ListItem', 'position': 1211, 'item': {'@type': 'TVSeries', 'name': '더 크라운', 'url': 'https://www.netflix.com/kr/title/80025678'}}
+1211 {'@type': 'ListItem', 'position': 1212, 'item': {'@type': 'TVSeries', 'name': '플래시', 'url': 'https://www.netflix.com/kr/title/80027042'}}
+1212 {'@type': 'ListItem', 'position': 1213, 'item': {'@type': 'TVSeries', 'name': '홈랜드', 'url': 'https://www.netflix.com/kr/title/70180387'}}
+1213 {'@type': 'ListItem', 'position': 1214, 'item': {'@type': 'TVSeries', 'name': '위쳐', 'url': 'https://www.netflix.com/kr/title/80189685'}}
+1214 {'@type': 'ListItem', 'position': 1215, 'item': {'@type': 'TVSeries', 'name': '쥬라기 월드: 백악기 어드벤처', 'url': 'https://www.netflix.com/kr/title/81009646'}}
+1215 {'@type': 'ListItem', 'position': 1216, 'item': {'@type': 'TVSeries', 'name': '더블 타겟', 'url': 'https://www.netflix.com/kr/title/80109194'}}
+1216 {'@type': 'ListItem', 'position': 1217, 'item': {'@type': 'TVSeries', 'name': '사브리나의 오싹한 모험', 'url': 'https://www.netflix.com/kr/title/80223989'}}
+1217 {'@type': 'ListItem', 'position': 1218, 'item': {'@type': 'TVSeries', 'name': '카케구루이', 'url': 'https://www.netflix.com/kr/title/80175351'}}
+1218 {'@type': 'ListItem', 'position': 1219, 'item': {'@type': 'TVSeries', 'name': '범죄의 재구성', 'url': 'https://www.netflix.com/kr/title/80024057'}}
+1219 {'@type': 'ListItem', 'position': 1220, 'item': {'@type': 'TVSeries', 'name': '마샤와 곰', 'url': 'https://www.netflix.com/kr/title/70286901'}}
+1220 {'@type': 'ListItem', 'position': 1221, 'item': {'@type': 'TVSeries', 'name': '엘리트들', 'url': 'https://www.netflix.com/kr/title/80200942'}}
+1221 {'@type': 'ListItem', 'position': 1222, 'item': {'@type': 'TVSeries', 'name': '블리치', 'url': 'https://www.netflix.com/kr/title/70204957'}}
+1222 {'@type': 'ListItem', 'position': 1223, 'item': {'@type': 'TVSeries', 'name': '길모어 걸스', 'url': 'https://www.netflix.com/kr/title/70155618'}}
+1223 {'@type': 'ListItem', 'position': 1224, 'item': {'@type': 'TVSeries', 'name': '엄브렐러 아카데미', 'url': 'https://www.netflix.com/kr/title/80186863'}}
+1224 {'@type': 'ListItem', 'position': 1225, 'item': {'@type': 'TVSeries', 'name': '핀과 제이크의 어드벤처 타임', 'url': 'https://www.netflix.com/kr/title/70241425'}}
+1225 {'@type': 'ListItem', 'position': 1226, 'item': {'@type': 'TVSeries', 'name': '아웃랜더', 'url': 'https://www.netflix.com/kr/title/70285581'}}
+1226 {'@type': 'ListItem', 'position': 1227, 'item': {'@type': 'TVSeries', 'name': '오티스의 비밀 상담소', 'url': 'https://www.netflix.com/kr/title/80197526'}}
+1227 {'@type': 'ListItem', 'position': 1228, 'item': {'@type': 'TVSeries', 'name': '굿 플레이스', 'url': 'https://www.netflix.com/kr/title/80113701'}}
+1228 {'@type': 'ListItem', 'position': 1229, 'item': {'@type': 'TVSeries', 'name': '너의 모든 것', 'url': 'https://www.netflix.com/kr/title/80211991'}}
+1229 {'@type': 'ListItem', 'position': 1230, 'item': {'@type': 'TVSeries', 'name': '코라의 전설', 'url': 'https://www.netflix.com/kr/title/80027563'}}
+1230 {'@type': 'ListItem', 'position': 1231, 'item': {'@type': 'TVSeries', 'name': '미라큘러스: 레이디버그와 블랙캣', 'url': 'https://www.netflix.com/kr/title/80164216'}}
+1231 {'@type': 'ListItem', 'position': 1232, 'item': {'@type': 'TVSeries', 'name': '아름다웠던 우리에게', 'url': 'https://www.netflix.com/kr/title/80239640'}}
+1232 {'@type': 'ListItem', 'position': 1233, 'item': {'@type': 'TVSeries', 'name': 'F1, 본능의 질주', 'url': 'https://www.netflix.com/kr/title/80204890'}}
+1233 {'@type': 'ListItem', 'position': 1234, 'item': {'@type': 'TVSeries', 'name': '로스트 인 스페이스', 'url': 'https://www.netflix.com/kr/title/80104198'}}
+1234 {'@type': 'ListItem', 'position': 1235, 'item': {'@type': 'TVSeries', 'name': '출동! 파자마 삼총사', 'url': 'https://www.netflix.com/kr/title/80187223'}}
+1235 {'@type': 'ListItem', 'position': 1236, 'item': {'@type': 'TVSeries', 'name': '치아문난난적소시광: 우리의 따뜻했던 시절에게', 'url': 'https://www.netflix.com/kr/title/81200229'}}
+1236 {'@type': 'ListItem', 'position': 1237, 'item': {'@type': 'TVSeries', 'name': '10대 사건으로 보는 제2차 세계대전', 'url': 'https://www.netflix.com/kr/title/80989924'}}
+1237 {'@type': 'ListItem', 'position': 1238, 'item': {'@type': 'TVSeries', 'name': '코코멜론', 'url': 'https://www.netflix.com/kr/title/81273085'}}
+1238 {'@type': 'ListItem', 'position': 1239, 'item': {'@type': 'TVSeries', 'name': '아리스 인 보더랜드', 'url': 'https://www.netflix.com/kr/title/80200575'}}
+1239 {'@type': 'ListItem', 'position': 1240, 'item': {'@type': 'TVSeries', 'name': '스타트렉: 디스커버리', 'url': 'https://www.netflix.com/kr/title/80126024'}}
+1240 {'@type': 'ListItem', 'position': 1241, 'item': {'@type': 'TVSeries', 'name': '코브라 카이', 'url': 'https://www.netflix.com/kr/title/81002370'}}
+1241 {'@type': 'ListItem', 'position': 1242, 'item': {'@type': 'TVSeries', 'name': '마인크래프트: 스토리 모드', 'url': 'https://www.netflix.com/kr/title/80227995'}}
+1242 {'@type': 'ListItem', 'position': 1243, 'item': {'@type': 'TVSeries', 'name': '마이 리틀 포니: 우정은 마법', 'url': 'https://www.netflix.com/kr/title/70234440'}}
+1243 {'@type': 'ListItem', 'position': 1244, 'item': {'@type': 'TVSeries', 'name': '문호 스트레이독스', 'url': 'https://www.netflix.com/kr/title/80132126'}}
+1244 {'@type': 'ListItem', 'position': 1245, 'item': {'@type': 'TVSeries', 'name': '나르코스', 'url': 'https://www.netflix.com/kr/title/80025172'}}
+1245 {'@type': 'ListItem', 'position': 1246, 'item': {'@type': 'TVSeries', 'name': '코드 기어스: 반역의 를르슈', 'url': 'https://www.netflix.com/kr/title/80065146'}}
+1246 {'@type': 'ListItem', 'position': 1247, 'item': {'@type': 'TVSeries', 'name': '아픈 건 싫으니까 방어력에 올인하려고 합니다', 'url': 'https://www.netflix.com/kr/title/81234294'}}
+1247 {'@type': 'ListItem', 'position': 1248, 'item': {'@type': 'TVSeries', 'name': '남부의 여왕', 'url': 'https://www.netflix.com/kr/title/80107369'}}
+1248 {'@type': 'ListItem', 'position': 1249, 'item': {'@type': 'TVSeries', 'name': '메시아', 'url': 'https://www.netflix.com/kr/title/80117557'}}
+1249 {'@type': 'ListItem', 'position': 1250, 'item': {'@type': 'TVSeries', 'name': '내가 그녀를 만났을 때', 'url': 'https://www.netflix.com/kr/title/70143824'}}
+1250 {'@type': 'ListItem', 'position': 1251, 'item': {'@type': 'TVSeries', 'name': '베스트 탐정단', 'url': 'https://www.netflix.com/kr/title/80243216'}}
+1251 {'@type': 'ListItem', 'position': 1252, 'item': {'@type': 'TVSeries', 'name': '그리지와 레밍스', 'url': 'https://www.netflix.com/kr/title/81154166'}}
+1252 {'@type': 'ListItem', 'position': 1253, 'item': {'@type': 'TVSeries', 'name': '페어리 테일', 'url': 'https://www.netflix.com/kr/title/70266998'}}
+1253 {'@type': 'ListItem', 'position': 1254, 'item': {'@type': 'TVSeries', 'name': '빌어먹을 세상 따위', 'url': 'https://www.netflix.com/kr/title/80175722'}}
+1254 {'@type': 'ListItem', 'position': 1255, 'item': {'@type': 'TVSeries', 'name': '빨강머리 백설공주', 'url': 'https://www.netflix.com/kr/title/80220658'}}
+1255 {'@type': 'ListItem', 'position': 1256, 'item': {'@type': 'TVSeries', 'name': '오자크', 'url': 'https://www.netflix.com/kr/title/80117552'}}
+1256 {'@type': 'ListItem', 'position': 1257, 'item': {'@type': 'TVSeries', 'name': '슈퍼걸', 'url': 'https://www.netflix.com/kr/title/80065386'}}
+1257 {'@type': 'ListItem', 'position': 1258, 'item': {'@type': 'TVSeries', 'name': '김씨네 편의점', 'url': 'https://www.netflix.com/kr/title/80199128'}}
+1258 {'@type': 'ListItem', 'position': 1259, 'item': {'@type': 'TVSeries', 'name': '종말의 세라프', 'url': 'https://www.netflix.com/kr/title/80200989'}}
+1259 {'@type': 'ListItem', 'position': 1260, 'item': {'@type': 'TVSeries', 'name': '베이블레이드 버스트 갓', 'url': 'https://www.netflix.com/kr/title/81018295'}}
+1260 {'@type': 'ListItem', 'position': 1261, 'item': {'@type': 'TVSeries', 'name': '어서 오세요 실력지상주의 교실에', 'url': 'https://www.netflix.com/kr/title/80193178'}}
+1261 {'@type': 'ListItem', 'position': 1262, 'item': {'@type': 'TVSeries', 'name': '나츠메 우인장', 'url': 'https://www.netflix.com/kr/title/81032481'}}
+1262 {'@type': 'ListItem', 'position': 1263, 'item': {'@type': 'TVSeries', 'name': '힐다', 'url': 'https://www.netflix.com/kr/title/80115346'}}
+1263 {'@type': 'ListItem', 'position': 1264, 'item': {'@type': 'TVSeries', 'name': '친애적, 열애적', 'url': 'https://www.netflix.com/kr/title/81197425'}}
+1264 {'@type': 'ListItem', 'position': 1265, 'item': {'@type': 'TVSeries', 'name': '디스인챈트', 'url': 'https://www.netflix.com/kr/title/80095697'}}
+1265 {'@type': 'ListItem', 'position': 1266, 'item': {'@type': 'TVSeries', 'name': '나만이 없는 거리', 'url': 'https://www.netflix.com/kr/title/80114225'}}
+1266 {'@type': 'ListItem', 'position': 1267, 'item': {'@type': 'TVSeries', 'name': '베터 콜 사울', 'url': 'https://www.netflix.com/kr/title/80021955'}}
+1267 {'@type': 'ListItem', 'position': 1268, 'item': {'@type': 'TVSeries', 'name': '하우스 오브 카드', 'url': 'https://www.netflix.com/kr/title/70178217'}}
+1268 {'@type': 'ListItem', 'position': 1269, 'item': {'@type': 'TVSeries', 'name': '블랙 미러', 'url': 'https://www.netflix.com/kr/title/70264888'}}
+1269 {'@type': 'ListItem', 'position': 1270, 'item': {'@type': 'TVSeries', 'name': '마인드헌터', 'url': 'https://www.netflix.com/kr/title/80114855'}}
+1270 {'@type': 'ListItem', 'position': 1271, 'item': {'@type': 'TVSeries', 'name': '루머의 루머의 루머', 'url': 'https://www.netflix.com/kr/title/80117470'}}
+1271 {'@type': 'ListItem', 'position': 1272, 'item': {'@type': 'TVSeries', 'name': '삼국지 (극장판)', 'url': 'https://www.netflix.com/kr/title/81293372'}}
+1272 {'@type': 'ListItem', 'position': 1273, 'item': {'@type': 'TVSeries', 'name': '코바야시네 메이드래곤', 'url': 'https://www.netflix.com/kr/title/80186349'}}
+1273 {'@type': 'ListItem', 'position': 1274, 'item': {'@type': 'TVSeries', 'name': '피키 블라인더스', 'url': 'https://www.netflix.com/kr/title/80002479'}}
+1274 {'@type': 'ListItem', 'position': 1275, 'item': {'@type': 'TVSeries', 'name': '절대쌍교', 'url': 'https://www.netflix.com/kr/title/80996973'}}

@@ -10,39 +10,25 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from pyvirtualdisplay import Display
 
-gerne_movie = 34399
-gerne_tv = 83
-korea_movie = 5685
+from parser import Parser
 
-class Parser():
-    driver = None;
-    display = None;
-    
+class NetflixParser(Parser):
+    main_url = 'https://www.netflix.com/kr/'
     movie_genre_url = 'https://www.netflix.com/kr/browse/genre/34399'
     movie_korea_url = 'https://www.netflix.com/kr/browse/genre/5685'
     tv_germe_url    = 'https://www.netflix.com/kr/browse/genre/83'
 
     contents_list = []
-
-    def __init__(self):
-        self.display = Display(visible=0, size=(1024,768))
-        self.display.start()
     
-        self.driver = webdriver.Chrome('../lib/chromedriver')
-        self.driver.implicitly_wait(50)
-    def __del__(self):
-        print('delete chrome')
-        self.driver.close()
-        self.display.stop()
+    def __init__(self):
+        super().__init__()
 
-    def run(self):
-        self.get_contents_list()
-        self.login()
+    def __del__(self):
+        super().__del__()
 
     def login(self):
         ## 1. move start url
-        url = 'https://www.netflix.com/kr/'
-        self.driver.get(url=url)
+        self.driver.get(url=self.main_url)
         print(self.driver.current_url)
         
         ## 2. move login url
@@ -90,8 +76,10 @@ class Parser():
             self.contents_list.append(d)
         return self.contents_list;
 
+
+
 if __name__ == '__main__':
-    tool = Parser();
+    tool = NetflixParser();
 
     tool.search_contents_list()
     tool.login()
