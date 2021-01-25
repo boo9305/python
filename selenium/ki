@@ -1,0 +1,5 @@
+#!/bin/zsh
+killall /opt/google/chrome/chrome
+killall chromedriver
+killall chrome
+killall Xvfb
